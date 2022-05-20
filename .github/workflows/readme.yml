@@ -9,7 +9,8 @@ jobs:
       - uses: actions/checkout@v3
       - name: Install
         run: |
-          sudo apt install -yq jq pandoc ruby
+          sudo apt install -yq pandoc ruby
+          bundle install
           ruby generate.rb > README.md
       - name: commit README.md
         run: |
