@@ -1,0 +1,12 @@
+on:
+  schedule:
+    - cron: '35 4 * * *'
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate
+        run: |
+          ./generate.sh
