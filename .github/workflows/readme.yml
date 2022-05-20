@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate
+      - name: Install
         run: |
-          bundle install
-          bundle exec ruby generate.rb
+          sudo apt install -yq pandoc ruby
+          ruby generate.rb
