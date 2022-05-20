@@ -1,24 +1,27 @@
 require "gems"
-require "json"
 
-result = []
+results = []
 i = 1
 
 begin
   arr = Gems.search("bio-", page: i)
-  result.concat(arr)
+  results.concat(arr)
   i += 1
   sleep 0.5
 end while arr.size == 30
 
-json = JSON.generate(result)
-JSON.parse(json) # validate
+puts "# Bio Gems"
+puts
 
-require "open3"
-
-Open3.popen3('jq -r \'to_entries[] | "* \(.key)", "  * \(.value[])"\'') do |i, o, e, wt|
-  i.puts json
-  i.close
-  puts o.read
-  warn e.read
+results.each do |r|
+  puts "## #{r["name"]}"
+  puts
+  puts r["info"] && r.delete("info")
+  puts
+  puts "|key|value|"
+  puts "|---|-----|"
+  r.each do |k,v|
+    puts "|#{k}|#{v}|" if v
+  end
+  puts
 end
