@@ -17,7 +17,7 @@ BioRuby is a library for bioinformatics (biology + information science).
 |source_code_uri|https://github.com/bioruby/bioruby/|
 |licenses|["Ruby"]|
 |gem_uri|https://rubygems.org/gems/bio-2.0.3.gem|
-|downloads|403644|
+|downloads|403645|
 |mailing_list_uri|http://lists.open-bio.org/mailman/listinfo/bioruby|
 |name|bio|
 |wiki_uri|http://bioruby.open-bio.org/wiki/|
@@ -241,9 +241,9 @@ This library provides support for BGZF (Blocked GZip Format) in Ruby. BGZF, orig
 |sha|29556916ce8a4b69d7bd69db7748df04d4c3c1ea94285f70160e4f545608812c|
 |platform|ruby|
 |gem_uri|https://rubygems.org/gems/bio-bgzf-0.2.1.gem|
-|downloads|31404|
+|downloads|31406|
 |name|bio-bgzf|
-|version_downloads|21826|
+|version_downloads|21828|
 |authors|Artem Tarasov, Clayton Wheeler|
 
 ## bio-band
@@ -1221,6 +1221,26 @@ Bioinformatics. Aggregate FastQC (quality control for Next Generation Sequencing
 |version_downloads|2620|
 |authors|Raoul Jean Pierre Bonnal|
 
+## bio-gfastqc
+
+Bioinformatics. Aggregate FastQC (quality control for Next Generation Sequencing -NGS-) results from many different samples in a single web page, with charts and tables organized and simplified. The main goal is to speed up the communication process with colleagues (PIs, Biologists, BioInformaticians).
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/bio-gfastqc/0.0.4|
+|metadata|{}|
+|homepage_uri|http://github.com/helios/bioruby-gfastqc|
+|project_uri|https://rubygems.org/gems/bio-gfastqc|
+|version|0.0.4|
+|sha|66fe6425db289603d24533388b8c6734ca4de5a8843dbb817c6bbde4d5f71815|
+|platform|ruby|
+|licenses|["MIT"]|
+|gem_uri|https://rubygems.org/gems/bio-gfastqc-0.0.4.gem|
+|downloads|4731|
+|name|bio-gfastqc|
+|version_downloads|2620|
+|authors|Raoul Jean Pierre Bonnal|
+
 ## bio-sge
 
 Entries in a flatfile will be parased by the BioRuby's Bio::FlatFile.auto module. These entries are used as queries for the Sun Grid Engine (SGE) system. Huge amount of queries are automatically splitted into subdirectories. With a specified command line to be executed, queries are submited to the SGE as an array job.
@@ -1239,26 +1259,6 @@ Entries in a flatfile will be parased by the BioRuby's Bio::FlatFile.auto module
 |name|bio-sge|
 |version_downloads|4719|
 |authors|Toshiaki Katayama|
-
-## bio-kmer_counter
-
-A biogem for counting small kmers for fingerprinting nucleotide sequences. See README for details.
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/bio-kmer_counter/0.1.2|
-|metadata|{}|
-|homepage_uri|http://github.com/wwood/bioruby-kmer_counter|
-|project_uri|https://rubygems.org/gems/bio-kmer_counter|
-|version|0.1.2|
-|sha|fdc8fd8bea74a468545f05d9b12375f65657dffcffd7c1dd25ee2af423b27826|
-|platform|ruby|
-|licenses|["MIT"]|
-|gem_uri|https://rubygems.org/gems/bio-kmer_counter-0.1.2.gem|
-|downloads|19380|
-|name|bio-kmer_counter|
-|version_downloads|3699|
-|authors|Ben J Woodcroft|
 
 ## bio-freebayes
 
@@ -1645,6 +1645,25 @@ a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and overlap
 |version_downloads|6412|
 |authors|Hiroyuki Mishima|
 
+## bio-nwk
+
+Some codes for parsing newick tree
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/bio-nwk/0.1.4|
+|metadata|{}|
+|project_uri|https://rubygems.org/gems/bio-nwk|
+|version|0.1.4|
+|sha|d32005e7e74a43acf247f528bcca2f54cbb74954b7fb1c17eeecfb5bf4d7a7d5|
+|platform|ruby|
+|licenses|["MIT"]|
+|gem_uri|https://rubygems.org/gems/bio-nwk-0.1.4.gem|
+|downloads|3284|
+|name|bio-nwk|
+|version_downloads|253|
+|authors|Sishuo Wang|
+
 ## bioruby-bio
 
 BioRuby is a library for bioinformatics (biology + information science).
@@ -1664,25 +1683,6 @@ BioRuby is a library for bioinformatics (biology + information science).
 |name|bioruby-bio|
 |version_downloads|3136|
 |authors|BioRuby project|
-
-## bio-nwk
-
-Some codes for parsing newick tree
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/bio-nwk/0.1.4|
-|metadata|{}|
-|project_uri|https://rubygems.org/gems/bio-nwk|
-|version|0.1.4|
-|sha|d32005e7e74a43acf247f528bcca2f54cbb74954b7fb1c17eeecfb5bf4d7a7d5|
-|platform|ruby|
-|licenses|["MIT"]|
-|gem_uri|https://rubygems.org/gems/bio-nwk-0.1.4.gem|
-|downloads|3284|
-|name|bio-nwk|
-|version_downloads|253|
-|authors|Sishuo Wang|
 
 ## bio-gemma-wrapper
 
@@ -1906,26 +1906,6 @@ A pipeline creator for bioruby
 |version_downloads|2567|
 |authors|Natapol Pornputtapong|
 
-## ngoto-bio
-
-BioRuby is a library for bioinformatics (biology + information science).
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/ngoto-bio/1.3.1.5000|
-|metadata|{}|
-|homepage_uri|http://bioruby.org/|
-|project_uri|https://rubygems.org/gems/ngoto-bio|
-|version|1.3.1.5000|
-|sha|a13d7d3b16b794f65f9c397d34a4e7ac13b9de613d9eccc0781639ec179470b1|
-|platform|ruby|
-|licenses|[]|
-|gem_uri|https://rubygems.org/gems/ngoto-bio-1.3.1.5000.gem|
-|downloads|9688|
-|name|ngoto-bio|
-|version_downloads|2521|
-|authors|BioRuby project|
-
 ## bio-plates
 
 Methods for handling multiwell plate annotations, includes ranges and quadrants
@@ -1965,6 +1945,26 @@ Provide access to the IlluminaHumanAnnotations. Database comes form Bioconductor
 |name|bio-kb-illumina|
 |version_downloads|4674|
 |authors|Raoul J.P. Bonnal|
+
+## ngoto-bio
+
+BioRuby is a library for bioinformatics (biology + information science).
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/ngoto-bio/1.3.1.5000|
+|metadata|{}|
+|homepage_uri|http://bioruby.org/|
+|project_uri|https://rubygems.org/gems/ngoto-bio|
+|version|1.3.1.5000|
+|sha|a13d7d3b16b794f65f9c397d34a4e7ac13b9de613d9eccc0781639ec179470b1|
+|platform|ruby|
+|licenses|[]|
+|gem_uri|https://rubygems.org/gems/ngoto-bio-1.3.1.5000.gem|
+|downloads|9688|
+|name|ngoto-bio|
+|version_downloads|2521|
+|authors|BioRuby project|
 
 ## bio-biostars-analytics
 
@@ -2186,26 +2186,6 @@ Statsample-GLM is an extension to Statsample, an advance statistics suite in Rub
 |version_downloads|3435|
 |authors|Ankur Goel|
 
-## muscle_bio
-
-Multiple Sequence Alignment for Ruby scripts.  Muscle found at https://www.ebi.ac.uk/Tools/msa/muscle/.  For instructions on how to use, see https://github.com/clarkmu/muscle_bio
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/muscle_bio/0.5.0|
-|metadata|{}|
-|homepage_uri|http://swanstrom.web.unc.edu/|
-|project_uri|https://rubygems.org/gems/muscle_bio|
-|version|0.5.0|
-|sha|99b6cdeb4e6a11b83f6c74f0dde6f451eafc5a8d40b3292206b7b718656e5162|
-|platform|ruby|
-|licenses|["MIT"]|
-|gem_uri|https://rubygems.org/gems/muscle_bio-0.5.0.gem|
-|downloads|6032|
-|name|muscle_bio|
-|version_downloads|512|
-|authors|Michael Clark|
-
 ## bio-samtools-server
 
 A minimal web service on the top of sinatra to query bam files
@@ -2225,6 +2205,26 @@ A minimal web service on the top of sinatra to query bam files
 |name|bio-samtools-server|
 |version_downloads|3138|
 |authors|homonecloco|
+
+## muscle_bio
+
+Multiple Sequence Alignment for Ruby scripts.  Muscle found at https://www.ebi.ac.uk/Tools/msa/muscle/.  For instructions on how to use, see https://github.com/clarkmu/muscle_bio
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/muscle_bio/0.5.0|
+|metadata|{}|
+|homepage_uri|http://swanstrom.web.unc.edu/|
+|project_uri|https://rubygems.org/gems/muscle_bio|
+|version|0.5.0|
+|sha|99b6cdeb4e6a11b83f6c74f0dde6f451eafc5a8d40b3292206b7b718656e5162|
+|platform|ruby|
+|licenses|["MIT"]|
+|gem_uri|https://rubygems.org/gems/muscle_bio-0.5.0.gem|
+|downloads|6032|
+|name|muscle_bio|
+|version_downloads|512|
+|authors|Michael Clark|
 
 ## bio-restriction_enzyme
 
@@ -2452,25 +2452,25 @@ This is a BioRuby plugin providing FALDO location RDF output method for Bio::Loc
 |version_downloads|2945|
 |authors|Joachim Baran, Naohisa Goto|
 
-## edward-bio
+## bio-sparql-client
 
-This gem provides a command line tool that outputs a short version of Edward Ocampo-Gooding’s biography.
+A ruby wrapper for bio SPARQL service
 
 |key|value|
 |---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/edward-bio/0.0.1|
+|documentation_uri|https://www.rubydoc.info/gems/bio-sparql-client/0.0.1|
 |metadata|{}|
-|homepage_uri|http://edwardog.net|
-|project_uri|https://rubygems.org/gems/edward-bio|
+|homepage_uri|http://rubygems.org/gems/bio-sparql-client|
+|project_uri|https://rubygems.org/gems/bio-sparql-client|
 |version|0.0.1|
-|sha|8cf4ed40d1351457b9c5097f18fcfd37c8bdccb4a9b3f33825a5098bd4470d70|
+|sha|dfa5c8a7d3d4b17c9d6a283ac6b0d366e96c1daf6380f0df6fa93076dfc075bd|
 |platform|ruby|
-|licenses|["MIT"]|
-|gem_uri|https://rubygems.org/gems/edward-bio-0.0.1.gem|
-|downloads|3049|
-|name|edward-bio|
-|version_downloads|3049|
-|authors|Edward Ocampo-Gooding|
+|licenses|["GPL-3.0"]|
+|gem_uri|https://rubygems.org/gems/bio-sparql-client-0.0.1.gem|
+|downloads|2804|
+|name|bio-sparql-client|
+|version_downloads|2804|
+|authors|Natapol Pornputtapong|
 
 ## edward-bio
 
@@ -2926,9 +2926,9 @@ This is an extension of the faker gem, allowing stoked bros and brodies to effor
 |platform|ruby|
 |licenses|["MIT"]|
 |gem_uri|https://rubygems.org/gems/faker-stoked-0.3.1.gem|
-|downloads|139270|
+|downloads|139271|
 |name|faker-stoked|
-|version_downloads|96381|
+|version_downloads|96382|
 |authors|schadenfred|
 
 ## geni-svgenes
