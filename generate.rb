@@ -14,4 +14,11 @@ end while arr.size == 30
 json = JSON.generate(result)
 JSON.parse(json) # validate
 
-puts json
+require "open3"
+
+Open3.popen3('jq -r \'to_entries[] | "* \(.key)", "  * \(.value[])"\'') do |i, o, e, wt|
+  i.puts json
+  i.close
+  puts o.read
+  warn e.read
+end
