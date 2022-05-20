@@ -9,4 +9,5 @@ jobs:
       - uses: actions/checkout@v3
       - name: Generate
         run: |
-          ./generate.sh
+          bundle install
+          bundle exec ruby generate.rb
