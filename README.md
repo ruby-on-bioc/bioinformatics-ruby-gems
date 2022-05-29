@@ -17,11 +17,11 @@ BioRuby is a library for bioinformatics (biology + information science).
 |source_code_uri|https://github.com/bioruby/bioruby/|
 |licenses|["Ruby"]|
 |gem_uri|https://rubygems.org/gems/bio-2.0.3.gem|
-|downloads|404733|
+|downloads|404791|
 |mailing_list_uri|http://lists.open-bio.org/mailman/listinfo/bioruby|
 |name|bio|
 |wiki_uri|http://bioruby.open-bio.org/wiki/|
-|version_downloads|16681|
+|version_downloads|16710|
 |authors|BioRuby project|
 
 ## bio-samtools
@@ -241,9 +241,9 @@ This library provides support for BGZF (Blocked GZip Format) in Ruby. BGZF, orig
 |sha|29556916ce8a4b69d7bd69db7748df04d4c3c1ea94285f70160e4f545608812c|
 |platform|ruby|
 |gem_uri|https://rubygems.org/gems/bio-bgzf-0.2.1.gem|
-|downloads|32087|
+|downloads|32092|
 |name|bio-bgzf|
-|version_downloads|22491|
+|version_downloads|22496|
 |authors|Artem Tarasov, Clayton Wheeler|
 
 ## bio-band
@@ -280,9 +280,9 @@ Log4r wrapper for BioRuby
 |sha|4834e677a7350a276486128f587f90d3d59f59b0d06e7abfffb84d8bbca3fe0a|
 |platform|ruby|
 |gem_uri|https://rubygems.org/gems/bio-logger-1.0.1.gem|
-|downloads|30270|
+|downloads|30271|
 |name|bio-logger|
-|version_downloads|14393|
+|version_downloads|14394|
 |authors|Pjotr Prins|
 
 ## bio-alignment
@@ -560,9 +560,9 @@ A dead simple method of running shell commands from within Ruby, by applying opi
 |platform|ruby|
 |licenses|["MIT"]|
 |gem_uri|https://rubygems.org/gems/bio-commandeer-0.4.0.gem|
-|downloads|16339|
+|downloads|16340|
 |name|bio-commandeer|
-|version_downloads|2260|
+|version_downloads|2261|
 |authors|Ben J. Woodcroft|
 
 ## bio-assembly
@@ -1013,9 +1013,9 @@ BaseSpace Ruby SDK is a Ruby based Software Development Kit to be used in the de
 |platform|ruby|
 |licenses|["Apache, Version 2.0"]|
 |gem_uri|https://rubygems.org/gems/bio-basespace-sdk-0.1.7.gem|
-|downloads|35158|
+|downloads|35160|
 |name|bio-basespace-sdk|
-|version_downloads|24064|
+|version_downloads|24066|
 |authors|Joachim Baran, Raoul Bonnal, Eri Kibukawa, Francesco Strozzi, Toshiaki Katayama|
 
 ## bio-gag
@@ -1679,9 +1679,9 @@ GEMMA wrapper adds LOCO and permutation support. Also runs in parallel and cache
 |platform|ruby|
 |licenses|["GPL3"]|
 |gem_uri|https://rubygems.org/gems/bio-gemma-wrapper-0.99.6.gem|
-|downloads|12580|
+|downloads|12581|
 |name|bio-gemma-wrapper|
-|version_downloads|606|
+|version_downloads|607|
 |authors|Pjotr Prins|
 
 ## bioruby-bio
@@ -2472,26 +2472,6 @@ A ruby wrapper for bio SPARQL service
 |version_downloads|2813|
 |authors|Natapol Pornputtapong|
 
-## bio-sparql-client
-
-A ruby wrapper for bio SPARQL service
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/bio-sparql-client/0.0.1|
-|metadata|{}|
-|homepage_uri|http://rubygems.org/gems/bio-sparql-client|
-|project_uri|https://rubygems.org/gems/bio-sparql-client|
-|version|0.0.1|
-|sha|dfa5c8a7d3d4b17c9d6a283ac6b0d366e96c1daf6380f0df6fa93076dfc075bd|
-|platform|ruby|
-|licenses|["GPL-3.0"]|
-|gem_uri|https://rubygems.org/gems/bio-sparql-client-0.0.1.gem|
-|downloads|2813|
-|name|bio-sparql-client|
-|version_downloads|2813|
-|authors|Natapol Pornputtapong|
-
 ## bio-wolf_psort_wrapper
 
 Enables the localisation predictor WoLF PSORT to be run locally. The algorithm is available at http://wolfpsort.org/
@@ -2511,6 +2491,26 @@ Enables the localisation predictor WoLF PSORT to be run locally. The algorithm i
 |version_downloads|4260|
 |authors|Ben J Woodcroft|
 
+## edward-bio
+
+This gem provides a command line tool that outputs a short version of Edward Ocampo-Gooding’s biography.
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/edward-bio/0.0.1|
+|metadata|{}|
+|homepage_uri|http://edwardog.net|
+|project_uri|https://rubygems.org/gems/edward-bio|
+|version|0.0.1|
+|sha|8cf4ed40d1351457b9c5097f18fcfd37c8bdccb4a9b3f33825a5098bd4470d70|
+|platform|ruby|
+|licenses|["MIT"]|
+|gem_uri|https://rubygems.org/gems/edward-bio-0.0.1.gem|
+|downloads|3057|
+|name|edward-bio|
+|version_downloads|3057|
+|authors|Edward Ocampo-Gooding|
+
 ## tyler_bio
 
 Outputs a short bio  of Tyler
@@ -2526,9 +2526,9 @@ Outputs a short bio  of Tyler
 |platform|ruby|
 |licenses|["MIT"]|
 |gem_uri|https://rubygems.org/gems/tyler_bio-0.0.1.gem|
-|downloads|2876|
+|downloads|2879|
 |name|tyler_bio|
-|version_downloads|2876|
+|version_downloads|2879|
 |authors|Tyler Sangster|
 
 ## lucas_bio
@@ -2586,30 +2586,10 @@ This gem tells you about me
 |platform|ruby|
 |licenses|["MIT"]|
 |gem_uri|https://rubygems.org/gems/tom_bio-0.0.1.gem|
-|downloads|2806|
+|downloads|2809|
 |name|tom_bio|
-|version_downloads|2806|
+|version_downloads|2809|
 |authors|twillw|
-
-## jandot-bio
-
-BioRuby is a library for bioinformatics (biology + information science).
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/jandot-bio/1.2.1|
-|metadata|{}|
-|homepage_uri|http://github.com/jandot/bioruby|
-|project_uri|https://rubygems.org/gems/jandot-bio|
-|version|1.2.1|
-|sha|592fdc936d86b6b51da49d39d39e9863a7b08f7e64747d7e97b8d9c3ae54df1a|
-|platform|ruby|
-|licenses|[]|
-|gem_uri|https://rubygems.org/gems/jandot-bio-1.2.1.gem|
-|downloads|2627|
-|name|jandot-bio|
-|version_downloads|2627|
-|authors|Jan Aerts|
 
 ## bio-sam-mutation
 
@@ -2630,6 +2610,26 @@ Simple classes for parsing SAM, CIGAR and MD:Z strings, including slices. Method
 |name|bio-sam-mutation|
 |version_downloads|2326|
 |authors|Stephen Pettitt|
+
+## jandot-bio
+
+BioRuby is a library for bioinformatics (biology + information science).
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/jandot-bio/1.2.1|
+|metadata|{}|
+|homepage_uri|http://github.com/jandot/bioruby|
+|project_uri|https://rubygems.org/gems/jandot-bio|
+|version|1.2.1|
+|sha|592fdc936d86b6b51da49d39d39e9863a7b08f7e64747d7e97b8d9c3ae54df1a|
+|platform|ruby|
+|licenses|[]|
+|gem_uri|https://rubygems.org/gems/jandot-bio-1.2.1.gem|
+|downloads|2627|
+|name|jandot-bio|
+|version_downloads|2627|
+|authors|Jan Aerts|
 
 ## bio-old-biofetch-emulator
 
@@ -2911,26 +2911,6 @@ Gets ATP/WTA Rankings and player bios from the ESPN website
 |version_downloads|1749|
 |authors|Sophia Varella|
 
-## faker-stoked
-
-This is an extension of the faker gem, allowing stoked bros and brodies to effortlessly generate stoked bios, that are both radical and awesome while simultaneously pitted.  It also provides a rich, creamy variety of methods to generate bro words.
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/faker-stoked/0.3.1|
-|metadata|{}|
-|homepage_uri||
-|project_uri|https://rubygems.org/gems/faker-stoked|
-|version|0.3.1|
-|sha|fbf2e8ba999611c508da0bf46b42c48561ecd89d77d0cdb5c34acf52e9a46c6f|
-|platform|ruby|
-|licenses|["MIT"]|
-|gem_uri|https://rubygems.org/gems/faker-stoked-0.3.1.gem|
-|downloads|139757|
-|name|faker-stoked|
-|version_downloads|96760|
-|authors|schadenfred|
-
 ## geni-svgenes
 
 Modified version of the bio-svgenes gem, for use in https://geni-act.org education website.
@@ -2951,6 +2931,26 @@ Modified version of the bio-svgenes gem, for use in https://geni-act.org educati
 |version_downloads|2051|
 |authors|Kristopher Williams|
 
+## faker-stoked
+
+This is an extension of the faker gem, allowing stoked bros and brodies to effortlessly generate stoked bios, that are both radical and awesome while simultaneously pitted.  It also provides a rich, creamy variety of methods to generate bro words.
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/faker-stoked/0.3.1|
+|metadata|{}|
+|homepage_uri||
+|project_uri|https://rubygems.org/gems/faker-stoked|
+|version|0.3.1|
+|sha|fbf2e8ba999611c508da0bf46b42c48561ecd89d77d0cdb5c34acf52e9a46c6f|
+|platform|ruby|
+|licenses|["MIT"]|
+|gem_uri|https://rubygems.org/gems/faker-stoked-0.3.1.gem|
+|downloads|139800|
+|name|faker-stoked|
+|version_downloads|96803|
+|authors|schadenfred|
+
 ## bioruby-phyloxml
 
 Provides PhyloXML support for BioRuby. This bioruby-phyloxml gem replaces old unmaintained bio-phyloxml gem.
@@ -2966,9 +2966,9 @@ Provides PhyloXML support for BioRuby. This bioruby-phyloxml gem replaces old un
 |platform|ruby|
 |licenses|["Ruby"]|
 |gem_uri|https://rubygems.org/gems/bioruby-phyloxml-1.0.0.gem|
-|downloads|3098|
+|downloads|3099|
 |name|bioruby-phyloxml|
-|version_downloads|3098|
+|version_downloads|3099|
 |authors|Diana Jaunzeikare, Clayton Wheeler, BioRuby project|
 
 ## eutils
@@ -3025,8 +3025,8 @@ https://www.rubydoc.info/gems/bioroebe/ ).
 |platform|ruby|
 |licenses|["LGPL-2.1"]|
 |gem_uri|https://rubygems.org/gems/bioroebe-0.10.77.gem|
-|downloads|276217|
+|downloads|276219|
 |name|bioroebe|
-|version_downloads|213|
+|version_downloads|215|
 |authors|Robert A. Heiler|
 
