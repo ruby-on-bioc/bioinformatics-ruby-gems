@@ -17,11 +17,11 @@ BioRuby is a library for bioinformatics (biology + information science).
 |source_code_uri|https://github.com/bioruby/bioruby/|
 |licenses|["Ruby"]|
 |gem_uri|https://rubygems.org/gems/bio-2.0.3.gem|
-|downloads|405270|
+|downloads|405428|
 |mailing_list_uri|http://lists.open-bio.org/mailman/listinfo/bioruby|
 |name|bio|
 |wiki_uri|http://bioruby.open-bio.org/wiki/|
-|version_downloads|16881|
+|version_downloads|16934|
 |authors|BioRuby project|
 
 ## bio-samtools
@@ -241,9 +241,9 @@ This library provides support for BGZF (Blocked GZip Format) in Ruby. BGZF, orig
 |sha|29556916ce8a4b69d7bd69db7748df04d4c3c1ea94285f70160e4f545608812c|
 |platform|ruby|
 |gem_uri|https://rubygems.org/gems/bio-bgzf-0.2.1.gem|
-|downloads|32154|
+|downloads|32212|
 |name|bio-bgzf|
-|version_downloads|22540|
+|version_downloads|22598|
 |authors|Artem Tarasov, Clayton Wheeler|
 
 ## bio-band
@@ -1013,9 +1013,9 @@ BaseSpace Ruby SDK is a Ruby based Software Development Kit to be used in the de
 |platform|ruby|
 |licenses|["Apache, Version 2.0"]|
 |gem_uri|https://rubygems.org/gems/bio-basespace-sdk-0.1.7.gem|
-|downloads|35206|
+|downloads|35220|
 |name|bio-basespace-sdk|
-|version_downloads|24088|
+|version_downloads|24102|
 |authors|Joachim Baran, Raoul Bonnal, Eri Kibukawa, Francesco Strozzi, Toshiaki Katayama|
 
 ## bio-gag
@@ -1221,25 +1221,6 @@ Bioinformatics. Aggregate FastQC (quality control for Next Generation Sequencing
 |version_downloads|2636|
 |authors|Raoul Jean Pierre Bonnal|
 
-## bio-sge
-
-Entries in a flatfile will be parased by the BioRuby's Bio::FlatFile.auto module. These entries are used as queries for the Sun Grid Engine (SGE) system. Huge amount of queries are automatically splitted into subdirectories. With a specified command line to be executed, queries are submited to the SGE as an array job.
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/bio-sge/0.0.0|
-|metadata|{}|
-|homepage_uri|http://github.com/ktym/bioruby-sge|
-|project_uri|https://rubygems.org/gems/bio-sge|
-|version|0.0.0|
-|sha|8478f29051e2d56dcf7c795ec1e1efba8a3840f393e326fdd216accf9a9600c1|
-|platform|ruby|
-|gem_uri|https://rubygems.org/gems/bio-sge-0.0.0.gem|
-|downloads|4735|
-|name|bio-sge|
-|version_downloads|4735|
-|authors|Toshiaki Katayama|
-
 ## bio-kmer_counter
 
 A biogem for counting small kmers for fingerprinting nucleotide sequences. See README for details.
@@ -1259,6 +1240,25 @@ A biogem for counting small kmers for fingerprinting nucleotide sequences. See R
 |name|bio-kmer_counter|
 |version_downloads|3715|
 |authors|Ben J Woodcroft|
+
+## bio-sge
+
+Entries in a flatfile will be parased by the BioRuby's Bio::FlatFile.auto module. These entries are used as queries for the Sun Grid Engine (SGE) system. Huge amount of queries are automatically splitted into subdirectories. With a specified command line to be executed, queries are submited to the SGE as an array job.
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/bio-sge/0.0.0|
+|metadata|{}|
+|homepage_uri|http://github.com/ktym/bioruby-sge|
+|project_uri|https://rubygems.org/gems/bio-sge|
+|version|0.0.0|
+|sha|8478f29051e2d56dcf7c795ec1e1efba8a3840f393e326fdd216accf9a9600c1|
+|platform|ruby|
+|gem_uri|https://rubygems.org/gems/bio-sge-0.0.0.gem|
+|downloads|4735|
+|name|bio-sge|
+|version_downloads|4735|
+|authors|Toshiaki Katayama|
 
 ## bio-freebayes
 
@@ -1622,26 +1622,6 @@ Just a test
 |version_downloads|3584|
 |authors|Fernando Izquierdo|
 
-## bioruby-bio
-
-BioRuby is a library for bioinformatics (biology + information science).
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000|
-|metadata|{}|
-|homepage_uri|http://bioruby.org/|
-|project_uri|https://rubygems.org/gems/bioruby-bio|
-|version|1.3.1.5000|
-|sha|6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e|
-|platform|ruby|
-|licenses|[]|
-|gem_uri|https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem|
-|downloads|15094|
-|name|bioruby-bio|
-|version_downloads|3150|
-|authors|BioRuby project|
-
 ## bio-genomic-interval
 
 a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and overlap state between two intervals 
@@ -1664,6 +1644,26 @@ a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and overlap
 |wiki_uri|http://bioruby.open-bio.org/wiki/Plugins|
 |version_downloads|6428|
 |authors|Hiroyuki Mishima|
+
+## bioruby-bio
+
+BioRuby is a library for bioinformatics (biology + information science).
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000|
+|metadata|{}|
+|homepage_uri|http://bioruby.org/|
+|project_uri|https://rubygems.org/gems/bioruby-bio|
+|version|1.3.1.5000|
+|sha|6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e|
+|platform|ruby|
+|licenses|[]|
+|gem_uri|https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem|
+|downloads|15094|
+|name|bioruby-bio|
+|version_downloads|3150|
+|authors|BioRuby project|
 
 ## bio-nwk
 
@@ -1926,6 +1926,26 @@ Methods for handling multiwell plate annotations, includes ranges and quadrants
 |version_downloads|2393|
 |authors|Steve Pettitt|
 
+## ngoto-bio
+
+BioRuby is a library for bioinformatics (biology + information science).
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/ngoto-bio/1.3.1.5000|
+|metadata|{}|
+|homepage_uri|http://bioruby.org/|
+|project_uri|https://rubygems.org/gems/ngoto-bio|
+|version|1.3.1.5000|
+|sha|a13d7d3b16b794f65f9c397d34a4e7ac13b9de613d9eccc0781639ec179470b1|
+|platform|ruby|
+|licenses|[]|
+|gem_uri|https://rubygems.org/gems/ngoto-bio-1.3.1.5000.gem|
+|downloads|9750|
+|name|ngoto-bio|
+|version_downloads|2535|
+|authors|BioRuby project|
+
 ## bio-kb-illumina
 
 Provide access to the IlluminaHumanAnnotations. Database comes form Bioconductor's package
@@ -1945,26 +1965,6 @@ Provide access to the IlluminaHumanAnnotations. Database comes form Bioconductor
 |name|bio-kb-illumina|
 |version_downloads|4688|
 |authors|Raoul J.P. Bonnal|
-
-## ngoto-bio
-
-BioRuby is a library for bioinformatics (biology + information science).
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/ngoto-bio/1.3.1.5000|
-|metadata|{}|
-|homepage_uri|http://bioruby.org/|
-|project_uri|https://rubygems.org/gems/ngoto-bio|
-|version|1.3.1.5000|
-|sha|a13d7d3b16b794f65f9c397d34a4e7ac13b9de613d9eccc0781639ec179470b1|
-|platform|ruby|
-|licenses|[]|
-|gem_uri|https://rubygems.org/gems/ngoto-bio-1.3.1.5000.gem|
-|downloads|9738|
-|name|ngoto-bio|
-|version_downloads|2532|
-|authors|BioRuby project|
 
 ## bio-biostars-analytics
 
@@ -2526,9 +2526,9 @@ Outputs a short bio  of Tyler
 |platform|ruby|
 |licenses|["MIT"]|
 |gem_uri|https://rubygems.org/gems/tyler_bio-0.0.1.gem|
-|downloads|2882|
+|downloads|2885|
 |name|tyler_bio|
-|version_downloads|2882|
+|version_downloads|2885|
 |authors|Tyler Sangster|
 
 ## lucas_bio
@@ -2566,9 +2566,9 @@ This gem sucks.
 |platform|ruby|
 |licenses|["MIT"]|
 |gem_uri|https://rubygems.org/gems/sam_bio-0.0.1.gem|
-|downloads|2856|
+|downloads|2859|
 |name|sam_bio|
-|version_downloads|2856|
+|version_downloads|2859|
 |authors|Sam K. Power|
 
 ## tom_bio
@@ -2586,9 +2586,9 @@ This gem tells you about me
 |platform|ruby|
 |licenses|["MIT"]|
 |gem_uri|https://rubygems.org/gems/tom_bio-0.0.1.gem|
-|downloads|2812|
+|downloads|2815|
 |name|tom_bio|
-|version_downloads|2812|
+|version_downloads|2815|
 |authors|twillw|
 
 ## jandot-bio
@@ -2926,9 +2926,9 @@ This is an extension of the faker gem, allowing stoked bros and brodies to effor
 |platform|ruby|
 |licenses|["MIT"]|
 |gem_uri|https://rubygems.org/gems/faker-stoked-0.3.1.gem|
-|downloads|140048|
+|downloads|140091|
 |name|faker-stoked|
-|version_downloads|96943|
+|version_downloads|96986|
 |authors|schadenfred|
 
 ## geni-svgenes
@@ -3025,8 +3025,8 @@ https://www.rubydoc.info/gems/bioroebe/ ).
 |platform|ruby|
 |licenses|["LGPL-2.1"]|
 |gem_uri|https://rubygems.org/gems/bioroebe-0.10.78.gem|
-|downloads|276343|
+|downloads|276345|
 |name|bioroebe|
-|version_downloads|117|
+|version_downloads|119|
 |authors|Robert A. Heiler|
 
