@@ -1,0 +1,15 @@
+## <%= r['name'] %>
+
+<%= r.delete('info') %>
+
+<details>
+<summary><b>details</b></summary>
+
+|key|value|
+|---|-----|
+<% r.each do |k, v| next if v.nil? -%>
+|<%= k %>|<%= v %>|
+<% end -%>
+
+</details>
+

@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'gems'
+require 'erb'
 
 bio_gems = []
 i = 1
@@ -25,16 +26,9 @@ end
 puts '# Bio Gems'
 puts
 
+erb = ERB.new(File.read('gem.erb'), trim_mode: '-')
+
 # GEMS
 bio_gems.each do |r|
-  puts "## #{r['name']}"
-  puts
-  puts r['info'] && r.delete('info')
-  puts
-  puts '|key|value|'
-  puts '|---|-----|'
-  r.each do |k, v|
-    puts "|#{k}|#{v}|" if v
-  end
-  puts
+  puts erb.result(binding)
 end
