@@ -1,10 +1,8 @@
 ## <%= r['name'] %>
 
-|key|value|
-|---|-----|
-|info|<%= r.delete('info') %>
-|url|<%= r.delete('homepage_uri') %>|
-|authors|<%= r.delete('authors') %>|
+<%= r.delete('info') %>
+url: <%= r.delete('homepage_uri') %>
+authors: <%= r.delete('authors') %>
 
 <details>
 <summary><b>details</b></summary>
