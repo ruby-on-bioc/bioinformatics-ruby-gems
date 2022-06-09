@@ -1,21 +1,24 @@
+# frozen_string_literal: true
+
 require 'gems'
 
 bio_gems = []
 i = 1
 
-begin
+loop do
   arr = Gems.search('bio-', page: i)
   bio_gems.concat(arr)
   i += 1
   sleep 0.5
-end while arr.size == 30
+  break unless arr.size == 30
+end
 
 # BLACKLIST
 
 blacklist = File.readlines('blacklist.txt').map(&:chomp)
 
-bio_gems.filter do |r|
-  false if blacklist.include? r['name']
+bio_gems.filter! do |r|
+  !blacklist.include? r['name']
 end
 
 # TITLE
