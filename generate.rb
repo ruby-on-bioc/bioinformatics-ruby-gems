@@ -14,12 +14,11 @@ loop do
   break unless arr.size == 30
 end
 
-# BLACKLIST
-
-blacklist = File.readlines('blacklist.txt').map(&:chomp)
+# EXCLUDE LIST
+exclude_list = File.readlines('exclude_list.txt').map(&:chomp)
 
 bio_gems.filter! do |r|
-  !blacklist.include? r['name']
+  !exclude_list.include? r['name']
 end
 
 # TITLE
