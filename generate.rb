@@ -26,9 +26,9 @@ end
 puts '# Bio Gems'
 puts
 
-erb = ERB.new(File.read('gem.erb'), trim_mode: '-')
+erb = ERB.new(File.read('table.erb'), trim_mode: '-')
 
-# GEMS
+# Table 
 bio_gems.each do |r|
   puts erb.result(binding)
 end
