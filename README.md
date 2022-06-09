@@ -17,11 +17,11 @@ BioRuby is a library for bioinformatics (biology + information science).
 |source_code_uri|https://github.com/bioruby/bioruby/|
 |licenses|["Ruby"]|
 |gem_uri|https://rubygems.org/gems/bio-2.0.3.gem|
-|downloads|406822|
+|downloads|406831|
 |mailing_list_uri|http://lists.open-bio.org/mailman/listinfo/bioruby|
 |name|bio|
 |wiki_uri|http://bioruby.open-bio.org/wiki/|
-|version_downloads|17423|
+|version_downloads|17428|
 |authors|BioRuby project|
 
 ## bio-samtools
@@ -1240,26 +1240,6 @@ Entries in a flatfile will be parased by the BioRuby's Bio::FlatFile.auto module
 |version_downloads|4762|
 |authors|Toshiaki Katayama|
 
-## bio-kmer_counter
-
-A biogem for counting small kmers for fingerprinting nucleotide sequences. See README for details.
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/bio-kmer_counter/0.1.2|
-|metadata|{}|
-|homepage_uri|http://github.com/wwood/bioruby-kmer_counter|
-|project_uri|https://rubygems.org/gems/bio-kmer_counter|
-|version|0.1.2|
-|sha|fdc8fd8bea74a468545f05d9b12375f65657dffcffd7c1dd25ee2af423b27826|
-|platform|ruby|
-|licenses|["MIT"]|
-|gem_uri|https://rubygems.org/gems/bio-kmer_counter-0.1.2.gem|
-|downloads|19565|
-|name|bio-kmer_counter|
-|version_downloads|3739|
-|authors|Ben J Woodcroft|
-
 ## bio-freebayes
 
 The API for Freebayes version #{Bio::Freebayes::EXTVERSION}
@@ -1279,6 +1259,26 @@ The API for Freebayes version #{Bio::Freebayes::EXTVERSION}
 |name|bio-freebayes|
 |version_downloads|2705|
 |authors|Natapol Pornputtapong|
+
+## bio-kmer_counter
+
+A biogem for counting small kmers for fingerprinting nucleotide sequences. See README for details.
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/bio-kmer_counter/0.1.2|
+|metadata|{}|
+|homepage_uri|http://github.com/wwood/bioruby-kmer_counter|
+|project_uri|https://rubygems.org/gems/bio-kmer_counter|
+|version|0.1.2|
+|sha|fdc8fd8bea74a468545f05d9b12375f65657dffcffd7c1dd25ee2af423b27826|
+|platform|ruby|
+|licenses|["MIT"]|
+|gem_uri|https://rubygems.org/gems/bio-kmer_counter-0.1.2.gem|
+|downloads|19565|
+|name|bio-kmer_counter|
+|version_downloads|3739|
+|authors|Ben J Woodcroft|
 
 ## bio-hello
 
@@ -1622,6 +1622,26 @@ Just a test
 |version_downloads|3611|
 |authors|Fernando Izquierdo|
 
+## bioruby-bio
+
+BioRuby is a library for bioinformatics (biology + information science).
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000|
+|metadata|{}|
+|homepage_uri|http://bioruby.org/|
+|project_uri|https://rubygems.org/gems/bioruby-bio|
+|version|1.3.1.5000|
+|sha|6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e|
+|platform|ruby|
+|licenses|[]|
+|gem_uri|https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem|
+|downloads|15203|
+|name|bioruby-bio|
+|version_downloads|3174|
+|authors|BioRuby project|
+
 ## bio-genomic-interval
 
 a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and overlap state between two intervals 
@@ -1644,26 +1664,6 @@ a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and overlap
 |wiki_uri|http://bioruby.open-bio.org/wiki/Plugins|
 |version_downloads|6452|
 |authors|Hiroyuki Mishima|
-
-## bioruby-bio
-
-BioRuby is a library for bioinformatics (biology + information science).
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000|
-|metadata|{}|
-|homepage_uri|http://bioruby.org/|
-|project_uri|https://rubygems.org/gems/bioruby-bio|
-|version|1.3.1.5000|
-|sha|6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e|
-|platform|ruby|
-|licenses|[]|
-|gem_uri|https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem|
-|downloads|15203|
-|name|bioruby-bio|
-|version_downloads|3174|
-|authors|BioRuby project|
 
 ## bio-nwk
 
@@ -1724,6 +1724,26 @@ Parse publications for gene names in a fuzzy fashion
 |version_downloads|3214|
 |authors|Pjotr Prins|
 
+## bio-faidx
+
+ools to work with fasta files, indexed with samtools. The initial releases depend on bio-samtools, but that will change
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/bio-faidx/0.0.1|
+|metadata|{}|
+|homepage_uri|http://github.com/homonecloco/bioruby-faidx|
+|project_uri|https://rubygems.org/gems/bio-faidx|
+|version|0.0.1|
+|sha|047dfca5dad4b2caa4f74963bb8e43188f9f0f84a6d38df2ccb78ab48a6455ba|
+|platform|ruby|
+|licenses|["MIT"]|
+|gem_uri|https://rubygems.org/gems/bio-faidx-0.0.1.gem|
+|downloads|3058|
+|name|bio-faidx|
+|version_downloads|3058|
+|authors|homonecloco|
+
 ## bio-statsample-timeseries
 
 Statsample-timeseries is an extension to Statsample. It incorporates helpful timeseries functions and modules like ARMA, ARIMA, acf, pacf, lags etc.
@@ -1747,26 +1767,6 @@ Statsample-timeseries is an extension to Statsample. It incorporates helpful tim
 |wiki_uri||
 |version_downloads|3538|
 |authors|Ankur Goel, Claudio Bustos|
-
-## bio-faidx
-
-ools to work with fasta files, indexed with samtools. The initial releases depend on bio-samtools, but that will change
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/bio-faidx/0.0.1|
-|metadata|{}|
-|homepage_uri|http://github.com/homonecloco/bioruby-faidx|
-|project_uri|https://rubygems.org/gems/bio-faidx|
-|version|0.0.1|
-|sha|047dfca5dad4b2caa4f74963bb8e43188f9f0f84a6d38df2ccb78ab48a6455ba|
-|platform|ruby|
-|licenses|["MIT"]|
-|gem_uri|https://rubygems.org/gems/bio-faidx-0.0.1.gem|
-|downloads|3058|
-|name|bio-faidx|
-|version_downloads|3058|
-|authors|homonecloco|
 
 ## bio-pileup_iterator
 
@@ -2646,9 +2646,9 @@ Emulator that emulates Bio::Fetch object in BioRuby as if old BioRuby BioFetch s
 |platform|ruby|
 |licenses|["MIT"]|
 |gem_uri|https://rubygems.org/gems/bio-old-biofetch-emulator-1.0.0.gem|
-|downloads|5949|
+|downloads|5950|
 |name|bio-old-biofetch-emulator|
-|version_downloads|3467|
+|version_downloads|3468|
 |authors|Naohisa Goto|
 
 ## bio-express_beta_diversity
@@ -2711,25 +2711,6 @@ This is a Ruby binding for libBigWig (https://github.com/dpryan79/libBigWig), wh
 |version_downloads|579|
 |authors|kojix2|
 
-## bio-data-restriction_enzyme
-
-Restriction Enzyme Dataset from REBASE in yaml form
-
-|key|value|
-|---|-----|
-|documentation_uri|https://www.rubydoc.info/gems/bio-data-restriction_enzyme/1.109.0|
-|metadata|{}|
-|homepage_uri|http://github.com/trevor/bioruby-data-restriction_enzyme|
-|project_uri|https://rubygems.org/gems/bio-data-restriction_enzyme|
-|version|1.109.0|
-|sha|0b4698b20a2c082ad1137a2d491d52d9541ea14b0a4e9bdb52158d96a511181e|
-|platform|ruby|
-|gem_uri|https://rubygems.org/gems/bio-data-restriction_enzyme-1.109.0.gem|
-|downloads|4369|
-|name|bio-data-restriction_enzyme|
-|version_downloads|4369|
-|authors|Sir Richard J. Roberts, Trevor Wennblom|
-
 ## lorem_ipsum_bio
 
 Lorem Ipsum Bio is a toolkit for generating varied random biological sequences (especially usable as a control group in analysis)
@@ -2749,6 +2730,25 @@ Lorem Ipsum Bio is a toolkit for generating varied random biological sequences (
 |name|lorem_ipsum_bio|
 |version_downloads|1596|
 |authors|Paweł Jankowski|
+
+## bio-data-restriction_enzyme
+
+Restriction Enzyme Dataset from REBASE in yaml form
+
+|key|value|
+|---|-----|
+|documentation_uri|https://www.rubydoc.info/gems/bio-data-restriction_enzyme/1.109.0|
+|metadata|{}|
+|homepage_uri|http://github.com/trevor/bioruby-data-restriction_enzyme|
+|project_uri|https://rubygems.org/gems/bio-data-restriction_enzyme|
+|version|1.109.0|
+|sha|0b4698b20a2c082ad1137a2d491d52d9541ea14b0a4e9bdb52158d96a511181e|
+|platform|ruby|
+|gem_uri|https://rubygems.org/gems/bio-data-restriction_enzyme-1.109.0.gem|
+|downloads|4369|
+|name|bio-data-restriction_enzyme|
+|version_downloads|4369|
+|authors|Sir Richard J. Roberts, Trevor Wennblom|
 
 ## bio-blast_seq_extract
 
@@ -2926,9 +2926,9 @@ This is an extension of the faker gem, allowing stoked bros and brodies to effor
 |platform|ruby|
 |licenses|["MIT"]|
 |gem_uri|https://rubygems.org/gems/faker-stoked-0.3.1.gem|
-|downloads|140639|
+|downloads|140645|
 |name|faker-stoked|
-|version_downloads|97318|
+|version_downloads|97324|
 |authors|schadenfred|
 
 ## geni-svgenes
