@@ -3,6 +3,7 @@
 ## bio
 
 [![Gem Version](https://badge.fury.io/rb/bio.svg)](https://badge.fury.io/rb/bio)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2021-11-05&color=blue)
 
 BioRuby is a library for bioinformatics (biology + information science).
 
@@ -15,7 +16,7 @@ BioRuby is a library for bioinformatics (biology + information science).
 |key|value|
 |---|-----|
 |name|bio|
-|downloads|407020|
+|downloads|407024|
 |version|2.0.3|
 |version_created_at|2021-11-05T20:07:51.736Z|
 |version_downloads|17469|
@@ -38,6 +39,7 @@ BioRuby is a library for bioinformatics (biology + information science).
 ## bio-samtools
 
 [![Gem Version](https://badge.fury.io/rb/bio-samtools.svg)](https://badge.fury.io/rb/bio-samtools)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2018-01-11&color=blue)
 
 Binder of samtools for ruby, on the top of FFI. 
 
@@ -72,6 +74,7 @@ Binder of samtools for ruby, on the top of FFI.
 ## bio-gem
 
 [![Gem Version](https://badge.fury.io/rb/bio-gem.svg)](https://badge.fury.io/rb/bio-gem)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-05-20&color=blue)
 
 Biogem is a software generator for those bioinformaticans who want to start coding an application or a library for using/extending BioRuby core library and sharing it through rubygems.org .
   The basic idea is to simplify and promote a modular approach to bioinformatics software development
@@ -104,6 +107,7 @@ Biogem is a software generator for those bioinformaticans who want to start codi
 ## bio-gadget
 
 [![Gem Version](https://badge.fury.io/rb/bio-gadget.svg)](https://badge.fury.io/rb/bio-gadget)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2017-02-01&color=blue)
 
 Gadgets for bioinformatics
 
@@ -135,6 +139,7 @@ Gadgets for bioinformatics
 ## bio-svgenes
 
 [![Gem Version](https://badge.fury.io/rb/bio-svgenes.svg)](https://badge.fury.io/rb/bio-svgenes)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-01-06&color=blue)
 
 This bio-gem facilitates the creation of pretty, publication quality SVG images from feature data.
 
@@ -166,6 +171,7 @@ This bio-gem facilitates the creation of pretty, publication quality SVG images 
 ## bio-maf
 
 [![Gem Version](https://badge.fury.io/rb/bio-maf.svg)](https://badge.fury.io/rb/bio-maf)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-08-21&color=blue)
 
 Multiple Alignment Format parser for BioRuby.
 
@@ -196,6 +202,7 @@ Multiple Alignment Format parser for BioRuby.
 ## bio-fastqc
 
 [![Gem Version](https://badge.fury.io/rb/bio-fastqc.svg)](https://badge.fury.io/rb/bio-fastqc)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2018-07-26&color=blue)
 
 ruby parser for FastQC, a quality control software for high-throughput sequencing data.
 
@@ -227,6 +234,7 @@ ruby parser for FastQC, a quality control software for high-throughput sequencin
 ## bio-blastxmlparser
 
 [![Gem Version](https://badge.fury.io/rb/bio-blastxmlparser.svg)](https://badge.fury.io/rb/bio-blastxmlparser)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-09-16&color=blue)
 
 Fast big data BLAST XML parser and library; this libxml2 based version is 50x faster than BioRuby and comes with a nice CLI
 
@@ -258,6 +266,7 @@ Fast big data BLAST XML parser and library; this libxml2 based version is 50x fa
 ## bio-rocker
 
 [![Gem Version](https://badge.fury.io/rb/bio-rocker.svg)](https://badge.fury.io/rb/bio-rocker)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2019-08-15&color=blue)
 
 Detecting and quantifying functional genes in short-read metagenomic datasets
 
@@ -289,6 +298,7 @@ Detecting and quantifying functional genes in short-read metagenomic datasets
 ## bio-grid
 
 [![Gem Version](https://badge.fury.io/rb/bio-grid.svg)](https://badge.fury.io/rb/bio-grid)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-10-25&color=blue)
 
 A BioGem to submit jobs on a queue system
 
@@ -319,6 +329,7 @@ A BioGem to submit jobs on a queue system
 ## bio-gff3
 
 [![Gem Version](https://badge.fury.io/rb/bio-gff3.svg)](https://badge.fury.io/rb/bio-gff3)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-08-20&color=blue)
 
 GFF3 (genome browser) information and digest mRNA and CDS sequences.
 Options for low memory use and caching of records.
@@ -352,6 +363,7 @@ Support for external FASTA files.
 ## bio-bgzf
 
 [![Gem Version](https://badge.fury.io/rb/bio-bgzf.svg)](https://badge.fury.io/rb/bio-bgzf)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-08-06&color=blue)
 
 This library provides support for BGZF (Blocked GZip Format) in Ruby. BGZF, originally defined as part of the SAM/BAM specification, is used to compress record-oriented data in a way that facilitates random access, unlike plain gzip. BGZF is principally used for bioinformatics data but would be useful in other contexts as well.
 
@@ -382,6 +394,7 @@ This library provides support for BGZF (Blocked GZip Format) in Ruby. BGZF, orig
 ## bio-band
 
 [![Gem Version](https://badge.fury.io/rb/bio-band.svg)](https://badge.fury.io/rb/bio-band)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-09-16&color=blue)
 
 Data mining and machine learning algorithms for JRuby 
 
@@ -413,6 +426,7 @@ Data mining and machine learning algorithms for JRuby
 ## bio-logger
 
 [![Gem Version](https://badge.fury.io/rb/bio-logger.svg)](https://badge.fury.io/rb/bio-logger)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-04-02&color=blue)
 
 Log4r wrapper for BioRuby
 
@@ -443,6 +457,7 @@ Log4r wrapper for BioRuby
 ## bio-alignment
 
 [![Gem Version](https://badge.fury.io/rb/bio-alignment.svg)](https://badge.fury.io/rb/bio-alignment)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2017-10-10&color=blue)
 
 Support for multiple sequence alignments (MSA)
 
@@ -474,6 +489,7 @@ Support for multiple sequence alignments (MSA)
 ## bio-vcf
 
 [![Gem Version](https://badge.fury.io/rb/bio-vcf.svg)](https://badge.fury.io/rb/bio-vcf)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2021-01-18&color=blue)
 
 Smart lazy multi-threaded parser for VCF format with useful filtering and output rewriting (JSON, RDF etc.)
 
@@ -505,6 +521,7 @@ Smart lazy multi-threaded parser for VCF format with useful filtering and output
 ## bio-table
 
 [![Gem Version](https://badge.fury.io/rb/bio-table.svg)](https://badge.fury.io/rb/bio-table)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-05-31&color=blue)
 
 Functions and tools for tranforming and changing tab delimited and comma separated table files - useful for Excel sheets and SQL/RDF output
 
@@ -536,6 +553,7 @@ Functions and tools for tranforming and changing tab delimited and comma separat
 ## bio-publisci
 
 [![Gem Version](https://badge.fury.io/rb/bio-publisci.svg)](https://badge.fury.io/rb/bio-publisci)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-09-20&color=blue)
 
 A toolkit for publishing scientific results and datasets using RDF, OWL, and related technologies 
 
@@ -567,6 +585,7 @@ A toolkit for publishing scientific results and datasets using RDF, OWL, and rel
 ## bio-faster
 
 [![Gem Version](https://badge.fury.io/rb/bio-faster.svg)](https://badge.fury.io/rb/bio-faster)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-06-13&color=blue)
 
 A fast parser for FastQ files
 
@@ -597,6 +616,7 @@ A fast parser for FastQ files
 ## bio-ngs
 
 [![Gem Version](https://badge.fury.io/rb/bio-ngs.svg)](https://badge.fury.io/rb/bio-ngs)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-06-06&color=blue)
 
 bio-ngs provides a framework for handling NGS data with BioRuby
 
@@ -627,6 +647,7 @@ bio-ngs provides a framework for handling NGS data with BioRuby
 ## bio-bigbio
 
 [![Gem Version](https://badge.fury.io/rb/bio-bigbio.svg)](https://badge.fury.io/rb/bio-bigbio)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-05-16&color=blue)
 
 Fasta reader, ORF emitter, sequence translation
 
@@ -658,6 +679,7 @@ Fasta reader, ORF emitter, sequence translation
 ## bio-pipengine
 
 [![Gem Version](https://badge.fury.io/rb/bio-pipengine.svg)](https://badge.fury.io/rb/bio-pipengine)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2017-08-28&color=blue)
 
 A pipeline manager
 
@@ -689,6 +711,7 @@ A pipeline manager
 ## bio-signalp
 
 [![Gem Version](https://badge.fury.io/rb/bio-signalp.svg)](https://badge.fury.io/rb/bio-signalp)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-08-04&color=blue)
 
 A wrapper for the signal peptide prediction algorith SignalP. Not very well supported, but seems to work for the author, at least.
 
@@ -720,6 +743,7 @@ A wrapper for the signal peptide prediction algorith SignalP. Not very well supp
 ## bio-velvet
 
 [![Gem Version](https://badge.fury.io/rb/bio-velvet.svg)](https://badge.fury.io/rb/bio-velvet)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-01-09&color=blue)
 
 Parser to work with some file formats used in the velvet DNA assembler
 
@@ -751,6 +775,7 @@ Parser to work with some file formats used in the velvet DNA assembler
 ## bio-phyta
 
 [![Gem Version](https://badge.fury.io/rb/bio-phyta.svg)](https://badge.fury.io/rb/bio-phyta)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-12-07&color=blue)
 
 Pipeline to remove contaminations from EST libraries
 
@@ -781,6 +806,7 @@ Pipeline to remove contaminations from EST libraries
 ## bio-sambamba
 
 [![Gem Version](https://badge.fury.io/rb/bio-sambamba.svg)](https://badge.fury.io/rb/bio-sambamba)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-08-20&color=blue)
 
 New Sambamba library comes with a command-line tool for working with SAM/BAM files. This gem brings some of its functionality to Ruby.
 
@@ -812,40 +838,10 @@ New Sambamba library comes with a command-line tool for working with SAM/BAM fil
 
 </details>
 
-## bio-polyploid-tools
-
-[![Gem Version](https://badge.fury.io/rb/bio-polyploid-tools.svg)](https://badge.fury.io/rb/bio-polyploid-tools)
-
-Repository of tools developed at Crop Genetics in JIC to work with polyploid wheat
-
-* url: http://github.com/tgac/bioruby-polyploid-tools
-* authors: Ricardo H.  Ramirez-Gonzalez
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-polyploid-tools|
-|downloads|84914|
-|version|1.2.1|
-|version_created_at|2021-05-10T08:28:42.442Z|
-|version_downloads|1549|
-|platform|ruby|
-|licenses|["MIT"]|
-|metadata|{}|
-|yanked|false|
-|sha|4c315f8691200db1e5309fdc5caff9257283bc7b701e8ea54abbb67971351a2e|
-|project_uri|https://rubygems.org/gems/bio-polyploid-tools|
-|gem_uri|https://rubygems.org/gems/bio-polyploid-tools-1.2.1.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-polyploid-tools/1.2.1|
-|dependencies|{"development"=>[{"name"=>"juwelier", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 2.10"}, {"name"=>"test-unit", "requirements"=>">= 0"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 1.5.1"}, {"name"=>"bio-samtools", "requirements"=>">= 2.6.2"}, {"name"=>"descriptive_statistics", "requirements"=>">= 0"}, {"name"=>"systemu", "requirements"=>">= 2.5.2"}]}|
-
-</details>
-
 ## bio-commandeer
 
 [![Gem Version](https://badge.fury.io/rb/bio-commandeer.svg)](https://badge.fury.io/rb/bio-commandeer)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2017-08-10&color=blue)
 
 A dead simple method of running shell commands from within Ruby, by applying opinion
 
@@ -874,9 +870,42 @@ A dead simple method of running shell commands from within Ruby, by applying opi
 
 </details>
 
+## bio-polyploid-tools
+
+[![Gem Version](https://badge.fury.io/rb/bio-polyploid-tools.svg)](https://badge.fury.io/rb/bio-polyploid-tools)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2021-05-10&color=blue)
+
+Repository of tools developed at Crop Genetics in JIC to work with polyploid wheat
+
+* url: http://github.com/tgac/bioruby-polyploid-tools
+* authors: Ricardo H.  Ramirez-Gonzalez
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-polyploid-tools|
+|downloads|84914|
+|version|1.2.1|
+|version_created_at|2021-05-10T08:28:42.442Z|
+|version_downloads|1549|
+|platform|ruby|
+|licenses|["MIT"]|
+|metadata|{}|
+|yanked|false|
+|sha|4c315f8691200db1e5309fdc5caff9257283bc7b701e8ea54abbb67971351a2e|
+|project_uri|https://rubygems.org/gems/bio-polyploid-tools|
+|gem_uri|https://rubygems.org/gems/bio-polyploid-tools-1.2.1.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-polyploid-tools/1.2.1|
+|dependencies|{"development"=>[{"name"=>"juwelier", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 2.10"}, {"name"=>"test-unit", "requirements"=>">= 0"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 1.5.1"}, {"name"=>"bio-samtools", "requirements"=>">= 2.6.2"}, {"name"=>"descriptive_statistics", "requirements"=>">= 0"}, {"name"=>"systemu", "requirements"=>">= 2.5.2"}]}|
+
+</details>
+
 ## bio-assembly
 
 [![Gem Version](https://badge.fury.io/rb/bio-assembly.svg)](https://badge.fury.io/rb/bio-assembly)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-01-12&color=blue)
 
 bioruby plugin to parse, write, and manipulate assembly data
 
@@ -907,6 +936,7 @@ bioruby plugin to parse, write, and manipulate assembly data
 ## bio-nexml
 
 [![Gem Version](https://badge.fury.io/rb/bio-nexml.svg)](https://badge.fury.io/rb/bio-nexml)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-05-09&color=blue)
 
 This plugin reads, writes and generates NeXML
 
@@ -937,6 +967,7 @@ This plugin reads, writes and generates NeXML
 ## bio-graphics
 
 [![Gem Version](https://badge.fury.io/rb/bio-graphics.svg)](https://badge.fury.io/rb/bio-graphics)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2009-07-25&color=blue)
 
 Library for visualizing genomic regions
 
@@ -967,6 +998,7 @@ Library for visualizing genomic regions
 ## bio-tabix
 
 [![Gem Version](https://badge.fury.io/rb/bio-tabix.svg)](https://badge.fury.io/rb/bio-tabix)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-09-30&color=blue)
 
 Tabix file indexing routines from the samtools package http://samtools.sourceforge.net/
 
@@ -1002,6 +1034,7 @@ Tabix file indexing routines from the samtools package http://samtools.sourcefor
 ## bio-ucsc-api
 
 [![Gem Version](https://badge.fury.io/rb/bio-ucsc-api.svg)](https://badge.fury.io/rb/bio-ucsc-api)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2018-05-11&color=blue)
 
 Ruby UCSC API: accessing the UCSC Genome Database using Ruby
 
@@ -1037,6 +1070,7 @@ Ruby UCSC API: accessing the UCSC Genome Database using Ruby
 ## bio-octopus
 
 [![Gem Version](https://badge.fury.io/rb/bio-octopus.svg)](https://badge.fury.io/rb/bio-octopus)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-05-02&color=blue)
 
 Running and parsing of the protein transmembrane domain predictor octopus
 
@@ -1067,6 +1101,7 @@ Running and parsing of the protein transmembrane domain predictor octopus
 ## bio-plasmoap
 
 [![Gem Version](https://badge.fury.io/rb/bio-plasmoap.svg)](https://badge.fury.io/rb/bio-plasmoap)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2016-04-14&color=blue)
 
 The PlasmoAP algorithm (Foth and Ralph et. al. 2003) predicts apicoplast transit peptides in Plasmodium falciparum. This is an implementation of that algorithm.
 
@@ -1098,6 +1133,7 @@ The PlasmoAP algorithm (Foth and Ralph et. al. 2003) predicts apicoplast transit
 ## bio-bwa
 
 [![Gem Version](https://badge.fury.io/rb/bio-bwa.svg)](https://badge.fury.io/rb/bio-bwa)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-04-15&color=blue)
 
 Ruby binding for BWA mapping software, built using Ruby-FFI library
 
@@ -1132,6 +1168,7 @@ Ruby binding for BWA mapping software, built using Ruby-FFI library
 ## bio-lazyblastxml
 
 [![Gem Version](https://badge.fury.io/rb/bio-lazyblastxml.svg)](https://badge.fury.io/rb/bio-lazyblastxml)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-06-01&color=blue)
 
 This is very scrappy at the moment, and will need to be seriously cleaned up. It does what I need it to do for now. I'll fix it up in the coming weeks. Promise :)
 
@@ -1162,6 +1199,7 @@ This is very scrappy at the moment, and will need to be seriously cleaned up. It
 ## bio-krona
 
 [![Gem Version](https://badge.fury.io/rb/bio-krona.svg)](https://badge.fury.io/rb/bio-krona)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-12-12&color=blue)
 
 This biogem is built around Krona, a flashy way of representing hierarchical data.
 
@@ -1193,6 +1231,7 @@ This biogem is built around Krona, a flashy way of representing hierarchical dat
 ## bio-gngm
 
 [![Gem Version](https://badge.fury.io/rb/bio-gngm.svg)](https://badge.fury.io/rb/bio-gngm)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-12-06&color=blue)
 
 Identify causative mutations in a model genome from NGS reads using the NGM method.
 
@@ -1224,6 +1263,7 @@ Identify causative mutations in a model genome from NGS reads using the NGM meth
 ## bio-liftover
 
 [![Gem Version](https://badge.fury.io/rb/bio-liftover.svg)](https://badge.fury.io/rb/bio-liftover)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-03-11&color=blue)
 
 Simple, under development Ruby solution for UCSC LiftOver tool
 
@@ -1259,6 +1299,7 @@ Simple, under development Ruby solution for UCSC LiftOver tool
 ## bio-chembl
 
 [![Gem Version](https://badge.fury.io/rb/bio-chembl.svg)](https://badge.fury.io/rb/bio-chembl)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-07-23&color=blue)
 
 BioRuby plugin for ChEMBL REST API Client, Parser and Container classes
 
@@ -1289,6 +1330,7 @@ BioRuby plugin for ChEMBL REST API Client, Parser and Container classes
 ## bio-rdf
 
 [![Gem Version](https://badge.fury.io/rb/bio-rdf.svg)](https://badge.fury.io/rb/bio-rdf)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-05-23&color=blue)
 
 Store relationships in a triple-store, such as gene enrichment and QTL, and use this information for inference and causality
 
@@ -1319,6 +1361,7 @@ Store relationships in a triple-store, such as gene enrichment and QTL, and use 
 ## bio-affy
 
 [![Gem Version](https://badge.fury.io/rb/bio-affy.svg)](https://badge.fury.io/rb/bio-affy)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-12-09&color=blue)
 
 Affymetrix microarray file format parser
   (CEL/CDF) for Ruby. FFI binding to Biolib port of R/Affyio by Benjamin Milo Bolstad
@@ -1350,6 +1393,7 @@ Affymetrix microarray file format parser
 ## bio-unichem
 
 [![Gem Version](https://badge.fury.io/rb/bio-unichem.svg)](https://badge.fury.io/rb/bio-unichem)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-02-09&color=blue)
 
 BioRuby plugin for UniChem REST Web service
 
@@ -1381,6 +1425,7 @@ BioRuby plugin for UniChem REST Web service
 ## bio-synreport
 
 [![Gem Version](https://badge.fury.io/rb/bio-synreport.svg)](https://badge.fury.io/rb/bio-synreport)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-05-16&color=blue)
 
 Takes a GFF and genomic sequence file, constructs CDS and when given a position and alternative base will report whether this change is in a coding region and if it results in a synonymous or non-synonymous mutation.
 
@@ -1412,6 +1457,7 @@ Takes a GFF and genomic sequence file, constructs CDS and when given a position 
 ## bio-sra
 
 [![Gem Version](https://badge.fury.io/rb/bio-sra.svg)](https://badge.fury.io/rb/bio-sra)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-12-21&color=blue)
 
 A Sequence Read Archive (SRA) download script and Ruby interface to the SRAdb (SRA metadata) SQLite database.
 
@@ -1443,6 +1489,7 @@ A Sequence Read Archive (SRA) download script and Ruby interface to the SRAdb (S
 ## bio-protparam
 
 [![Gem Version](https://badge.fury.io/rb/bio-protparam.svg)](https://badge.fury.io/rb/bio-protparam)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-12-27&color=blue)
 
 Bio::Protparam has same interface and function as Bio::Tools::Protparam class of BioPerl, except that it calculate parameters instead of throwing query to Expasy protparam tool.
 
@@ -1478,6 +1525,7 @@ Bio::Protparam has same interface and function as Bio::Tools::Protparam class of
 ## bio-locus
 
 [![Gem Version](https://badge.fury.io/rb/bio-locus.svg)](https://badge.fury.io/rb/bio-locus)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-09-14&color=blue)
 
 A tool for fast querying and filtering of genome locations in VCF and other formats
 
@@ -1509,6 +1557,7 @@ A tool for fast querying and filtering of genome locations in VCF and other form
 ## bio-core
 
 [![Gem Version](https://badge.fury.io/rb/bio-core.svg)](https://badge.fury.io/rb/bio-core)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-08-30&color=blue)
 
 Bioruby core plugins
 
@@ -1539,6 +1588,7 @@ Bioruby core plugins
 ## bio-basespace-sdk
 
 [![Gem Version](https://badge.fury.io/rb/bio-basespace-sdk.svg)](https://badge.fury.io/rb/bio-basespace-sdk)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-08-08&color=blue)
 
 BaseSpace Ruby SDK is a Ruby based Software Development Kit to be used in the development of Apps and scripts for working with Illumina's BaseSpace cloud-computing solution for next-gen sequencing data analysis.
 
@@ -1572,6 +1622,7 @@ BaseSpace Ruby SDK is a Ruby based Software Development Kit to be used in the de
 ## bio-gag
 
 [![Gem Version](https://badge.fury.io/rb/bio-gag.svg)](https://badge.fury.io/rb/bio-gag)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-11-05&color=blue)
 
 bio-gag is a biogem for detecting and correcting a particular type of error that occurs/occurred in particular versions of the IonTorrent DNA sequencing kit. Recent versions of the system don't appear to suffer the same problem
 
@@ -1602,6 +1653,7 @@ bio-gag is a biogem for detecting and correcting a particular type of error that
 ## bio-mummer
 
 [![Gem Version](https://badge.fury.io/rb/bio-mummer.svg)](https://badge.fury.io/rb/bio-mummer)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-03-31&color=blue)
 
 Help for working with the output of the .delta files produced by nucmer and promer
 
@@ -1633,6 +1685,7 @@ Help for working with the output of the .delta files produced by nucmer and prom
 ## bio-gggenome
 
 [![Gem Version](https://badge.fury.io/rb/bio-gggenome.svg)](https://badge.fury.io/rb/bio-gggenome)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-08-13&color=blue)
 
 A Ruby client for GGGenome the Ultrafast sequence search
 
@@ -1664,6 +1717,7 @@ A Ruby client for GGGenome the Ultrafast sequence search
 ## bio-ipcress
 
 [![Gem Version](https://badge.fury.io/rb/bio-ipcress.svg)](https://badge.fury.io/rb/bio-ipcress)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2017-01-09&color=blue)
 
 a programmatic interface to the iPCRess in-silico PCR software. iPCRess is part of the exonerate suite.
 
@@ -1695,6 +1749,7 @@ a programmatic interface to the iPCRess in-silico PCR software. iPCRess is part 
 ## bio-repeatmasker
 
 [![Gem Version](https://badge.fury.io/rb/bio-repeatmasker.svg)](https://badge.fury.io/rb/bio-repeatmasker)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-01-23&color=blue)
 
 A simple gem to parse, filter/search raw Repeat Masker output file from GoldenPath
 
@@ -1730,6 +1785,7 @@ A simple gem to parse, filter/search raw Repeat Masker output file from GoldenPa
 ## bio-cigar
 
 [![Gem Version](https://badge.fury.io/rb/bio-cigar.svg)](https://badge.fury.io/rb/bio-cigar)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-02-28&color=blue)
 
 A parser for CIGAR format alignments.
 
@@ -1761,6 +1817,7 @@ A parser for CIGAR format alignments.
 ## bio-dbla-classifier
 
 [![Gem Version](https://badge.fury.io/rb/bio-dbla-classifier.svg)](https://badge.fury.io/rb/bio-dbla-classifier)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-02-22&color=blue)
 
 Methods to classify and manipulate PfEMP1 DBL-alpha sequence tags
 
@@ -1792,6 +1849,7 @@ Methods to classify and manipulate PfEMP1 DBL-alpha sequence tags
 ## bio-tm_hmm
 
 [![Gem Version](https://badge.fury.io/rb/bio-tm_hmm.svg)](https://badge.fury.io/rb/bio-tm_hmm)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2017-04-06&color=blue)
 
 A bioruby plugin for interaction with the transmembrane predictor TMHMM
 
@@ -1823,6 +1881,7 @@ A bioruby plugin for interaction with the transmembrane predictor TMHMM
 ## bio-shell
 
 [![Gem Version](https://badge.fury.io/rb/bio-shell.svg)](https://badge.fury.io/rb/bio-shell)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2021-11-08&color=blue)
 
 BioRuby Shell is a command line interface on BioRuby open source bioinformatics library. It provides easy-to-use analysis environment for bioinformatics.
 
@@ -1854,6 +1913,7 @@ BioRuby Shell is a command line interface on BioRuby open source bioinformatics 
 ## bio-gfastqc
 
 [![Gem Version](https://badge.fury.io/rb/bio-gfastqc.svg)](https://badge.fury.io/rb/bio-gfastqc)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-06-26&color=blue)
 
 Bioinformatics. Aggregate FastQC (quality control for Next Generation Sequencing -NGS-) results from many different samples in a single web page, with charts and tables organized and simplified. The main goal is to speed up the communication process with colleagues (PIs, Biologists, BioInformaticians).
 
@@ -1885,6 +1945,7 @@ Bioinformatics. Aggregate FastQC (quality control for Next Generation Sequencing
 ## bio-sge
 
 [![Gem Version](https://badge.fury.io/rb/bio-sge.svg)](https://badge.fury.io/rb/bio-sge)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2010-12-23&color=blue)
 
 Entries in a flatfile will be parased by the BioRuby's Bio::FlatFile.auto module. These entries are used as queries for the Sun Grid Engine (SGE) system. Huge amount of queries are automatically splitted into subdirectories. With a specified command line to be executed, queries are submited to the SGE as an array job.
 
@@ -1915,6 +1976,7 @@ Entries in a flatfile will be parased by the BioRuby's Bio::FlatFile.auto module
 ## bio-freebayes
 
 [![Gem Version](https://badge.fury.io/rb/bio-freebayes.svg)](https://badge.fury.io/rb/bio-freebayes)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-05-22&color=blue)
 
 The API for Freebayes version #{Bio::Freebayes::EXTVERSION}
 
@@ -1946,6 +2008,7 @@ The API for Freebayes version #{Bio::Freebayes::EXTVERSION}
 ## bio-kmer_counter
 
 [![Gem Version](https://badge.fury.io/rb/bio-kmer_counter.svg)](https://badge.fury.io/rb/bio-kmer_counter)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-05-30&color=blue)
 
 A biogem for counting small kmers for fingerprinting nucleotide sequences. See README for details.
 
@@ -1977,6 +2040,7 @@ A biogem for counting small kmers for fingerprinting nucleotide sequences. See R
 ## bio-hello
 
 [![Gem Version](https://badge.fury.io/rb/bio-hello.svg)](https://badge.fury.io/rb/bio-hello)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2010-12-31&color=blue)
 
 Encode any message string into a DNA sequence
 
@@ -2007,6 +2071,7 @@ Encode any message string into a DNA sequence
 ## bio-biolinux
 
 [![Gem Version](https://badge.fury.io/rb/bio-biolinux.svg)](https://badge.fury.io/rb/bio-biolinux)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-09-24&color=blue)
 
 Meta package for BioLinux distribution: bio-core, bio-core-ext
 
@@ -2037,6 +2102,7 @@ Meta package for BioLinux distribution: bio-core, bio-core-ext
 ## bio-ensembl
 
 [![Gem Version](https://badge.fury.io/rb/bio-ensembl.svg)](https://badge.fury.io/rb/bio-ensembl)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-12-06&color=blue)
 
 This API provides a complete set of methods and classes to access the Ensembl database using Ruby programming language
 
@@ -2067,6 +2133,7 @@ This API provides a complete set of methods and classes to access the Ensembl da
 ## bio-dbsnp
 
 [![Gem Version](https://badge.fury.io/rb/bio-dbsnp.svg)](https://badge.fury.io/rb/bio-dbsnp)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-11-03&color=blue)
 
 decoding the dbSNP bitfield containg detaild information
 
@@ -2097,6 +2164,7 @@ decoding the dbSNP bitfield containg detaild information
 ## bio-foo
 
 [![Gem Version](https://badge.fury.io/rb/bio-foo.svg)](https://badge.fury.io/rb/bio-foo)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-11-01&color=blue)
 
 longer description of your gem
 
@@ -2127,6 +2195,7 @@ longer description of your gem
 ## bio-hydropathy
 
 [![Gem Version](https://badge.fury.io/rb/bio-hydropathy.svg)](https://badge.fury.io/rb/bio-hydropathy)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-01-26&color=blue)
 
 Hydropathy scale for BioRuby
 
@@ -2157,6 +2226,7 @@ Hydropathy scale for BioRuby
 ## bio-phyloxml
 
 [![Gem Version](https://badge.fury.io/rb/bio-phyloxml.svg)](https://badge.fury.io/rb/bio-phyloxml)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-05-24&color=blue)
 
 Provides PhyloXML support for BioRuby.
 
@@ -2187,6 +2257,7 @@ Provides PhyloXML support for BioRuby.
 ## bio-exportpred
 
 [![Gem Version](https://badge.fury.io/rb/bio-exportpred.svg)](https://badge.fury.io/rb/bio-exportpred)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-01-20&color=blue)
 
 Wrapper around the ExportPred algorithm for predicting P. falciparum exported proteins. Requires local install of the program, which is available from http://bioinf.wehi.edu.au/exportpred/
 
@@ -2217,6 +2288,7 @@ Wrapper around the ExportPred algorithm for predicting P. falciparum exported pr
 ## bio-incanter
 
 [![Gem Version](https://badge.fury.io/rb/bio-incanter.svg)](https://badge.fury.io/rb/bio-incanter)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-08-06&color=blue)
 
 A Jruby wrapper to Incanter lib
 
@@ -2251,6 +2323,7 @@ A Jruby wrapper to Incanter lib
 ## bio-fasta_retrieve
 
 [![Gem Version](https://badge.fury.io/rb/bio-fasta_retrieve.svg)](https://badge.fury.io/rb/bio-fasta_retrieve)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-08-27&color=blue)
 
 Gem that helps to retrieve DNA sequence from UCSC
 
@@ -2286,6 +2359,7 @@ Gem that helps to retrieve DNA sequence from UCSC
 ## bio-isoelectric_point
 
 [![Gem Version](https://badge.fury.io/rb/bio-isoelectric_point.svg)](https://badge.fury.io/rb/bio-isoelectric_point)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-03-01&color=blue)
 
 A bioruby plugin for calculating the isoelectric point of a protein 
 
@@ -2316,6 +2390,7 @@ A bioruby plugin for calculating the isoelectric point of a protein
 ## bio-executables
 
 [![Gem Version](https://badge.fury.io/rb/bio-executables.svg)](https://badge.fury.io/rb/bio-executables)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2019-06-14&color=blue)
 
 BioRuby executables is a collection of miscellaneous utilities for bioinformatics that were formerly part of the BioRuby core ("bio" gem). Because of reducing complexity, they were moved to this gem.
 
@@ -2347,6 +2422,7 @@ BioRuby executables is a collection of miscellaneous utilities for bioinformatic
 ## bio-pangenome
 
 [![Gem Version](https://badge.fury.io/rb/bio-pangenome.svg)](https://badge.fury.io/rb/bio-pangenome)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2020-04-25&color=blue)
 
 Tools to find similarity between pangenomes.
 
@@ -2378,6 +2454,7 @@ Tools to find similarity between pangenomes.
 ## bio-stockholm
 
 [![Gem Version](https://badge.fury.io/rb/bio-stockholm.svg)](https://badge.fury.io/rb/bio-stockholm)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-06-19&color=blue)
 
 Parses stockholm sequence alignment format
 
@@ -2409,6 +2486,7 @@ Parses stockholm sequence alignment format
 ## bio-kseq
 
 [![Gem Version](https://badge.fury.io/rb/bio-kseq.svg)](https://badge.fury.io/rb/bio-kseq)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-07-16&color=blue)
 
 A fast FASTA/FASTQ parser based on kseq.h by Heng Li
 
@@ -2441,40 +2519,10 @@ A fast FASTA/FASTQ parser based on kseq.h by Heng Li
 
 </details>
 
-## bioruby-bio
-
-[![Gem Version](https://badge.fury.io/rb/bioruby-bio.svg)](https://badge.fury.io/rb/bioruby-bio)
-
-BioRuby is a library for bioinformatics (biology + information science).
-
-* url: http://bioruby.org/
-* authors: BioRuby project
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bioruby-bio|
-|downloads|15221|
-|version|1.3.1.5000|
-|version_created_at|2014-08-11T07:28:26.580Z|
-|version_downloads|3177|
-|platform|ruby|
-|licenses|[]|
-|metadata|{}|
-|yanked|false|
-|sha|6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e|
-|project_uri|https://rubygems.org/gems/bioruby-bio|
-|gem_uri|https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000|
-|dependencies|{"development"=>[], "runtime"=>[]}|
-
-</details>
-
 ## bio-raxml
 
 [![Gem Version](https://badge.fury.io/rb/bio-raxml.svg)](https://badge.fury.io/rb/bio-raxml)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-07-16&color=blue)
 
 Just a test
 
@@ -2506,6 +2554,7 @@ Just a test
 ## bio-velvet_underground
 
 [![Gem Version](https://badge.fury.io/rb/bio-velvet_underground.svg)](https://badge.fury.io/rb/bio-velvet_underground)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2016-08-01&color=blue)
 
 Bindings to some internals of the velvet assembler.
 
@@ -2534,9 +2583,42 @@ Bindings to some internals of the velvet assembler.
 
 </details>
 
+## bioruby-bio
+
+[![Gem Version](https://badge.fury.io/rb/bioruby-bio.svg)](https://badge.fury.io/rb/bioruby-bio)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-08-11&color=blue)
+
+BioRuby is a library for bioinformatics (biology + information science).
+
+* url: http://bioruby.org/
+* authors: BioRuby project
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bioruby-bio|
+|downloads|15221|
+|version|1.3.1.5000|
+|version_created_at|2014-08-11T07:28:26.580Z|
+|version_downloads|3177|
+|platform|ruby|
+|licenses|[]|
+|metadata|{}|
+|yanked|false|
+|sha|6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e|
+|project_uri|https://rubygems.org/gems/bioruby-bio|
+|gem_uri|https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000|
+|dependencies|{"development"=>[], "runtime"=>[]}|
+
+</details>
+
 ## bio-nwk
 
 [![Gem Version](https://badge.fury.io/rb/bio-nwk.svg)](https://badge.fury.io/rb/bio-nwk)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2022-04-06&color=blue)
 
 Some codes for parsing newick tree
 
@@ -2568,6 +2650,7 @@ Some codes for parsing newick tree
 ## bio-genomic-interval
 
 [![Gem Version](https://badge.fury.io/rb/bio-genomic-interval.svg)](https://badge.fury.io/rb/bio-genomic-interval)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-04-20&color=blue)
 
 a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and overlap state between two intervals 
 
@@ -2602,6 +2685,7 @@ a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and overlap
 ## bio-gemma-wrapper
 
 [![Gem Version](https://badge.fury.io/rb/bio-gemma-wrapper.svg)](https://badge.fury.io/rb/bio-gemma-wrapper)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2022-01-22&color=blue)
 
 GEMMA wrapper adds LOCO and permutation support. Also runs in parallel and caches K between runs with LOCO support
 
@@ -2633,6 +2717,7 @@ GEMMA wrapper adds LOCO and permutation support. Also runs in parallel and cache
 ## bio-exominer
 
 [![Gem Version](https://badge.fury.io/rb/bio-exominer.svg)](https://badge.fury.io/rb/bio-exominer)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-03-01&color=blue)
 
 Parse publications for gene names in a fuzzy fashion
 
@@ -2664,6 +2749,7 @@ Parse publications for gene names in a fuzzy fashion
 ## bio-faidx
 
 [![Gem Version](https://badge.fury.io/rb/bio-faidx.svg)](https://badge.fury.io/rb/bio-faidx)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-10-07&color=blue)
 
 ools to work with fasta files, indexed with samtools. The initial releases depend on bio-samtools, but that will change
 
@@ -2695,6 +2781,7 @@ ools to work with fasta files, indexed with samtools. The initial releases depen
 ## bio-statsample-timeseries
 
 [![Gem Version](https://badge.fury.io/rb/bio-statsample-timeseries.svg)](https://badge.fury.io/rb/bio-statsample-timeseries)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-09-23&color=blue)
 
 Statsample-timeseries is an extension to Statsample. It incorporates helpful timeseries functions and modules like ARMA, ARIMA, acf, pacf, lags etc.
 
@@ -2730,6 +2817,7 @@ Statsample-timeseries is an extension to Statsample. It incorporates helpful tim
 ## bio-pileup_iterator
 
 [![Gem Version](https://badge.fury.io/rb/bio-pileup_iterator.svg)](https://badge.fury.io/rb/bio-pileup_iterator)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-11-19&color=blue)
 
 Iterate through a samtools pileup file
 
@@ -2761,6 +2849,7 @@ Iterate through a samtools pileup file
 ## bio-picard
 
 [![Gem Version](https://badge.fury.io/rb/bio-picard.svg)](https://badge.fury.io/rb/bio-picard)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-05-21&color=blue)
 
 API of Picard tool
 
@@ -2792,6 +2881,7 @@ API of Picard tool
 ## bio-gff3-pltools
 
 [![Gem Version](https://badge.fury.io/rb/bio-gff3-pltools.svg)](https://badge.fury.io/rb/bio-gff3-pltools)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-08-07&color=blue)
 
 Ruby wrapper for the gff3-pltools.
 
@@ -2822,6 +2912,7 @@ Ruby wrapper for the gff3-pltools.
 ## bio-ucsc-util
 
 [![Gem Version](https://badge.fury.io/rb/bio-ucsc-util.svg)](https://badge.fury.io/rb/bio-ucsc-util)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-10-02&color=blue)
 
 Ruby FFI binding of the ucsc kent src. Implemented utilities include: bigWigInfo, bigWigSummary and wigToBigWig
 
@@ -2852,6 +2943,7 @@ Ruby FFI binding of the ucsc kent src. Implemented utilities include: bigWigInfo
 ## bio-kallisto
 
 [![Gem Version](https://badge.fury.io/rb/bio-kallisto.svg)](https://badge.fury.io/rb/bio-kallisto)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-10-05&color=blue)
 
 Basic wrapper for the Kallistio Mapper
 
@@ -2883,6 +2975,7 @@ Basic wrapper for the Kallistio Mapper
 ## bio-jaspar
 
 [![Gem Version](https://badge.fury.io/rb/bio-jaspar.svg)](https://badge.fury.io/rb/bio-jaspar)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-09-30&color=blue)
 
 Basic tools for parsing, searching, and comparing JASPAR motifs; Based on Bio.motifs module in Biopython
 
@@ -2914,6 +3007,7 @@ Basic tools for parsing, searching, and comparing JASPAR motifs; Based on Bio.mo
 ## bio-conduit
 
 [![Gem Version](https://badge.fury.io/rb/bio-conduit.svg)](https://badge.fury.io/rb/bio-conduit)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-09-04&color=blue)
 
 A pipeline creator for bioruby
 
@@ -2945,6 +3039,7 @@ A pipeline creator for bioruby
 ## ngoto-bio
 
 [![Gem Version](https://badge.fury.io/rb/ngoto-bio.svg)](https://badge.fury.io/rb/ngoto-bio)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-08-10&color=blue)
 
 BioRuby is a library for bioinformatics (biology + information science).
 
@@ -2976,6 +3071,7 @@ BioRuby is a library for bioinformatics (biology + information science).
 ## bio-plates
 
 [![Gem Version](https://badge.fury.io/rb/bio-plates.svg)](https://badge.fury.io/rb/bio-plates)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2016-01-29&color=blue)
 
 Methods for handling multiwell plate annotations, includes ranges and quadrants
 
@@ -3007,6 +3103,7 @@ Methods for handling multiwell plate annotations, includes ranges and quadrants
 ## bio-kb-illumina
 
 [![Gem Version](https://badge.fury.io/rb/bio-kb-illumina.svg)](https://badge.fury.io/rb/bio-kb-illumina)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-01-11&color=blue)
 
 Provide access to the IlluminaHumanAnnotations. Database comes form Bioconductor's package
      lumiHumanIDMapping
@@ -3038,6 +3135,7 @@ Provide access to the IlluminaHumanAnnotations. Database comes form Bioconductor
 ## bio-biostars-analytics
 
 [![Gem Version](https://badge.fury.io/rb/bio-biostars-analytics.svg)](https://badge.fury.io/rb/bio-biostars-analytics)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-04-08&color=blue)
 
 Ruby script for data-mining biostars.org using web-crawling techniques as well as utilizing the Biostars RESTful API. Statistical analysis requires R (http://www.r-project.org).
 
@@ -3069,6 +3167,7 @@ Ruby script for data-mining biostars.org using web-crawling techniques as well a
 ## bio-cnls_screenscraper
 
 [![Gem Version](https://badge.fury.io/rb/bio-cnls_screenscraper.svg)](https://badge.fury.io/rb/bio-cnls_screenscraper)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-05-06&color=blue)
 
 Programmatic interface to the cNLS nuclear localisation signal prediction software
 
@@ -3099,6 +3198,7 @@ Programmatic interface to the cNLS nuclear localisation signal prediction softwa
 ## bio-biosql
 
 [![Gem Version](https://badge.fury.io/rb/bio-biosql.svg)](https://badge.fury.io/rb/bio-biosql)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2016-06-17&color=blue)
 
 Provides BioSQL support for BioRuby.
 
@@ -3130,6 +3230,7 @@ Provides BioSQL support for BioRuby.
 ## bio-hmmer_model
 
 [![Gem Version](https://badge.fury.io/rb/bio-hmmer_model.svg)](https://badge.fury.io/rb/bio-hmmer_model)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-05-25&color=blue)
 
 Parse PFAM HMM definition files so that the models can be accessible programmatically
 
@@ -3160,6 +3261,7 @@ Parse PFAM HMM definition files so that the models can be accessible programmati
 ## bio-qtlHD
 
 [![Gem Version](https://badge.fury.io/rb/bio-qtlHD.svg)](https://badge.fury.io/rb/bio-qtlHD)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-11-16&color=blue)
 
 Ruby tools and scripts for QTL mapping, part of the qtlHD project
 
@@ -3190,6 +3292,7 @@ Ruby tools and scripts for QTL mapping, part of the qtlHD project
 ## bio-iqtree
 
 [![Gem Version](https://badge.fury.io/rb/bio-iqtree.svg)](https://badge.fury.io/rb/bio-iqtree)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2019-08-20&color=blue)
 
 Phylogenetic analysis using IQ-Tree via BioRuby
 
@@ -3221,6 +3324,7 @@ Phylogenetic analysis using IQ-Tree via BioRuby
 ## bio-hmmer3_report
 
 [![Gem Version](https://badge.fury.io/rb/bio-hmmer3_report.svg)](https://badge.fury.io/rb/bio-hmmer3_report)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-08-06&color=blue)
 
 Enables programmatic parsing of HMMER version 3 reports
 
@@ -3249,40 +3353,10 @@ Enables programmatic parsing of HMMER version 3 reports
 
 </details>
 
-## bio-primer3
-
-[![Gem Version](https://badge.fury.io/rb/bio-primer3.svg)](https://badge.fury.io/rb/bio-primer3)
-
-Primer3-related Ruby code - wrappers, Boulder IO, etc.
-
-* url: http://github.com/wwood/bioruby-primer3
-* authors: Ben J Woodcroft
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-primer3|
-|downloads|1802|
-|version|0.0.1.pre|
-|version_created_at|2014-03-18T05:24:43.657Z|
-|version_downloads|1802|
-|platform|ruby|
-|licenses|["MIT"]|
-|metadata|{}|
-|yanked|false|
-|sha|c53cc716c84e267660d55991cf3254012900f2f8e6431a165a86f986c6d89dae|
-|project_uri|https://rubygems.org/gems/bio-primer3|
-|gem_uri|https://rubygems.org/gems/bio-primer3-0.0.1.pre.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-primer3/0.0.1.pre|
-|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>"~> 1.3"}, {"name"=>"jeweler", "requirements"=>"~> 2.0"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"rspec", "requirements"=>"~> 2.8"}, {"name"=>"yard", "requirements"=>"~> 0.7"}], "runtime"=>[{"name"=>"bio", "requirements"=>"~> 1.4"}, {"name"=>"bio-commandeer", "requirements"=>"~> 0.1"}, {"name"=>"bio-logger", "requirements"=>"~> 1.0"}]}|
-
-</details>
-
 ## bio-polymarker_db_batch
 
 [![Gem Version](https://badge.fury.io/rb/bio-polymarker_db_batch.svg)](https://badge.fury.io/rb/bio-polymarker_db_batch)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2015-03-05&color=blue)
 
 Server for polymarker. To be used with cron
 
@@ -3311,9 +3385,42 @@ Server for polymarker. To be used with cron
 
 </details>
 
+## bio-primer3
+
+[![Gem Version](https://badge.fury.io/rb/bio-primer3.svg)](https://badge.fury.io/rb/bio-primer3)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-03-18&color=blue)
+
+Primer3-related Ruby code - wrappers, Boulder IO, etc.
+
+* url: http://github.com/wwood/bioruby-primer3
+* authors: Ben J Woodcroft
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-primer3|
+|downloads|1802|
+|version|0.0.1.pre|
+|version_created_at|2014-03-18T05:24:43.657Z|
+|version_downloads|1802|
+|platform|ruby|
+|licenses|["MIT"]|
+|metadata|{}|
+|yanked|false|
+|sha|c53cc716c84e267660d55991cf3254012900f2f8e6431a165a86f986c6d89dae|
+|project_uri|https://rubygems.org/gems/bio-primer3|
+|gem_uri|https://rubygems.org/gems/bio-primer3-0.0.1.pre.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-primer3/0.0.1.pre|
+|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>"~> 1.3"}, {"name"=>"jeweler", "requirements"=>"~> 2.0"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"rspec", "requirements"=>"~> 2.8"}, {"name"=>"yard", "requirements"=>"~> 0.7"}], "runtime"=>[{"name"=>"bio", "requirements"=>"~> 1.4"}, {"name"=>"bio-commandeer", "requirements"=>"~> 0.1"}, {"name"=>"bio-logger", "requirements"=>"~> 1.0"}]}|
+
+</details>
+
 ## bio-ensembl-rest
 
 [![Gem Version](https://badge.fury.io/rb/bio-ensembl-rest.svg)](https://badge.fury.io/rb/bio-ensembl-rest)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-09-27&color=blue)
 
 A Ruby library for the RESTful Ensembl API.
 
@@ -3349,6 +3456,7 @@ A Ruby library for the RESTful Ensembl API.
 ## bio-statsample-glm
 
 [![Gem Version](https://badge.fury.io/rb/bio-statsample-glm.svg)](https://badge.fury.io/rb/bio-statsample-glm)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-09-23&color=blue)
 
 Statsample-GLM is an extension to Statsample, an advance statistics suite in Ruby. This gem includes modules for Regression techniques such as Poisson Regression, Logistic Regression and Exponential Regression
 
@@ -3380,6 +3488,7 @@ Statsample-GLM is an extension to Statsample, an advance statistics suite in Rub
 ## muscle_bio
 
 [![Gem Version](https://badge.fury.io/rb/muscle_bio.svg)](https://badge.fury.io/rb/muscle_bio)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2022-02-04&color=blue)
 
 Multiple Sequence Alignment for Ruby scripts.  Muscle found at https://www.ebi.ac.uk/Tools/msa/muscle/.  For instructions on how to use, see https://github.com/clarkmu/muscle_bio
 
@@ -3411,6 +3520,7 @@ Multiple Sequence Alignment for Ruby scripts.  Muscle found at https://www.ebi.a
 ## bio-samtools-server
 
 [![Gem Version](https://badge.fury.io/rb/bio-samtools-server.svg)](https://badge.fury.io/rb/bio-samtools-server)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-05-30&color=blue)
 
 A minimal web service on the top of sinatra to query bam files
 
@@ -3442,6 +3552,7 @@ A minimal web service on the top of sinatra to query bam files
 ## bio-restriction_enzyme
 
 [![Gem Version](https://badge.fury.io/rb/bio-restriction_enzyme.svg)](https://badge.fury.io/rb/bio-restriction_enzyme)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-09-10&color=blue)
 
 Digests DNA based on restriction enzyme cut patterns
 
@@ -3472,6 +3583,7 @@ Digests DNA based on restriction enzyme cut patterns
 ## bio-core-ext
 
 [![Gem Version](https://badge.fury.io/rb/bio-core-ext.svg)](https://badge.fury.io/rb/bio-core-ext)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-08-30&color=blue)
 
 BioRuby plugins with dependecies from external library or tools
 
@@ -3502,6 +3614,7 @@ BioRuby plugins with dependecies from external library or tools
 ## bio-cd-hit-report
 
 [![Gem Version](https://badge.fury.io/rb/bio-cd-hit-report.svg)](https://badge.fury.io/rb/bio-cd-hit-report)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-04-26&color=blue)
 
 A Ruby library for reading CD-HIT cluster reports
 
@@ -3533,6 +3646,7 @@ A Ruby library for reading CD-HIT cluster reports
 ## bio-aliphatic_index
 
 [![Gem Version](https://badge.fury.io/rb/bio-aliphatic_index.svg)](https://badge.fury.io/rb/bio-aliphatic_index)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-01-26&color=blue)
 
 A simple biogem that allows computation of the aliphatic index of a protein
 
@@ -3560,9 +3674,74 @@ A simple biogem that allows computation of the aliphatic index of a protein
 
 </details>
 
+## bio-twobit
+
+[![Gem Version](https://badge.fury.io/rb/bio-twobit.svg)](https://badge.fury.io/rb/bio-twobit)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2022-01-14&color=blue)
+
+This is a Ruby binding for lib2bit(https://github.com/dpryan79/lib2bit), which provides high-speed access to genomic data in 2bit file format.
+
+* url: https://github.com/ruby-on-bioc/bio-twobit
+* authors: kojix2
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-twobit|
+|downloads|1195|
+|version|0.1.2|
+|version_created_at|2022-01-14T03:40:16.893Z|
+|version_downloads|626|
+|platform|ruby|
+|licenses|["MIT"]|
+|metadata|{}|
+|yanked|false|
+|sha|34b37a748e5a434423ac7896ca0db90c0d710b1088c1c639a6c3dc62c93cb380|
+|project_uri|https://rubygems.org/gems/bio-twobit|
+|gem_uri|https://rubygems.org/gems/bio-twobit-0.1.2.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-twobit/0.1.2|
+|dependencies|{"development"=>[], "runtime"=>[]}|
+
+</details>
+
+## bio-img_metadata
+
+[![Gem Version](https://badge.fury.io/rb/bio-img_metadata.svg)](https://badge.fury.io/rb/bio-img_metadata)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-01-11&color=blue)
+
+Reads metadata from Integrated Microbial Genomes (IMG) metadata files into a programmaticly useful state.
+
+* url: http://github.com/wwood/bioruby-img_metadata
+* authors: Ben J. Woodcroft
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-img_metadata|
+|downloads|3880|
+|version|0.0.1|
+|version_created_at|2013-01-11T01:46:42.293Z|
+|version_downloads|3880|
+|platform|ruby|
+|licenses|["MIT"]|
+|metadata|{}|
+|yanked|false|
+|sha|4a7252f3f1c56aa24337aaf8b92511c009baaa14aa42a3023a5749243e14f13c|
+|project_uri|https://rubygems.org/gems/bio-img_metadata|
+|gem_uri|https://rubygems.org/gems/bio-img_metadata-0.0.1.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-img_metadata/0.0.1|
+|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>">= 1.0.21"}, {"name"=>"jeweler", "requirements"=>"~> 1.8.4"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"rspec", "requirements"=>"~> 2.8.0"}], "runtime"=>[]}|
+
+</details>
+
 ## intermine-bio
 
 [![Gem Version](https://badge.fury.io/rb/intermine-bio.svg)](https://badge.fury.io/rb/intermine-bio)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-08-02&color=blue)
 
 = Biological Extensions to the InterMine Webservice Client Library 
 
@@ -3640,71 +3819,10 @@ can be checked out from svn://subversion.flymine.org/flymine
 
 </details>
 
-## bio-twobit
-
-[![Gem Version](https://badge.fury.io/rb/bio-twobit.svg)](https://badge.fury.io/rb/bio-twobit)
-
-This is a Ruby binding for lib2bit(https://github.com/dpryan79/lib2bit), which provides high-speed access to genomic data in 2bit file format.
-
-* url: https://github.com/ruby-on-bioc/bio-twobit
-* authors: kojix2
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-twobit|
-|downloads|1195|
-|version|0.1.2|
-|version_created_at|2022-01-14T03:40:16.893Z|
-|version_downloads|626|
-|platform|ruby|
-|licenses|["MIT"]|
-|metadata|{}|
-|yanked|false|
-|sha|34b37a748e5a434423ac7896ca0db90c0d710b1088c1c639a6c3dc62c93cb380|
-|project_uri|https://rubygems.org/gems/bio-twobit|
-|gem_uri|https://rubygems.org/gems/bio-twobit-0.1.2.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-twobit/0.1.2|
-|dependencies|{"development"=>[], "runtime"=>[]}|
-
-</details>
-
-## bio-img_metadata
-
-[![Gem Version](https://badge.fury.io/rb/bio-img_metadata.svg)](https://badge.fury.io/rb/bio-img_metadata)
-
-Reads metadata from Integrated Microbial Genomes (IMG) metadata files into a programmaticly useful state.
-
-* url: http://github.com/wwood/bioruby-img_metadata
-* authors: Ben J. Woodcroft
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-img_metadata|
-|downloads|3880|
-|version|0.0.1|
-|version_created_at|2013-01-11T01:46:42.293Z|
-|version_downloads|3880|
-|platform|ruby|
-|licenses|["MIT"]|
-|metadata|{}|
-|yanked|false|
-|sha|4a7252f3f1c56aa24337aaf8b92511c009baaa14aa42a3023a5749243e14f13c|
-|project_uri|https://rubygems.org/gems/bio-img_metadata|
-|gem_uri|https://rubygems.org/gems/bio-img_metadata-0.0.1.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-img_metadata/0.0.1|
-|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>">= 1.0.21"}, {"name"=>"jeweler", "requirements"=>"~> 1.8.4"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"rspec", "requirements"=>"~> 2.8.0"}], "runtime"=>[]}|
-
-</details>
-
 ## bio-blat-tools
 
 [![Gem Version](https://badge.fury.io/rb/bio-blat-tools.svg)](https://badge.fury.io/rb/bio-blat-tools)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-10-03&color=blue)
 
 Tools to manipulate blat files from the command line. Uses the Bio::Blat object from BioRuby, but the parser has been modified to avoid reading the whole psl file, it yields just the current entry and it is up to the consumer to decide to store it or not."
   s.email = "ricardo.ramirez-gonzalez@tgac.ac.uk"
@@ -3737,6 +3855,7 @@ Tools to manipulate blat files from the command line. Uses the Bio::Blat object 
 ## bio-location-rdfize
 
 [![Gem Version](https://badge.fury.io/rb/bio-location-rdfize.svg)](https://badge.fury.io/rb/bio-location-rdfize)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-11-10&color=blue)
 
 This is a BioRuby plugin providing FALDO location RDF output method for Bio::Location objects. A method Bio::Location#rdfize is added.
 
@@ -3765,9 +3884,42 @@ This is a BioRuby plugin providing FALDO location RDF output method for Bio::Loc
 
 </details>
 
+## bio-sparql-client
+
+[![Gem Version](https://badge.fury.io/rb/bio-sparql-client.svg)](https://badge.fury.io/rb/bio-sparql-client)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2016-02-19&color=blue)
+
+A ruby wrapper for bio SPARQL service
+
+* url: http://rubygems.org/gems/bio-sparql-client
+* authors: Natapol Pornputtapong
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-sparql-client|
+|downloads|2847|
+|version|0.0.1|
+|version_created_at|2016-02-19T23:12:34.800Z|
+|version_downloads|2847|
+|platform|ruby|
+|licenses|["GPL-3.0"]|
+|metadata|{}|
+|yanked|false|
+|sha|dfa5c8a7d3d4b17c9d6a283ac6b0d366e96c1daf6380f0df6fa93076dfc075bd|
+|project_uri|https://rubygems.org/gems/bio-sparql-client|
+|gem_uri|https://rubygems.org/gems/bio-sparql-client-0.0.1.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-sparql-client/0.0.1|
+|dependencies|{"development"=>[], "runtime"=>[{"name"=>"sparql-client", "requirements"=>"~> 1.1"}]}|
+
+</details>
+
 ## bio-wolf_psort_wrapper
 
 [![Gem Version](https://badge.fury.io/rb/bio-wolf_psort_wrapper.svg)](https://badge.fury.io/rb/bio-wolf_psort_wrapper)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2012-01-20&color=blue)
 
 Enables the localisation predictor WoLF PSORT to be run locally. The algorithm is available at http://wolfpsort.org/
 
@@ -3795,40 +3947,10 @@ Enables the localisation predictor WoLF PSORT to be run locally. The algorithm i
 
 </details>
 
-## bio-sam-mutation
-
-[![Gem Version](https://badge.fury.io/rb/bio-sam-mutation.svg)](https://badge.fury.io/rb/bio-sam-mutation)
-
-Simple classes for parsing SAM, CIGAR and MD:Z strings, including slices. Methods for calling mutations in HGVS format and looking up consequences using Ensembl VEP REST API. Developed for calling mutations at an expected position in an alignment - e.g. Amplicon sequencing of CRISPR-induced mutations.
-
-* url: http://github.com/stveep/bioruby-sam-mutation
-* authors: Stephen Pettitt
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-sam-mutation|
-|downloads|2360|
-|version|0.4.1|
-|version_created_at|2016-02-08T09:24:49.557Z|
-|version_downloads|2360|
-|platform|ruby|
-|licenses|["MIT"]|
-|metadata|{}|
-|yanked|false|
-|sha|e2b7031dc32fa5bfd535c47be11e71fc8e4310052b991fdbba9c5edea7da8b29|
-|project_uri|https://rubygems.org/gems/bio-sam-mutation|
-|gem_uri|https://rubygems.org/gems/bio-sam-mutation-0.4.1.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-sam-mutation/0.4.1|
-|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>">= 0"}, {"name"=>"jeweler", "requirements"=>"~> 2.0"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"shoulda", "requirements"=>">= 0"}, {"name"=>"simplecov", "requirements"=>">= 0"}, {"name"=>"test-unit", "requirements"=>"~> 3.0"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bio-ensembl-rest", "requirements"=>"= 0.2.0"}, {"name"=>"bio-samtools", "requirements"=>"~> 2.3.4"}, {"name"=>"oj", "requirements"=>"~> 2.14"}, {"name"=>"rake", "requirements"=>"~> 0.9"}, {"name"=>"trollop", "requirements"=>">= 0"}]}|
-
-</details>
-
 ## jandot-bio
 
 [![Gem Version](https://badge.fury.io/rb/jandot-bio.svg)](https://badge.fury.io/rb/jandot-bio)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-08-11&color=blue)
 
 BioRuby is a library for bioinformatics (biology + information science).
 
@@ -3857,9 +3979,42 @@ BioRuby is a library for bioinformatics (biology + information science).
 
 </details>
 
+## bio-sam-mutation
+
+[![Gem Version](https://badge.fury.io/rb/bio-sam-mutation.svg)](https://badge.fury.io/rb/bio-sam-mutation)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2016-02-08&color=blue)
+
+Simple classes for parsing SAM, CIGAR and MD:Z strings, including slices. Methods for calling mutations in HGVS format and looking up consequences using Ensembl VEP REST API. Developed for calling mutations at an expected position in an alignment - e.g. Amplicon sequencing of CRISPR-induced mutations.
+
+* url: http://github.com/stveep/bioruby-sam-mutation
+* authors: Stephen Pettitt
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-sam-mutation|
+|downloads|2360|
+|version|0.4.1|
+|version_created_at|2016-02-08T09:24:49.557Z|
+|version_downloads|2360|
+|platform|ruby|
+|licenses|["MIT"]|
+|metadata|{}|
+|yanked|false|
+|sha|e2b7031dc32fa5bfd535c47be11e71fc8e4310052b991fdbba9c5edea7da8b29|
+|project_uri|https://rubygems.org/gems/bio-sam-mutation|
+|gem_uri|https://rubygems.org/gems/bio-sam-mutation-0.4.1.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-sam-mutation/0.4.1|
+|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>">= 0"}, {"name"=>"jeweler", "requirements"=>"~> 2.0"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"shoulda", "requirements"=>">= 0"}, {"name"=>"simplecov", "requirements"=>">= 0"}, {"name"=>"test-unit", "requirements"=>"~> 3.0"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bio-ensembl-rest", "requirements"=>"= 0.2.0"}, {"name"=>"bio-samtools", "requirements"=>"~> 2.3.4"}, {"name"=>"oj", "requirements"=>"~> 2.14"}, {"name"=>"rake", "requirements"=>"~> 0.9"}, {"name"=>"trollop", "requirements"=>">= 0"}]}|
+
+</details>
+
 ## bio-old-biofetch-emulator
 
 [![Gem Version](https://badge.fury.io/rb/bio-old-biofetch-emulator.svg)](https://badge.fury.io/rb/bio-old-biofetch-emulator)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2016-06-13&color=blue)
 
 Emulator that emulates Bio::Fetch object in BioRuby as if old BioRuby BioFetch server were still alive. It overrides methods and objects in Bio::Fetch, and if the old BioRuby BioFetch server's URL is given, it intercepts all requests and converts them into existing web services such as TogoWS, KEGG REST API, NCBI E-Utilities, and GenomeNet(genome.jp).
 
@@ -3891,6 +4046,7 @@ Emulator that emulates Bio::Fetch object in BioRuby as if old BioRuby BioFetch s
 ## bio-express_beta_diversity
 
 [![Gem Version](https://badge.fury.io/rb/bio-express_beta_diversity.svg)](https://badge.fury.io/rb/bio-express_beta_diversity)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2014-01-21&color=blue)
 
 Interface for express beta diversity file formats
 
@@ -3922,6 +4078,7 @@ Interface for express beta diversity file formats
 ## bio-blast-xmlparser
 
 [![Gem Version](https://badge.fury.io/rb/bio-blast-xmlparser.svg)](https://badge.fury.io/rb/bio-blast-xmlparser)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2019-06-14&color=blue)
 
 BioRuby BLAST XMLParser plugin: a plugin of BioRuby BLAST XML result parser by using the XMLParser extension. This was formerly a part of the BioRuby core ("bio" gem) and split to this gem because of the external XMLParser dependency.
 
@@ -3953,6 +4110,7 @@ BioRuby BLAST XMLParser plugin: a plugin of BioRuby BLAST XML result parser by u
 ## bio-bigwig
 
 [![Gem Version](https://badge.fury.io/rb/bio-bigwig.svg)](https://badge.fury.io/rb/bio-bigwig)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2022-01-30&color=blue)
 
 This is a Ruby binding for libBigWig (https://github.com/dpryan79/libBigWig), which provides high-speed access to bigWig or bigBed files.
 
@@ -3981,39 +4139,10 @@ This is a Ruby binding for libBigWig (https://github.com/dpryan79/libBigWig), wh
 
 </details>
 
-## bio-data-restriction_enzyme
-
-[![Gem Version](https://badge.fury.io/rb/bio-data-restriction_enzyme.svg)](https://badge.fury.io/rb/bio-data-restriction_enzyme)
-
-Restriction Enzyme Dataset from REBASE in yaml form
-
-* url: http://github.com/trevor/bioruby-data-restriction_enzyme
-* authors: Sir Richard J. Roberts, Trevor Wennblom
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-data-restriction_enzyme|
-|downloads|4372|
-|version|1.109.0|
-|version_created_at|2011-09-10T04:31:54.523Z|
-|version_downloads|4372|
-|platform|ruby|
-|metadata|{}|
-|yanked|false|
-|sha|0b4698b20a2c082ad1137a2d491d52d9541ea14b0a4e9bdb52158d96a511181e|
-|project_uri|https://rubygems.org/gems/bio-data-restriction_enzyme|
-|gem_uri|https://rubygems.org/gems/bio-data-restriction_enzyme-1.109.0.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-data-restriction_enzyme/1.109.0|
-|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.6.4"}, {"name"=>"rcov", "requirements"=>">= 0"}], "runtime"=>[]}|
-
-</details>
-
 ## lorem_ipsum_bio
 
 [![Gem Version](https://badge.fury.io/rb/lorem_ipsum_bio.svg)](https://badge.fury.io/rb/lorem_ipsum_bio)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2017-04-29&color=blue)
 
 Lorem Ipsum Bio is a toolkit for generating varied random biological sequences (especially usable as a control group in analysis)
 
@@ -4042,9 +4171,41 @@ Lorem Ipsum Bio is a toolkit for generating varied random biological sequences (
 
 </details>
 
+## bio-data-restriction_enzyme
+
+[![Gem Version](https://badge.fury.io/rb/bio-data-restriction_enzyme.svg)](https://badge.fury.io/rb/bio-data-restriction_enzyme)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-09-10&color=blue)
+
+Restriction Enzyme Dataset from REBASE in yaml form
+
+* url: http://github.com/trevor/bioruby-data-restriction_enzyme
+* authors: Sir Richard J. Roberts, Trevor Wennblom
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-data-restriction_enzyme|
+|downloads|4372|
+|version|1.109.0|
+|version_created_at|2011-09-10T04:31:54.523Z|
+|version_downloads|4372|
+|platform|ruby|
+|metadata|{}|
+|yanked|false|
+|sha|0b4698b20a2c082ad1137a2d491d52d9541ea14b0a4e9bdb52158d96a511181e|
+|project_uri|https://rubygems.org/gems/bio-data-restriction_enzyme|
+|gem_uri|https://rubygems.org/gems/bio-data-restriction_enzyme-1.109.0.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-data-restriction_enzyme/1.109.0|
+|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.6.4"}, {"name"=>"rcov", "requirements"=>">= 0"}], "runtime"=>[]}|
+
+</details>
+
 ## bio-blast_seq_extract
 
 [![Gem Version](https://badge.fury.io/rb/bio-blast_seq_extract.svg)](https://badge.fury.io/rb/bio-blast_seq_extract)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2019-12-20&color=blue)
 
 Extract the sequence of the subjects' region based on blast search.
 
@@ -4076,6 +4237,7 @@ Extract the sequence of the subjects' region based on blast search.
 ## bio-cgranges
 
 [![Gem Version](https://badge.fury.io/rb/bio-cgranges.svg)](https://badge.fury.io/rb/bio-cgranges)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2022-05-15&color=blue)
 
 Genomic interval overlap queries
 
@@ -4107,6 +4269,7 @@ Genomic interval overlap queries
 ## bio-emboss_six_frame_nucleotide_sequences
 
 [![Gem Version](https://badge.fury.io/rb/bio-emboss_six_frame_nucleotide_sequences.svg)](https://badge.fury.io/rb/bio-emboss_six_frame_nucleotide_sequences)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2011-04-03&color=blue)
 
 a method to get the nucleotide sequence of translations done by the EMBOSS bioinformatics package program transeq.
 
@@ -4137,6 +4300,7 @@ a method to get the nucleotide sequence of translations done by the EMBOSS bioin
 ## geni-svgenes
 
 [![Gem Version](https://badge.fury.io/rb/geni-svgenes.svg)](https://badge.fury.io/rb/geni-svgenes)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2017-01-30&color=blue)
 
 Modified version of the bio-svgenes gem, for use in https://geni-act.org education website.
 
@@ -4168,6 +4332,7 @@ Modified version of the bio-svgenes gem, for use in https://geni-act.org educati
 ## bioruby-phyloxml
 
 [![Gem Version](https://badge.fury.io/rb/bioruby-phyloxml.svg)](https://badge.fury.io/rb/bioruby-phyloxml)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2016-06-15&color=blue)
 
 Provides PhyloXML support for BioRuby. This bioruby-phyloxml gem replaces old unmaintained bio-phyloxml gem.
 
@@ -4199,6 +4364,7 @@ Provides PhyloXML support for BioRuby. This bioruby-phyloxml gem replaces old un
 ## eutils
 
 [![Gem Version](https://badge.fury.io/rb/eutils.svg)](https://badge.fury.io/rb/eutils)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2013-06-27&color=blue)
 
 Lightweight Ruby API for NCBI Eutils. This gem only provides API for NCBI Eutils. If you need full access to other NCBI databases, try BioRuby (bio gem) instead.
 
@@ -4230,6 +4396,7 @@ Lightweight Ruby API for NCBI Eutils. This gem only provides API for NCBI Eutils
 ## bioroebe
 
 [![Gem Version](https://badge.fury.io/rb/bioroebe.svg)](https://badge.fury.io/rb/bioroebe)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2022-06-02&color=blue)
 
 
 Welcome to the bioroebe-0.10.x release series! It is recommended to
@@ -4281,6 +4448,7 @@ https://www.rubydoc.info/gems/bioroebe/ ).
 ## htslib
 
 [![Gem Version](https://badge.fury.io/rb/htslib.svg)](https://badge.fury.io/rb/htslib)
+[![Year]](https://img.shields.io/static/v1?label=date&message=2022-05-29&color=blue)
 
 HTSlib bindings for Ruby
 
