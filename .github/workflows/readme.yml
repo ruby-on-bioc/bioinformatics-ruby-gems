@@ -2,6 +2,9 @@ on:
   schedule:
     - cron: '35 4 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
 jobs:
   generate:
     runs-on: ubuntu-latest

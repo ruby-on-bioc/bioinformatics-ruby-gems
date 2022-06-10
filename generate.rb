@@ -5,6 +5,7 @@ require 'gems'
 require 'erb'
 require 'tty-progressbar'
 require 'tty-spinner'
+require 'date'
 
 bio_gem_names = []
 spinner = TTY::Spinner.new('[:spinner] :title')
