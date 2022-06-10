@@ -50,8 +50,9 @@ end
 
 bar.finish
 
-warn 'Title'
-puts '# Bio Gems'
+puts "## The List of Bio Gems"
+puts
+puts "* https://github.com/ruby-on-bioc/bio-gems"
 puts
 
 erb = ERB.new(File.read('field.erb'), trim_mode: '-')
