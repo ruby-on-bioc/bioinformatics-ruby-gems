@@ -4,6 +4,7 @@
 require 'gems'
 require 'tty-progressbar'
 require 'tty-spinner'
+require 'yaml'
 
 bio_gem_names = []
 spinner = TTY::Spinner.new('[:spinner] :title')
@@ -48,4 +49,4 @@ end
 
 bar.finish
 
-Marshal.dump(bio_gems, File.open('bio_gems.marshal', 'wb'))
+YAML.dump(bio_gems, File.open('bio-gems.yml', 'wb'))

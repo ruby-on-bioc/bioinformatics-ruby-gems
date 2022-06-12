@@ -3,8 +3,9 @@
 
 require 'erb'
 require 'date'
+require 'yaml'
 
-bio_gems = Marshal.load(File.open('bio_gems.marshal', 'rb'))
+bio_gems = YAML.load(File.open('bio-gems.yml', 'rb'))
 
 puts '## The List of Bio Gems'
 puts
