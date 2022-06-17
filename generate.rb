@@ -6,7 +6,6 @@ require 'date'
 require 'yaml'
 
 bio_gems = YAML.load(File.open('bio-gems.yml', 'rb'))
-binding.irb
 
 puts '## The List of Bio Gems'
 puts
