@@ -3,7 +3,7 @@
 [![Gem Version](https://badge.fury.io/rb/<%= r['name'] %>.svg)](https://badge.fury.io/rb/<%= r['name'] %>)
 ![Year](https://img.shields.io/static/v1?label=date&message=<%= DateTime.parse(r['version_created_at']).strftime("%Y-%m-%d") %>&color=blue)
 ![Code Size](<%= code_size_badge(r) %>)
-![RubyDoc](https://rubydoc.info/gems/<%= r['name'] %>)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/<%= r['name'] %>)
 
 <%= r.delete('info') %>
 
