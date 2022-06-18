@@ -16,17 +16,20 @@ erb = ERB.new(File.read('field.erb'), trim_mode: '-')
 
 def code_size_badge(r)
   if l = r['homepage_uri']
-    if l.match(%r{github.com/(.*)/(.*)})
-      name = Regexp.last_match(1)
-      repo = Regexp.last_match(2)
-      "https://sloc.xyz/github/#{name}/#{repo}"
-    end
-  elsif l = r['source_code_uri']
-    if l.match(%r{github.com/(.*)/(.*)})
-      name = Regexp.last_match(1)
-      repo = Regexp.last_match(2)
-      "https://sloc.xyz/github/#{name}/#{repo}"
-    end
+    r = get_tokei_badge_from(l)
+    return r if r
+  end
+  if l = r['source_code_uri']
+    r = get_tokei_badge_from(l)
+    return r if r
+  end
+end
+
+def get_tokei_badge_from(url)
+  if url.match(%r{github.com/(.*)/(.*)})
+    name = Regexp.last_match(1)
+    repo = Regexp.last_match(2)
+    "https://tokei.rs/b1/github/#{name}/#{repo}"
   end
 end
 
