@@ -16,12 +16,12 @@ erb = ERB.new(File.read('field.erb'), trim_mode: '-')
 
 def code_size_badge(r)
   if l = r['homepage_uri']
-    r = get_tokei_badge_from(l)
-    return r if r
+    badge = get_tokei_badge_from(l)
+    return badge if badge
   end
   if l = r['source_code_uri']
-    r = get_tokei_badge_from(l)
-    return r if r
+    badge = get_tokei_badge_from(l)
+    return badge if badge
   end
 end
 
