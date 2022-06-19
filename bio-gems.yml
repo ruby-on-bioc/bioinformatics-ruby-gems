@@ -1,9 +1,9 @@
 ---
 - name: bio
-  downloads: 410408
+  downloads: 411052
   version: 2.0.3
   version_created_at: '2021-11-05T20:07:51.736Z'
-  version_downloads: 19245
+  version_downloads: 19764
   platform: ruby
   authors: BioRuby project
   info: BioRuby is a library for bioinformatics (biology + information science).
@@ -446,10 +446,10 @@
       requirements: "~> 2.10.0"
     runtime: []
 - name: bio-band
-  downloads: 30965
+  downloads: 30966
   version: 0.1.11
   version_created_at: '2013-09-16T10:06:12.118Z'
-  version_downloads: 3607
+  version_downloads: 3608
   platform: ruby
   authors: arrigonialberto86
   info: 'Data mining and machine learning algorithms for JRuby '
@@ -571,10 +571,10 @@
     development: []
     runtime: []
 - name: bio-vcf
-  downloads: 29615
+  downloads: 29616
   version: 0.9.5
   version_created_at: '2021-01-18T08:20:08.520Z'
-  version_downloads: 1239
+  version_downloads: 1240
   platform: ruby
   authors: Pjotr Prins
   info: Smart lazy multi-threaded parser for VCF format with useful filtering and
@@ -2862,10 +2862,10 @@
     - name: jruby-openssl
       requirements: ">= 0"
 - name: bio-fasta_retrieve
-  downloads: 16172
+  downloads: 16173
   version: 0.0.7
   version_created_at: '2015-08-27T10:51:39.816Z'
-  version_downloads: 2616
+  version_downloads: 2617
   platform: ruby
   authors: Andrei Rozanski
   info: Gem that helps to retrieve DNA sequence from UCSC
@@ -3233,31 +3233,6 @@
     - name: rspec
       requirements: "~> 2.3.0"
     runtime: []
-- name: bioruby-bio
-  downloads: 15321
-  version: 1.3.1.5000
-  version_created_at: '2014-08-11T07:28:26.580Z'
-  version_downloads: 3197
-  platform: ruby
-  authors: BioRuby project
-  info: BioRuby is a library for bioinformatics (biology + information science).
-  licenses: []
-  metadata: {}
-  yanked: false
-  sha: 6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e
-  project_uri: https://rubygems.org/gems/bioruby-bio
-  gem_uri: https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem
-  homepage_uri: http://bioruby.org/
-  wiki_uri: 
-  documentation_uri: https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
-  dependencies:
-    development: []
-    runtime: []
 - name: bio-gemma-wrapper
   downloads: 13105
   version: 0.99.6
@@ -3277,6 +3252,31 @@
   homepage_uri: https://github.com/genetics-statistics/gemma-wrapper
   wiki_uri: 
   documentation_uri: https://www.rubydoc.info/gems/bio-gemma-wrapper/0.99.6
+  mailing_list_uri: 
+  source_code_uri: 
+  bug_tracker_uri: 
+  changelog_uri: 
+  funding_uri: 
+  dependencies:
+    development: []
+    runtime: []
+- name: bioruby-bio
+  downloads: 15321
+  version: 1.3.1.5000
+  version_created_at: '2014-08-11T07:28:26.580Z'
+  version_downloads: 3197
+  platform: ruby
+  authors: BioRuby project
+  info: BioRuby is a library for bioinformatics (biology + information science).
+  licenses: []
+  metadata: {}
+  yanked: false
+  sha: 6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e
+  project_uri: https://rubygems.org/gems/bioruby-bio
+  gem_uri: https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem
+  homepage_uri: http://bioruby.org/
+  wiki_uri: 
+  documentation_uri: https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000
   mailing_list_uri: 
   source_code_uri: 
   bug_tracker_uri: 
@@ -3716,6 +3716,31 @@
       requirements: "~> 1.4"
     - name: thor
       requirements: ">= 0"
+- name: ngoto-bio
+  downloads: 9909
+  version: 1.3.1.5000
+  version_created_at: '2014-08-10T23:36:57.916Z'
+  version_downloads: 2574
+  platform: ruby
+  authors: BioRuby project
+  info: BioRuby is a library for bioinformatics (biology + information science).
+  licenses: []
+  metadata: {}
+  yanked: false
+  sha: a13d7d3b16b794f65f9c397d34a4e7ac13b9de613d9eccc0781639ec179470b1
+  project_uri: https://rubygems.org/gems/ngoto-bio
+  gem_uri: https://rubygems.org/gems/ngoto-bio-1.3.1.5000.gem
+  homepage_uri: http://bioruby.org/
+  wiki_uri: 
+  documentation_uri: https://www.rubydoc.info/gems/ngoto-bio/1.3.1.5000
+  mailing_list_uri: 
+  source_code_uri: 
+  bug_tracker_uri: 
+  changelog_uri: 
+  funding_uri: 
+  dependencies:
+    development: []
+    runtime: []
 - name: bio-kb-illumina
   downloads: 8688
   version: 0.1.0
@@ -3754,31 +3779,6 @@
       requirements: ">= 0"
     - name: shoulda
       requirements: ">= 0"
-    runtime: []
-- name: ngoto-bio
-  downloads: 9909
-  version: 1.3.1.5000
-  version_created_at: '2014-08-10T23:36:57.916Z'
-  version_downloads: 2574
-  platform: ruby
-  authors: BioRuby project
-  info: BioRuby is a library for bioinformatics (biology + information science).
-  licenses: []
-  metadata: {}
-  yanked: false
-  sha: a13d7d3b16b794f65f9c397d34a4e7ac13b9de613d9eccc0781639ec179470b1
-  project_uri: https://rubygems.org/gems/ngoto-bio
-  gem_uri: https://rubygems.org/gems/ngoto-bio-1.3.1.5000.gem
-  homepage_uri: http://bioruby.org/
-  wiki_uri: 
-  documentation_uri: https://www.rubydoc.info/gems/ngoto-bio/1.3.1.5000
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
-  dependencies:
-    development: []
     runtime: []
 - name: bio-biostars-analytics
   downloads: 8123
@@ -4369,10 +4369,10 @@
     - name: bio-sge
       requirements: "= 0.0.0"
 - name: bio-cd-hit-report
-  downloads: 13523
+  downloads: 13524
   version: 0.1.0
   version_created_at: '2013-04-26T19:38:24.419Z'
-  version_downloads: 3965
+  version_downloads: 3966
   platform: ruby
   authors: George Githinji
   info: A Ruby library for reading CD-HIT cluster reports
@@ -4694,6 +4694,31 @@
     - name: shoulda
       requirements: ">= 0"
     runtime: []
+- name: jandot-bio
+  downloads: 2675
+  version: 1.2.1
+  version_created_at: '2014-08-11T03:22:52.150Z'
+  version_downloads: 2675
+  platform: ruby
+  authors: Jan Aerts
+  info: BioRuby is a library for bioinformatics (biology + information science).
+  licenses: []
+  metadata: {}
+  yanked: false
+  sha: 592fdc936d86b6b51da49d39d39e9863a7b08f7e64747d7e97b8d9c3ae54df1a
+  project_uri: https://rubygems.org/gems/jandot-bio
+  gem_uri: https://rubygems.org/gems/jandot-bio-1.2.1.gem
+  homepage_uri: http://github.com/jandot/bioruby
+  wiki_uri: 
+  documentation_uri: https://www.rubydoc.info/gems/jandot-bio/1.2.1
+  mailing_list_uri: 
+  source_code_uri: 
+  bug_tracker_uri: 
+  changelog_uri: 
+  funding_uri: 
+  dependencies:
+    development: []
+    runtime: []
 - name: bio-sam-mutation
   downloads: 2380
   version: 0.4.1
@@ -4747,31 +4772,6 @@
       requirements: "~> 0.9"
     - name: trollop
       requirements: ">= 0"
-- name: jandot-bio
-  downloads: 2675
-  version: 1.2.1
-  version_created_at: '2014-08-11T03:22:52.150Z'
-  version_downloads: 2675
-  platform: ruby
-  authors: Jan Aerts
-  info: BioRuby is a library for bioinformatics (biology + information science).
-  licenses: []
-  metadata: {}
-  yanked: false
-  sha: 592fdc936d86b6b51da49d39d39e9863a7b08f7e64747d7e97b8d9c3ae54df1a
-  project_uri: https://rubygems.org/gems/jandot-bio
-  gem_uri: https://rubygems.org/gems/jandot-bio-1.2.1.gem
-  homepage_uri: http://github.com/jandot/bioruby
-  wiki_uri: 
-  documentation_uri: https://www.rubydoc.info/gems/jandot-bio/1.2.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
-  dependencies:
-    development: []
-    runtime: []
 - name: bio-old-biofetch-emulator
   downloads: 5995
   version: 1.0.0
@@ -5014,10 +5014,10 @@
       requirements: "~> 3.0"
     runtime: []
 - name: bio-cgranges
-  downloads: 426
+  downloads: 429
   version: 0.0.1
   version_created_at: '2022-05-15T08:22:06.051Z'
-  version_downloads: 225
+  version_downloads: 227
   platform: ruby
   authors: kojix2
   info: Genomic interval overlap queries
@@ -5185,10 +5185,10 @@
     - name: activesupport
       requirements: ">= 3.0.0"
 - name: bioroebe
-  downloads: 276546
+  downloads: 276548
   version: 0.10.79
   version_created_at: '2022-06-02T18:47:21.185Z'
-  version_downloads: 191
+  version_downloads: 193
   platform: ruby
   authors: Robert A. Heiler
   info: "\nWelcome to the bioroebe-0.10.x release series! It is recommended to\nuse
@@ -5234,10 +5234,10 @@
     - name: opn
       requirements: ">= 0"
 - name: htslib
-  downloads: 7414
+  downloads: 7417
   version: 0.2.0
   version_created_at: '2022-05-29T14:08:22.779Z'
-  version_downloads: 185
+  version_downloads: 187
   platform: ruby
   authors: kojix2
   info: HTSlib bindings for Ruby
