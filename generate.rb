@@ -7,7 +7,7 @@ require 'yaml'
 
 bio_gems = YAML.load(File.open('bio-gems.yml', 'rb'))
 
-puts '## The List of Bio Gems'
+puts '## The List of Bioinformatics Ruby Gems'
 puts
 puts '* https://github.com/ruby-on-bioc/bio-gems'
 puts
