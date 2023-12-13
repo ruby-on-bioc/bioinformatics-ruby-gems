@@ -20,10 +20,10 @@ BioRuby is a library for bioinformatics (biology + information science).
 |key|value|
 |---|-----|
 |name|bio|
-|downloads|601848|
+|downloads|602609|
 |version|2.0.5|
 |version_created_at|2023-09-27T14:50:07.538Z|
-|version_downloads|12618|
+|version_downloads|12827|
 |platform|ruby|
 |licenses|["Ruby"]|
 |metadata|{}|
@@ -232,7 +232,7 @@ Detecting and quantifying functional genes in short-read metagenomic datasets
 |key|value|
 |---|-----|
 |name|bio-rocker|
-|downloads|51213|
+|downloads|51214|
 |version|1.5.2|
 |version_created_at|2019-08-15T00:50:41.492Z|
 |version_downloads|2642|
@@ -266,10 +266,10 @@ Multiple Alignment Format parser for BioRuby.
 |key|value|
 |---|-----|
 |name|bio-maf|
-|downloads|49983|
+|downloads|49985|
 |version|1.0.1|
 |version_created_at|2012-08-21T17:38:13.637Z|
-|version_downloads|5090|
+|version_downloads|5092|
 |platform|ruby|
 |metadata|{}|
 |yanked|false|
@@ -299,10 +299,10 @@ This library provides support for BGZF (Blocked GZip Format) in Ruby. BGZF, orig
 |key|value|
 |---|-----|
 |name|bio-bgzf|
-|downloads|49111|
+|downloads|49133|
 |version|0.2.1|
 |version_created_at|2012-08-06T19:05:37.870Z|
-|version_downloads|37992|
+|version_downloads|38014|
 |platform|ruby|
 |metadata|{}|
 |yanked|false|
@@ -332,7 +332,7 @@ Fast big data BLAST XML parser and library; this libxml2 based version is 50x fa
 |key|value|
 |---|-----|
 |name|bio-blastxmlparser|
-|downloads|48180|
+|downloads|48181|
 |version|2.0.4|
 |version_created_at|2015-09-16T06:44:58.703Z|
 |version_downloads|6225|
@@ -503,7 +503,7 @@ Support for multiple sequence alignments (MSA)
 |key|value|
 |---|-----|
 |name|bio-alignment|
-|downloads|34724|
+|downloads|34726|
 |version|0.1.0|
 |version_created_at|2017-10-10T09:36:09.884Z|
 |version_downloads|2452|
@@ -537,10 +537,10 @@ Log4r wrapper for BioRuby
 |key|value|
 |---|-----|
 |name|bio-logger|
-|downloads|33556|
+|downloads|33559|
 |version|1.0.1|
 |version_created_at|2012-04-02T11:04:58.719Z|
-|version_downloads|15654|
+|version_downloads|15657|
 |platform|ruby|
 |metadata|{}|
 |yanked|false|
@@ -1429,10 +1429,10 @@ Store relationships in a triple-store, such as gene enrichment and QTL, and use 
 |key|value|
 |---|-----|
 |name|bio-rdf|
-|downloads|11646|
+|downloads|11647|
 |version|0.0.2|
 |version_created_at|2012-05-23T07:44:24.909Z|
-|version_downloads|5086|
+|version_downloads|5087|
 |platform|ruby|
 |metadata|{}|
 |yanked|false|
@@ -2199,39 +2199,6 @@ This is a Ruby binding for lib2bit(https://github.com/dpryan79/lib2bit), which p
 
 </details>
 
-## bio-hello
-
-[![Gem Version](https://badge.fury.io/rb/bio-hello.svg)](https://badge.fury.io/rb/bio-hello)
-![Year](https://img.shields.io/static/v1?label=date&message=2010-12-31&color=blue)
-![Code Size](https://tokei.rs/b1/github/ktym/bioruby-hello)
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-hello)
-
-Encode any message string into a DNA sequence
-
-* URL: [http://github.com/ktym/bioruby-hello](http://github.com/ktym/bioruby-hello)
-* Authors: Toshiaki Katayama
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-hello|
-|downloads|5420|
-|version|0.0.0|
-|version_created_at|2010-12-31T04:24:19.169Z|
-|version_downloads|5420|
-|platform|ruby|
-|metadata|{}|
-|yanked|false|
-|sha|3d2ad0c17e1a407b57e49d456f02f630ef129bac19d412e565be3279d2a4ca3c|
-|project_uri|https://rubygems.org/gems/bio-hello|
-|gem_uri|https://rubygems.org/gems/bio-hello-0.0.0.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-hello/0.0.0|
-|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.5.2"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[]}|
-
-</details>
-
 ## bio-kmer_counter
 
 [![Gem Version](https://badge.fury.io/rb/bio-kmer_counter.svg)](https://badge.fury.io/rb/bio-kmer_counter)
@@ -2263,6 +2230,39 @@ A biogem for counting small kmers for fingerprinting nucleotide sequences. See R
 |gem_uri|https://rubygems.org/gems/bio-kmer_counter-0.1.2.gem|
 |documentation_uri|https://www.rubydoc.info/gems/bio-kmer_counter/0.1.2|
 |dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>">= 1.0.21"}, {"name"=>"jeweler", "requirements"=>">= 1.8.3"}, {"name"=>"rdoc", "requirements"=>">= 3.12"}, {"name"=>"rdoc", "requirements"=>">= 3.12"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bio-logger", "requirements"=>">= 1.0.1"}, {"name"=>"parallel", "requirements"=>">= 0.5.17"}, {"name"=>"progressbar", "requirements"=>">= 0.11.0"}]}|
+
+</details>
+
+## bio-hello
+
+[![Gem Version](https://badge.fury.io/rb/bio-hello.svg)](https://badge.fury.io/rb/bio-hello)
+![Year](https://img.shields.io/static/v1?label=date&message=2010-12-31&color=blue)
+![Code Size](https://tokei.rs/b1/github/ktym/bioruby-hello)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-hello)
+
+Encode any message string into a DNA sequence
+
+* URL: [http://github.com/ktym/bioruby-hello](http://github.com/ktym/bioruby-hello)
+* Authors: Toshiaki Katayama
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-hello|
+|downloads|5420|
+|version|0.0.0|
+|version_created_at|2010-12-31T04:24:19.169Z|
+|version_downloads|5420|
+|platform|ruby|
+|metadata|{}|
+|yanked|false|
+|sha|3d2ad0c17e1a407b57e49d456f02f630ef129bac19d412e565be3279d2a4ca3c|
+|project_uri|https://rubygems.org/gems/bio-hello|
+|gem_uri|https://rubygems.org/gems/bio-hello-0.0.0.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-hello/0.0.0|
+|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.5.2"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[]}|
 
 </details>
 
@@ -2692,10 +2692,10 @@ A fast FASTA/FASTQ parser based on kseq.h by Heng Li
 |key|value|
 |---|-----|
 |name|bio-kseq|
-|downloads|4533|
+|downloads|4534|
 |version|0.0.2|
 |version_created_at|2014-07-16T08:21:38.034Z|
-|version_downloads|4526|
+|version_downloads|4527|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -2709,6 +2709,39 @@ A fast FASTA/FASTQ parser based on kseq.h by Heng Li
 |source_code_uri|https://github.com/gusevfe/bio-kseq|
 |bug_tracker_uri|https://github.com/gusevfe/bio-kseq/issues|
 |dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>"~> 1.5"}, {"name"=>"rake", "requirements"=>">= 0"}, {"name"=>"rake-compiler", "requirements"=>">= 0"}, {"name"=>"rspec", "requirements"=>">= 3.0.0"}], "runtime"=>[]}|
+
+</details>
+
+## bio-isoelectric_point
+
+[![Gem Version](https://badge.fury.io/rb/bio-isoelectric_point.svg)](https://badge.fury.io/rb/bio-isoelectric_point)
+![Year](https://img.shields.io/static/v1?label=date&message=2012-03-01&color=blue)
+![Code Size](https://tokei.rs/b1/github/georgeG/bioruby-isoelectric_point)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-isoelectric_point)
+
+A bioruby plugin for calculating the isoelectric point of a protein 
+
+* URL: [http://github.com/georgeG/bioruby-isoelectric_point](http://github.com/georgeG/bioruby-isoelectric_point)
+* Authors: George Githinji, Pascal Betz
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-isoelectric_point|
+|downloads|18206|
+|version|0.1.3|
+|version_created_at|2012-03-01T06:16:49.922Z|
+|version_downloads|5610|
+|platform|ruby|
+|metadata|{}|
+|yanked|false|
+|sha|744f197fb06803c78d41dc6dbab1aec14070d059ab6dff0c778b2d32a9875659|
+|project_uri|https://rubygems.org/gems/bio-isoelectric_point|
+|gem_uri|https://rubygems.org/gems/bio-isoelectric_point-0.1.3.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-isoelectric_point/0.1.3|
+|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>"~> 1.0.22"}, {"name"=>"jeweler", "requirements"=>"~> 1.8.3"}, {"name"=>"shoulda", "requirements"=>"~> 2.11.3"}], "runtime"=>[]}|
 
 </details>
 
@@ -2746,36 +2779,37 @@ Parses stockholm sequence alignment format
 
 </details>
 
-## bio-isoelectric_point
+## bio-velvet_underground
 
-[![Gem Version](https://badge.fury.io/rb/bio-isoelectric_point.svg)](https://badge.fury.io/rb/bio-isoelectric_point)
-![Year](https://img.shields.io/static/v1?label=date&message=2012-03-01&color=blue)
-![Code Size](https://tokei.rs/b1/github/georgeG/bioruby-isoelectric_point)
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-isoelectric_point)
+[![Gem Version](https://badge.fury.io/rb/bio-velvet_underground.svg)](https://badge.fury.io/rb/bio-velvet_underground)
+![Year](https://img.shields.io/static/v1?label=date&message=2016-08-01&color=blue)
+![Code Size](https://tokei.rs/b1/github/wwood/bioruby-velvet_underground)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-velvet_underground)
 
-A bioruby plugin for calculating the isoelectric point of a protein 
+Bindings to some internals of the velvet assembler.
 
-* URL: [http://github.com/georgeG/bioruby-isoelectric_point](http://github.com/georgeG/bioruby-isoelectric_point)
-* Authors: George Githinji, Pascal Betz
+* URL: [http://github.com/wwood/bioruby-velvet_underground](http://github.com/wwood/bioruby-velvet_underground)
+* Authors: Ben Woodcroft
 
 <details>
 <summary><b>table</b></summary>
 
 |key|value|
 |---|-----|
-|name|bio-isoelectric_point|
-|downloads|18206|
-|version|0.1.3|
-|version_created_at|2012-03-01T06:16:49.922Z|
-|version_downloads|5610|
+|name|bio-velvet_underground|
+|downloads|17432|
+|version|0.3.1|
+|version_created_at|2016-08-01T11:19:19.014Z|
+|version_downloads|2877|
 |platform|ruby|
+|licenses|["GPL"]|
 |metadata|{}|
 |yanked|false|
-|sha|744f197fb06803c78d41dc6dbab1aec14070d059ab6dff0c778b2d32a9875659|
-|project_uri|https://rubygems.org/gems/bio-isoelectric_point|
-|gem_uri|https://rubygems.org/gems/bio-isoelectric_point-0.1.3.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-isoelectric_point/0.1.3|
-|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>"~> 1.0.22"}, {"name"=>"jeweler", "requirements"=>"~> 1.8.3"}, {"name"=>"shoulda", "requirements"=>"~> 2.11.3"}], "runtime"=>[]}|
+|sha|1fd95b6a66e8308041d8a68c5094961d5b01fb7e3892a1d80de08464cdc1d7f1|
+|project_uri|https://rubygems.org/gems/bio-velvet_underground|
+|gem_uri|https://rubygems.org/gems/bio-velvet_underground-0.3.1.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-velvet_underground/0.3.1|
+|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>">= 1.0.21"}, {"name"=>"jeweler", "requirements"=>"~> 2.0"}, {"name"=>"pry", "requirements"=>"> 0"}, {"name"=>"rspec", "requirements"=>"~> 2.8"}, {"name"=>"shoulda", "requirements"=>">= 0"}, {"name"=>"simplecov", "requirements"=>">= 0"}, {"name"=>"yard", "requirements"=>"~> 0.7"}], "runtime"=>[{"name"=>"bio-logger", "requirements"=>"~> 1.0"}, {"name"=>"bio-velvet", "requirements"=>"~> 0.6"}, {"name"=>"ffi", "requirements"=>"~> 1.9"}]}|
 
 </details>
 
@@ -2813,40 +2847,6 @@ Just a test
 
 </details>
 
-## bio-velvet_underground
-
-[![Gem Version](https://badge.fury.io/rb/bio-velvet_underground.svg)](https://badge.fury.io/rb/bio-velvet_underground)
-![Year](https://img.shields.io/static/v1?label=date&message=2016-08-01&color=blue)
-![Code Size](https://tokei.rs/b1/github/wwood/bioruby-velvet_underground)
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-velvet_underground)
-
-Bindings to some internals of the velvet assembler.
-
-* URL: [http://github.com/wwood/bioruby-velvet_underground](http://github.com/wwood/bioruby-velvet_underground)
-* Authors: Ben Woodcroft
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-velvet_underground|
-|downloads|17432|
-|version|0.3.1|
-|version_created_at|2016-08-01T11:19:19.014Z|
-|version_downloads|2877|
-|platform|ruby|
-|licenses|["GPL"]|
-|metadata|{}|
-|yanked|false|
-|sha|1fd95b6a66e8308041d8a68c5094961d5b01fb7e3892a1d80de08464cdc1d7f1|
-|project_uri|https://rubygems.org/gems/bio-velvet_underground|
-|gem_uri|https://rubygems.org/gems/bio-velvet_underground-0.3.1.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-velvet_underground/0.3.1|
-|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>">= 1.0.21"}, {"name"=>"jeweler", "requirements"=>"~> 2.0"}, {"name"=>"pry", "requirements"=>"> 0"}, {"name"=>"rspec", "requirements"=>"~> 2.8"}, {"name"=>"shoulda", "requirements"=>">= 0"}, {"name"=>"simplecov", "requirements"=>">= 0"}, {"name"=>"yard", "requirements"=>"~> 0.7"}], "runtime"=>[{"name"=>"bio-logger", "requirements"=>"~> 1.0"}, {"name"=>"bio-velvet", "requirements"=>"~> 0.6"}, {"name"=>"ffi", "requirements"=>"~> 1.9"}]}|
-
-</details>
-
 ## bioruby-bio
 
 [![Gem Version](https://badge.fury.io/rb/bioruby-bio.svg)](https://badge.fury.io/rb/bioruby-bio)
@@ -2865,10 +2865,10 @@ BioRuby is a library for bioinformatics (biology + information science).
 |key|value|
 |---|-----|
 |name|bioruby-bio|
-|downloads|18314|
+|downloads|18315|
 |version|1.3.1.5000|
 |version_created_at|2014-08-11T07:28:26.580Z|
-|version_downloads|3870|
+|version_downloads|3871|
 |platform|ruby|
 |licenses|[]|
 |metadata|{}|
@@ -2933,10 +2933,10 @@ a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and overlap
 |key|value|
 |---|-----|
 |name|bio-genomic-interval|
-|downloads|15426|
+|downloads|15428|
 |version|0.1.2|
 |version_created_at|2011-04-20T06:56:14.307Z|
-|version_downloads|7309|
+|version_downloads|7311|
 |platform|ruby|
 |metadata|{}|
 |yanked|false|
@@ -3038,10 +3038,10 @@ Statsample-timeseries is an extension to Statsample. It incorporates helpful tim
 |key|value|
 |---|-----|
 |name|bio-statsample-timeseries|
-|downloads|13891|
+|downloads|13892|
 |version|0.2.1|
 |version_created_at|2013-09-23T06:06:28.580Z|
-|version_downloads|4283|
+|version_downloads|4284|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -3076,10 +3076,10 @@ Basic wrapper for the Kallistio Mapper
 |key|value|
 |---|-----|
 |name|bio-kallisto|
-|downloads|3395|
+|downloads|3396|
 |version|0.1.0|
 |version_created_at|2015-10-05T21:50:10.764Z|
-|version_downloads|3395|
+|version_downloads|3396|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -3396,40 +3396,6 @@ Provide access to the IlluminaHumanAnnotations. Database comes form Bioconductor
 
 </details>
 
-## bio-iqtree
-
-[![Gem Version](https://badge.fury.io/rb/bio-iqtree.svg)](https://badge.fury.io/rb/bio-iqtree)
-![Year](https://img.shields.io/static/v1?label=date&message=2019-08-20&color=blue)
-![Code Size]()
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-iqtree)
-
-Phylogenetic analysis using IQ-Tree via BioRuby
-
-* URL: []()
-* Authors: evolbeginner
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-iqtree|
-|downloads|2641|
-|version|0.1.2|
-|version_created_at|2019-08-20T02:13:44.060Z|
-|version_downloads|2524|
-|platform|ruby|
-|licenses|["MIT"]|
-|metadata|{}|
-|yanked|false|
-|sha|66f0353ebf7f403aed1105d9cf7722e1a3b0955825c0a710295162fc37d23397|
-|project_uri|https://rubygems.org/gems/bio-iqtree|
-|gem_uri|https://rubygems.org/gems/bio-iqtree-0.1.2.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-iqtree/0.1.2|
-|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>"~> 1.5"}, {"name"=>"bundler", "requirements"=>"~> 2.0"}, {"name"=>"rake", "requirements"=>"~> 10.0"}, {"name"=>"rspec", "requirements"=>"~> 3.0"}], "runtime"=>[]}|
-
-</details>
-
 ## bio-biostars-analytics
 
 [![Gem Version](https://badge.fury.io/rb/bio-biostars-analytics.svg)](https://badge.fury.io/rb/bio-biostars-analytics)
@@ -3461,6 +3427,40 @@ Ruby script for data-mining biostars.org using web-crawling techniques as well a
 |gem_uri|https://rubygems.org/gems/bio-biostars-analytics-0.2.0.gem|
 |documentation_uri|https://www.rubydoc.info/gems/bio-biostars-analytics/0.2.0|
 |dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>">= 1.0.21"}, {"name"=>"chronic", "requirements"=>"~> 0.10.2"}, {"name"=>"hpricot", "requirements"=>"~> 0.8.6"}, {"name"=>"jeweler", "requirements"=>"~> 2.0.1"}, {"name"=>"json", "requirements"=>"~> 1.8.0"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[]}|
+
+</details>
+
+## bio-iqtree
+
+[![Gem Version](https://badge.fury.io/rb/bio-iqtree.svg)](https://badge.fury.io/rb/bio-iqtree)
+![Year](https://img.shields.io/static/v1?label=date&message=2019-08-20&color=blue)
+![Code Size]()
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-iqtree)
+
+Phylogenetic analysis using IQ-Tree via BioRuby
+
+* URL: []()
+* Authors: evolbeginner
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-iqtree|
+|downloads|2641|
+|version|0.1.2|
+|version_created_at|2019-08-20T02:13:44.060Z|
+|version_downloads|2524|
+|platform|ruby|
+|licenses|["MIT"]|
+|metadata|{}|
+|yanked|false|
+|sha|66f0353ebf7f403aed1105d9cf7722e1a3b0955825c0a710295162fc37d23397|
+|project_uri|https://rubygems.org/gems/bio-iqtree|
+|gem_uri|https://rubygems.org/gems/bio-iqtree-0.1.2.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-iqtree/0.1.2|
+|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>"~> 1.5"}, {"name"=>"bundler", "requirements"=>"~> 2.0"}, {"name"=>"rake", "requirements"=>"~> 10.0"}, {"name"=>"rspec", "requirements"=>"~> 3.0"}], "runtime"=>[]}|
 
 </details>
 
@@ -3823,10 +3823,10 @@ A minimal web service on the top of sinatra to query bam files
 |key|value|
 |---|-----|
 |name|bio-samtools-server|
-|downloads|6846|
+|downloads|6848|
 |version|0.1.2|
 |version_created_at|2014-05-30T16:58:53.191Z|
-|version_downloads|3907|
+|version_downloads|3908|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -4176,10 +4176,10 @@ This is a BioRuby plugin providing FALDO location RDF output method for Bio::Loc
 |key|value|
 |---|-----|
 |name|bio-location-rdfize|
-|downloads|3719|
+|downloads|3720|
 |version|0.0.0|
 |version_created_at|2014-11-10T08:22:26.563Z|
-|version_downloads|3719|
+|version_downloads|3720|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -4226,6 +4226,39 @@ A ruby wrapper for bio SPARQL service
 
 </details>
 
+## bio-wolf_psort_wrapper
+
+[![Gem Version](https://badge.fury.io/rb/bio-wolf_psort_wrapper.svg)](https://badge.fury.io/rb/bio-wolf_psort_wrapper)
+![Year](https://img.shields.io/static/v1?label=date&message=2012-01-20&color=blue)
+![Code Size](https://tokei.rs/b1/github/wwood/bioruby-wolf_psort_wrapper)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-wolf_psort_wrapper)
+
+Enables the localisation predictor WoLF PSORT to be run locally. The algorithm is available at http://wolfpsort.org/
+
+* URL: [http://github.com/wwood/bioruby-wolf_psort_wrapper](http://github.com/wwood/bioruby-wolf_psort_wrapper)
+* Authors: Ben J Woodcroft
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-wolf_psort_wrapper|
+|downloads|9034|
+|version|0.0.3|
+|version_created_at|2012-01-20T11:17:05.885Z|
+|version_downloads|5026|
+|platform|ruby|
+|metadata|{}|
+|yanked|false|
+|sha|ee1144bda0f73158336222f07f9dae32856ced05345d267d4891f41e55017c4a|
+|project_uri|https://rubygems.org/gems/bio-wolf_psort_wrapper|
+|gem_uri|https://rubygems.org/gems/bio-wolf_psort_wrapper-0.0.3.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-wolf_psort_wrapper/0.0.3|
+|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.6.4"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[]}|
+
+</details>
+
 ## bio-sam-mutation
 
 [![Gem Version](https://badge.fury.io/rb/bio-sam-mutation.svg)](https://badge.fury.io/rb/bio-sam-mutation)
@@ -4257,39 +4290,6 @@ Simple classes for parsing SAM, CIGAR and MD:Z strings, including slices. Method
 |gem_uri|https://rubygems.org/gems/bio-sam-mutation-0.4.1.gem|
 |documentation_uri|https://www.rubydoc.info/gems/bio-sam-mutation/0.4.1|
 |dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>">= 0"}, {"name"=>"jeweler", "requirements"=>"~> 2.0"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"shoulda", "requirements"=>">= 0"}, {"name"=>"simplecov", "requirements"=>">= 0"}, {"name"=>"test-unit", "requirements"=>"~> 3.0"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bio-ensembl-rest", "requirements"=>"= 0.2.0"}, {"name"=>"bio-samtools", "requirements"=>"~> 2.3.4"}, {"name"=>"oj", "requirements"=>"~> 2.14"}, {"name"=>"rake", "requirements"=>"~> 0.9"}, {"name"=>"trollop", "requirements"=>">= 0"}]}|
-
-</details>
-
-## bio-wolf_psort_wrapper
-
-[![Gem Version](https://badge.fury.io/rb/bio-wolf_psort_wrapper.svg)](https://badge.fury.io/rb/bio-wolf_psort_wrapper)
-![Year](https://img.shields.io/static/v1?label=date&message=2012-01-20&color=blue)
-![Code Size](https://tokei.rs/b1/github/wwood/bioruby-wolf_psort_wrapper)
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-wolf_psort_wrapper)
-
-Enables the localisation predictor WoLF PSORT to be run locally. The algorithm is available at http://wolfpsort.org/
-
-* URL: [http://github.com/wwood/bioruby-wolf_psort_wrapper](http://github.com/wwood/bioruby-wolf_psort_wrapper)
-* Authors: Ben J Woodcroft
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-wolf_psort_wrapper|
-|downloads|9034|
-|version|0.0.3|
-|version_created_at|2012-01-20T11:17:05.885Z|
-|version_downloads|5026|
-|platform|ruby|
-|metadata|{}|
-|yanked|false|
-|sha|ee1144bda0f73158336222f07f9dae32856ced05345d267d4891f41e55017c4a|
-|project_uri|https://rubygems.org/gems/bio-wolf_psort_wrapper|
-|gem_uri|https://rubygems.org/gems/bio-wolf_psort_wrapper-0.0.3.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-wolf_psort_wrapper/0.0.3|
-|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.6.4"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[]}|
 
 </details>
 
