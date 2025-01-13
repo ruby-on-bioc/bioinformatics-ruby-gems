@@ -1,9 +1,9 @@
 ---
 - name: bio
-  downloads: 733808
+  downloads: 733850
   version: 2.0.5
   version_created_at: '2023-09-27T14:50:07.538Z'
-  version_downloads: 49463
+  version_downloads: 49479
   platform: ruby
   authors: BioRuby project
   info: BioRuby is a library for bioinformatics (biology + information science).
@@ -21,16 +21,16 @@
   mailing_list_uri: http://lists.open-bio.org/mailman/listinfo/bioruby
   source_code_uri: https://github.com/bioruby/bioruby/
   bug_tracker_uri: https://github.com/bioruby/bioruby/issues
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
 - name: bio-samtools
-  downloads: 122487
+  downloads: 122498
   version: 2.6.2
   version_created_at: '2018-01-11T00:55:22.555Z'
-  version_downloads: 4084
+  version_downloads: 4086
   platform: ruby
   authors: Ricardo Ramirez-Gonzalez, Dan MacLean, Raoul J.P. Bonnal
   info: "Binder of samtools for ruby, on the top of FFI. \n\n  This project was born
@@ -44,13 +44,13 @@
   project_uri: https://rubygems.org/gems/bio-samtools
   gem_uri: https://rubygems.org/gems/bio-samtools-2.6.2.gem
   homepage_uri: http://github.com/helios/bioruby-samtools
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-samtools/2.6.2
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: juwelier
@@ -67,7 +67,7 @@
     - name: bio-svgenes
       requirements: ">= 0.4.1"
 - name: bio-gem
-  downloads: 97628
+  downloads: 97634
   version: 1.3.6
   version_created_at: '2014-05-20T04:31:57.244Z'
   version_downloads: 4480
@@ -85,13 +85,13 @@
   project_uri: https://rubygems.org/gems/bio-gem
   gem_uri: https://rubygems.org/gems/bio-gem-1.3.6.gem
   homepage_uri: http://github.com/helios/bioruby-gem
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-gem/1.3.6
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
@@ -118,13 +118,13 @@
   project_uri: https://rubygems.org/gems/bio-gadget
   gem_uri: https://rubygems.org/gems/bio-gadget-0.5.0.gem
   homepage_uri: https://github.com/shka/ruby-bio-gadget
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-gadget/0.5.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -164,13 +164,13 @@
   project_uri: https://rubygems.org/gems/bio-fastqc
   gem_uri: https://rubygems.org/gems/bio-fastqc-0.10.8.gem
   homepage_uri: http://github.com/inutano/bioruby-fastqc
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-fastqc/0.10.8
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio-fastqc
@@ -201,10 +201,10 @@
     - name: thor
       requirements: "~> 0.19.1"
 - name: bio-svgenes
-  downloads: 60820
+  downloads: 60824
   version: 0.4.1
   version_created_at: '2014-01-06T09:45:10.714Z'
-  version_downloads: 13143
+  version_downloads: 13145
   platform: ruby
   authors: Dan MacLean
   info: This bio-gem facilitates the creation of pretty, publication quality SVG images
@@ -218,13 +218,13 @@
   project_uri: https://rubygems.org/gems/bio-svgenes
   gem_uri: https://rubygems.org/gems/bio-svgenes-0.4.1.gem
   homepage_uri: http://github.com/danmaclean/bioruby-svgenes
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-svgenes/0.4.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -251,7 +251,7 @@
     originally defined as part of the SAM/BAM specification, is used to compress record-oriented
     data in a way that facilitates random access, unlike plain gzip. BGZF is principally
     used for bioinformatics data but would be useful in other contexts as well.
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/csw/bioruby-bgzf
   yanked: false
@@ -260,13 +260,13 @@
   project_uri: https://rubygems.org/gems/bio-bgzf
   gem_uri: https://rubygems.org/gems/bio-bgzf-0.2.1.gem
   homepage_uri: http://github.com/csw/bioruby-bgzf
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -293,13 +293,13 @@
   project_uri: https://rubygems.org/gems/bio-rocker
   gem_uri: https://rubygems.org/gems/bio-rocker-1.5.2.gem
   homepage_uri: http://enve-omics.ce.gatech.edu/rocker
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-rocker/1.5.2
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
@@ -315,7 +315,7 @@
   platform: ruby
   authors: Clayton Wheeler
   info: Multiple Alignment Format parser for BioRuby.
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/csw/bioruby-maf
   yanked: false
@@ -324,13 +324,13 @@
   project_uri: https://rubygems.org/gems/bio-maf
   gem_uri: https://rubygems.org/gems/bio-maf-1.0.1.gem
   homepage_uri: http://github.com/csw/bioruby-maf
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
@@ -362,13 +362,13 @@
   project_uri: https://rubygems.org/gems/bio-blastxmlparser
   gem_uri: https://rubygems.org/gems/bio-blastxmlparser-2.0.4.gem
   homepage_uri: http://github.com/pjotrp/blastxmlparser
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-blastxmlparser/2.0.4
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
@@ -377,14 +377,14 @@
     - name: nokogiri
       requirements: ">= 0"
 - name: bio-grid
-  downloads: 47063
+  downloads: 47064
   version: 0.3.3
   version_created_at: '2012-10-25T13:35:19.450Z'
   version_downloads: 4869
   platform: ruby
   authors: Francesco Strozzi
   info: A BioGem to submit jobs on a queue system
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/fstrozzi/bioruby-grid
   yanked: false
@@ -393,13 +393,13 @@
   project_uri: https://rubygems.org/gems/bio-grid
   gem_uri: https://rubygems.org/gems/bio-grid-0.3.3.gem
   homepage_uri: http://github.com/fstrozzi/bioruby-grid
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -416,17 +416,17 @@
     - name: uuid
       requirements: ">= 0"
 - name: bio-gff3
-  downloads: 45445
+  downloads: 45446
   version: 0.9.1
   version_created_at: '2012-08-20T09:29:57.889Z'
-  version_downloads: 5416
+  version_downloads: 5417
   platform: ruby
   authors: Pjotr Prins
   info: |
     GFF3 (genome browser) information and digest mRNA and CDS sequences.
     Options for low memory use and caching of records.
     Support for external FASTA files.
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: https://github.com/pjotrp/bioruby-gff3-plugin
   yanked: false
@@ -435,13 +435,13 @@
   project_uri: https://rubygems.org/gems/bio-gff3
   gem_uri: https://rubygems.org/gems/bio-gff3-0.9.1.gem
   homepage_uri: https://github.com/pjotrp/bioruby-gff3-plugin
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -479,18 +479,18 @@
   project_uri: https://rubygems.org/gems/bio-vcf
   gem_uri: https://rubygems.org/gems/bio-vcf-0.9.5.gem
   homepage_uri: http://github.com/vcflib/bio-vcf
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-vcf/0.9.5
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
 - name: bio-band
-  downloads: 38504
+  downloads: 38507
   version: 0.1.11
   version_created_at: '2013-09-16T10:06:12.118Z'
   version_downloads: 4597
@@ -506,13 +506,13 @@
   project_uri: https://rubygems.org/gems/bio-band
   gem_uri: https://rubygems.org/gems/bio-band-0.1.11.gem
   homepage_uri: http://github.com/arrigonialberto86/bioruby-band
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-band/0.1.11
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
@@ -569,13 +569,13 @@
   project_uri: https://rubygems.org/gems/bio-alignment
   gem_uri: https://rubygems.org/gems/bio-alignment-0.1.0.gem
   homepage_uri: http://github.com/pjotrp/bioruby-alignment
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-alignment/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
@@ -587,7 +587,7 @@
   platform: ruby
   authors: Pjotr Prins
   info: Log4r wrapper for BioRuby
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: https://github.com/pjotrp/bioruby-logger-plugin
   yanked: false
@@ -596,13 +596,13 @@
   project_uri: https://rubygems.org/gems/bio-logger
   gem_uri: https://rubygems.org/gems/bio-logger-1.0.1.gem
   homepage_uri: https://github.com/pjotrp/bioruby-logger-plugin
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -636,13 +636,13 @@
   project_uri: https://rubygems.org/gems/bio-table
   gem_uri: https://rubygems.org/gems/bio-table-1.0.0.gem
   homepage_uri: http://github.com/pjotrp/bioruby-table
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-table/1.0.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -678,13 +678,13 @@
   project_uri: https://rubygems.org/gems/bio-publisci
   gem_uri: https://rubygems.org/gems/bio-publisci-0.1.0.gem
   homepage_uri: http://github.com/wstrinz/bioruby-publisci
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-publisci/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -742,7 +742,7 @@
   platform: ruby
   authors: Francesco Strozzi
   info: A fast parser for FastQ files
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/fstrozzi/bioruby-faster
   yanked: false
@@ -751,13 +751,13 @@
   project_uri: https://rubygems.org/gems/bio-faster
   gem_uri: https://rubygems.org/gems/bio-faster-0.4.5.gem
   homepage_uri: http://github.com/fstrozzi/bioruby-faster
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -778,14 +778,14 @@
     - name: ffi
       requirements: ">= 0"
 - name: bio-ngs
-  downloads: 30280
+  downloads: 30281
   version: 0.5.2
   version_created_at: '2012-06-06T13:27:18.216Z'
   version_downloads: 5520
   platform: ruby
   authors: Francesco Strozzi, Raoul J.P. Bonnal
   info: bio-ngs provides a framework for handling NGS data with BioRuby
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/helios/bioruby-ngs
   yanked: false
@@ -794,13 +794,13 @@
   project_uri: https://rubygems.org/gems/bio-ngs
   gem_uri: https://rubygems.org/gems/bio-ngs-0.5.2.gem
   homepage_uri: http://github.com/helios/bioruby-ngs
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: activerecord
@@ -887,13 +887,13 @@
   project_uri: https://rubygems.org/gems/bio-pipengine
   gem_uri: https://rubygems.org/gems/bio-pipengine-0.9.7.gem
   homepage_uri: http://github.com/fstrozzi/bioruby-pipengine
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-pipengine/0.9.7
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: jeweler
@@ -920,13 +920,13 @@
   project_uri: https://rubygems.org/gems/bio-velvet
   gem_uri: https://rubygems.org/gems/bio-velvet-0.6.0.gem
   homepage_uri: http://github.com/wwood/bioruby-velvet
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-velvet/0.6.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -971,13 +971,13 @@
   project_uri: https://rubygems.org/gems/bio-bigbio
   gem_uri: https://rubygems.org/gems/bio-bigbio-0.1.6.gem
   homepage_uri: http://github.com/pjotrp/bigbio
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-bigbio/0.1.6
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -1009,13 +1009,13 @@
   project_uri: https://rubygems.org/gems/bio-signalp
   gem_uri: https://rubygems.org/gems/bio-signalp-0.3.1.gem
   homepage_uri: http://github.com/wwood/bioruby-signalp
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-signalp/0.3.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -1049,13 +1049,13 @@
   project_uri: https://rubygems.org/gems/bio-commandeer
   gem_uri: https://rubygems.org/gems/bio-commandeer-0.4.0.gem
   homepage_uri: http://github.com/wwood/bioruby-commandeer
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-commandeer/0.4.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -1079,7 +1079,7 @@
   platform: ruby
   authors: Philipp Comans
   info: Pipeline to remove contaminations from EST libraries
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: https://github.com/PalMuc/bio-phyta
   yanked: false
@@ -1088,13 +1088,13 @@
   project_uri: https://rubygems.org/gems/bio-phyta
   gem_uri: https://rubygems.org/gems/bio-phyta-0.9.4.gem
   homepage_uri: https://github.com/PalMuc/bio-phyta
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -1119,10 +1119,10 @@
     - name: trollop
       requirements: ">= 1.16.2"
 - name: bio-polyploid-tools
-  downloads: 119018
+  downloads: 119020
   version: 1.2.1
   version_created_at: '2021-05-10T08:28:42.442Z'
-  version_downloads: 2680
+  version_downloads: 2682
   platform: ruby
   authors: Ricardo H.  Ramirez-Gonzalez
   info: Repository of tools developed at Crop Genetics in JIC to work with polyploid
@@ -1136,13 +1136,13 @@
   project_uri: https://rubygems.org/gems/bio-polyploid-tools
   gem_uri: https://rubygems.org/gems/bio-polyploid-tools-1.2.1.gem
   homepage_uri: http://github.com/tgac/bioruby-polyploid-tools
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-polyploid-tools/1.2.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: juwelier
@@ -1169,7 +1169,7 @@
   authors: Artem Tarasov
   info: New Sambamba library comes with a command-line tool for working with SAM/BAM
     files. This gem brings some of its functionality to Ruby.
-  licenses: 
+  licenses:
   metadata:
     wiki_uri: https://github.com/lomereiter/bioruby-sambamba/wiki/Usage
     homepage_uri: http://github.com/lomereiter/bioruby-sambamba
@@ -1184,12 +1184,12 @@
   gem_uri: https://rubygems.org/gems/bio-sambamba-0.0.5.gem
   homepage_uri: http://github.com/lomereiter/bioruby-sambamba
   wiki_uri: https://github.com/lomereiter/bioruby-sambamba/wiki/Usage
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -1215,7 +1215,7 @@
   platform: ruby
   authors: Chase Miller, Francesco Strozzi
   info: bioruby plugin to parse, write, and manipulate assembly data
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/chmille4/bioruby-assembly
   yanked: false
@@ -1224,13 +1224,13 @@
   project_uri: https://rubygems.org/gems/bio-assembly
   gem_uri: https://rubygems.org/gems/bio-assembly-0.1.0.gem
   homepage_uri: http://github.com/chmille4/bioruby-assembly
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -1254,7 +1254,7 @@
   platform: ruby
   authors: Rutger Vos, Anurag Priyam
   info: This plugin reads, writes and generates NeXML
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: https://github.com/nexml/bio-nexml
   yanked: false
@@ -1263,13 +1263,13 @@
   project_uri: https://rubygems.org/gems/bio-nexml
   gem_uri: https://rubygems.org/gems/bio-nexml-1.1.0.gem
   homepage_uri: https://github.com/nexml/bio-nexml
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
@@ -1299,8 +1299,8 @@
   mailing_list_uri: ''
   source_code_uri: ''
   bug_tracker_uri: ''
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -1324,7 +1324,7 @@
   platform: ruby
   authors: Jan Aerts
   info: Library for visualizing genomic regions
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://bio-graphics.rubyforge.org/
   yanked: false
@@ -1333,13 +1333,13 @@
   project_uri: https://rubygems.org/gems/bio-graphics
   gem_uri: https://rubygems.org/gems/bio-graphics-1.4.gem
   homepage_uri: http://bio-graphics.rubyforge.org/
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
@@ -1363,13 +1363,13 @@
   project_uri: https://rubygems.org/gems/bio-plasmoap
   gem_uri: https://rubygems.org/gems/bio-plasmoap-0.1.1.gem
   homepage_uri: http://github.com/wwood/bioruby-plasmoap
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-plasmoap/0.1.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -1385,49 +1385,6 @@
       requirements: ">= 1.4.1"
     - name: bio-signalp
       requirements: ">= 0.2.0"
-- name: bio-octopus
-  downloads: 14875
-  version: 0.1.1
-  version_created_at: '2011-05-02T01:33:19.844Z'
-  version_downloads: 5662
-  platform: ruby
-  authors: Ben J Woodcroft
-  info: Running and parsing of the protein transmembrane domain predictor octopus
-  licenses: 
-  metadata:
-    homepage_uri: http://github.com/wwood/bioruby-octopus
-  yanked: false
-  sha: 27259c24217cc622dabf583d3b6bc46e2e144e51ba971ffaf5d561c279875311
-  spec_sha: 5fb2c68e2cef06e2cf951f9091546136e4edb2a173b757b8dd25f441cc663ecf
-  project_uri: https://rubygems.org/gems/bio-octopus
-  gem_uri: https://rubygems.org/gems/bio-octopus-0.1.1.gem
-  homepage_uri: http://github.com/wwood/bioruby-octopus
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
-  dependencies:
-    development:
-    - name: bio
-      requirements: ">= 1.4.1"
-    - name: bundler
-      requirements: "~> 1.0.0"
-    - name: jeweler
-      requirements: "~> 1.5.2"
-    - name: rcov
-      requirements: ">= 0"
-    runtime:
-    - name: bio
-      requirements: ">= 1.4.1"
-    - name: bio-tm_hmm
-      requirements: ">= 0"
-    - name: fastercsv
-      requirements: ">= 0"
-    - name: rio
-      requirements: ">= 0"
 - name: bio-ucsc-api
   downloads: 75214
   version: 0.6.5
@@ -1450,8 +1407,8 @@
   mailing_list_uri: ''
   source_code_uri: http://github.com/misshie/bioruby-ucsc-api
   bug_tracker_uri: https://github.com/misshie/bioruby-ucsc-api
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -1479,6 +1436,49 @@
       requirements: "~> 0.4.9"
     - name: safe_attributes
       requirements: "~> 1.0.10"
+- name: bio-octopus
+  downloads: 14875
+  version: 0.1.1
+  version_created_at: '2011-05-02T01:33:19.844Z'
+  version_downloads: 5662
+  platform: ruby
+  authors: Ben J Woodcroft
+  info: Running and parsing of the protein transmembrane domain predictor octopus
+  licenses:
+  metadata:
+    homepage_uri: http://github.com/wwood/bioruby-octopus
+  yanked: false
+  sha: 27259c24217cc622dabf583d3b6bc46e2e144e51ba971ffaf5d561c279875311
+  spec_sha: 5fb2c68e2cef06e2cf951f9091546136e4edb2a173b757b8dd25f441cc663ecf
+  project_uri: https://rubygems.org/gems/bio-octopus
+  gem_uri: https://rubygems.org/gems/bio-octopus-0.1.1.gem
+  homepage_uri: http://github.com/wwood/bioruby-octopus
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bio
+      requirements: ">= 1.4.1"
+    - name: bundler
+      requirements: "~> 1.0.0"
+    - name: jeweler
+      requirements: "~> 1.5.2"
+    - name: rcov
+      requirements: ">= 0"
+    runtime:
+    - name: bio
+      requirements: ">= 1.4.1"
+    - name: bio-tm_hmm
+      requirements: ">= 0"
+    - name: fastercsv
+      requirements: ">= 0"
+    - name: rio
+      requirements: ">= 0"
 - name: bio-krona
   downloads: 14542
   version: 0.2.0
@@ -1497,13 +1497,13 @@
   project_uri: https://rubygems.org/gems/bio-krona
   gem_uri: https://rubygems.org/gems/bio-krona-0.2.0.gem
   homepage_uri: http://github.com/wwood/bioruby-krona
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-krona/0.2.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -1529,7 +1529,7 @@
   platform: ruby
   authors: Francesco Strozzi
   info: Ruby binding for BWA mapping software, built using Ruby-FFI library
-  licenses: 
+  licenses:
   metadata:
     wiki_uri: https://github.com/fstrozzi/bioruby-bwa/wiki
     homepage_uri: http://github.com/fstrozzi/bioruby-bwa
@@ -1545,11 +1545,11 @@
   homepage_uri: http://github.com/fstrozzi/bioruby-bwa
   wiki_uri: https://github.com/fstrozzi/bioruby-bwa/wiki
   documentation_uri: http://fstrozzi.github.com/bioruby-bwa/
-  mailing_list_uri: 
+  mailing_list_uri:
   source_code_uri: https://github.com/fstrozzi/bioruby-bwa
   bug_tracker_uri: https://github.com/fstrozzi/bioruby-bwa/issues
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -1575,7 +1575,7 @@
   info: This is very scrappy at the moment, and will need to be seriously cleaned
     up. It does what I need it to do for now. I'll fix it up in the coming weeks.
     Promise :)
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/robsyme/bioruby-lazyblastxml
   yanked: false
@@ -1584,13 +1584,13 @@
   project_uri: https://rubygems.org/gems/bio-lazyblastxml
   gem_uri: https://rubygems.org/gems/bio-lazyblastxml-0.4.0.gem
   homepage_uri: http://github.com/robsyme/bioruby-lazyblastxml
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -1628,8 +1628,8 @@
   mailing_list_uri: https://github.com/andreirozanski/bioruby-liftover
   source_code_uri: https://github.com/andreirozanski/bioruby-liftover
   bug_tracker_uri: https://github.com/andreirozanski/bioruby-liftover
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -1668,13 +1668,13 @@
   project_uri: https://rubygems.org/gems/bio-gngm
   gem_uri: https://rubygems.org/gems/bio-gngm-0.2.1.gem
   homepage_uri: http://github.com/danmaclean/bioruby-gngm
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -1708,7 +1708,7 @@
   platform: ruby
   authors: Mitsuteru Nakao
   info: BioRuby plugin for ChEMBL REST API Client, Parser and Container classes
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/nakao/bio-chembl
   yanked: false
@@ -1717,13 +1717,13 @@
   project_uri: https://rubygems.org/gems/bio-chembl
   gem_uri: https://rubygems.org/gems/bio-chembl-0.1.3.gem
   homepage_uri: http://github.com/nakao/bio-chembl
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -1752,7 +1752,7 @@
   authors: Pjotr Prins
   info: Store relationships in a triple-store, such as gene enrichment and QTL, and
     use this information for inference and causality
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/pjotrp/bioruby-rdf
   yanked: false
@@ -1761,13 +1761,13 @@
   project_uri: https://rubygems.org/gems/bio-rdf
   gem_uri: https://rubygems.org/gems/bio-rdf-0.0.2.gem
   homepage_uri: http://github.com/pjotrp/bioruby-rdf
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -1799,7 +1799,7 @@
   info: |-
     Affymetrix microarray file format parser
       (CEL/CDF) for Ruby. FFI binding to Biolib port of R/Affyio by Benjamin Milo Bolstad
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/pjotrp/bioruby-affy
   yanked: false
@@ -1808,13 +1808,13 @@
   project_uri: https://rubygems.org/gems/bio-affy
   gem_uri: https://rubygems.org/gems/bio-affy-0.5.1.gem
   homepage_uri: http://github.com/pjotrp/bioruby-affy
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -1848,13 +1848,13 @@
   project_uri: https://rubygems.org/gems/bio-unichem
   gem_uri: https://rubygems.org/gems/bio-unichem-0.3.0.gem
   homepage_uri: http://github.com/nakao/bioruby-unichem
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -1889,13 +1889,13 @@
   project_uri: https://rubygems.org/gems/bio-synreport
   gem_uri: https://rubygems.org/gems/bio-synreport-0.1.2.gem
   homepage_uri: http://github.com/danmaclean/bioruby-synreport
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-synreport/0.1.2
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -1927,13 +1927,13 @@
   project_uri: https://rubygems.org/gems/bio-locus
   gem_uri: https://rubygems.org/gems/bio-locus-0.0.7.gem
   homepage_uri: http://github.com/pjotrp/bio-locus
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-locus/0.0.7
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
@@ -1955,13 +1955,13 @@
   project_uri: https://rubygems.org/gems/bio-sra
   gem_uri: https://rubygems.org/gems/bio-sra-0.3.1.gem
   homepage_uri: http://github.com/wwood/bioruby-sra
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-sra/0.3.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2010,13 +2010,13 @@
   project_uri: https://rubygems.org/gems/bio-protparam
   gem_uri: https://rubygems.org/gems/bio-protparam-0.2.0.gem
   homepage_uri: http://github.com/hryk/bioruby-protparam
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: http://rdoc.info/github/hryk/bioruby-protparam/
-  mailing_list_uri: 
+  mailing_list_uri:
   source_code_uri: https://github.com/hryk/bioruby-protparam
   bug_tracker_uri: https://github.com/hryk/bioruby-protparam/issues
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: jeweler
@@ -2029,14 +2029,14 @@
     - name: bio
       requirements: ">= 1.4.2"
 - name: bio-core
-  downloads: 9762
+  downloads: 9763
   version: 0.0.1
   version_created_at: '2011-08-30T12:30:46.493Z'
-  version_downloads: 5527
+  version_downloads: 5528
   platform: ruby
   authors: Raoul J.P. Bonnal
   info: Bioruby core plugins
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/helios/bioruby-core
   yanked: false
@@ -2045,13 +2045,13 @@
   project_uri: https://rubygems.org/gems/bio-core
   gem_uri: https://rubygems.org/gems/bio-core-0.0.1.gem
   homepage_uri: http://github.com/helios/bioruby-core
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2097,13 +2097,13 @@
   project_uri: https://rubygems.org/gems/bio-mummer
   gem_uri: https://rubygems.org/gems/bio-mummer-0.2.1.gem
   homepage_uri: http://github.com/robsyme/bioruby-mummer
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-mummer/0.2.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2120,10 +2120,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-basespace-sdk
-  downloads: 42268
+  downloads: 42269
   version: 0.1.7
   version_created_at: '2013-08-08T11:09:28.252Z'
-  version_downloads: 28226
+  version_downloads: 28227
   platform: ruby
   authors: Joachim Baran, Raoul Bonnal, Eri Kibukawa, Francesco Strozzi, Toshiaki
     Katayama
@@ -2140,13 +2140,13 @@
   project_uri: https://rubygems.org/gems/bio-basespace-sdk
   gem_uri: https://rubygems.org/gems/bio-basespace-sdk-0.1.7.gem
   homepage_uri: https://github.com/basespace/basespace-ruby-sdk
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-basespace-sdk/0.1.7
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2174,7 +2174,7 @@
   info: bio-gag is a biogem for detecting and correcting a particular type of error
     that occurs/occurred in particular versions of the IonTorrent DNA sequencing kit.
     Recent versions of the system don't appear to suffer the same problem
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/wwood/bioruby-gag
   yanked: false
@@ -2183,13 +2183,13 @@
   project_uri: https://rubygems.org/gems/bio-gag
   gem_uri: https://rubygems.org/gems/bio-gag-0.1.0.gem
   homepage_uri: http://github.com/wwood/bioruby-gag
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2228,13 +2228,13 @@
   project_uri: https://rubygems.org/gems/bio-gggenome
   gem_uri: https://rubygems.org/gems/bio-gggenome-0.2.0.gem
   homepage_uri: http://github.com/nakao/bio-gggenome
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-gggenome/0.2.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2265,13 +2265,13 @@
   project_uri: https://rubygems.org/gems/bio-shell
   gem_uri: https://rubygems.org/gems/bio-shell-1.0.1.gem
   homepage_uri: https://github.com/bioruby/bioruby-shell
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-shell/1.0.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -2303,13 +2303,13 @@
   project_uri: https://rubygems.org/gems/bio-ipcress
   gem_uri: https://rubygems.org/gems/bio-ipcress-0.1.0.gem
   homepage_uri: http://github.com/wwood/bioruby-ipcress
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-ipcress/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -2346,8 +2346,8 @@
   mailing_list_uri: ''
   source_code_uri: https://github.com/andreirozanski/bio-repeatmasker
   bug_tracker_uri: https://github.com/andreirozanski/bio-repeatmasker
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
@@ -2368,13 +2368,13 @@
   project_uri: https://rubygems.org/gems/bio-cigar
   gem_uri: https://rubygems.org/gems/bio-cigar-0.1.0.gem
   homepage_uri: http://github.com/wwood/bioruby-cigar
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-cigar/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2408,13 +2408,13 @@
   project_uri: https://rubygems.org/gems/bio-twobit
   gem_uri: https://rubygems.org/gems/bio-twobit-0.2.3.gem
   homepage_uri: https://github.com/ruby-on-bioc/bio-twobit
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-twobit/0.2.3
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
@@ -2434,14 +2434,14 @@
   spec_sha: a0d7efc33e9c629ccfbf1bfb66cb05ae1344a0e431212e5ce3e62bb9e0014dad
   project_uri: https://rubygems.org/gems/bio-nwk
   gem_uri: https://rubygems.org/gems/bio-nwk-0.1.4.gem
-  homepage_uri: 
-  wiki_uri: 
+  homepage_uri:
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-nwk/0.1.4
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2473,13 +2473,13 @@
   project_uri: https://rubygems.org/gems/bio-gfastqc
   gem_uri: https://rubygems.org/gems/bio-gfastqc-0.0.4.gem
   homepage_uri: http://github.com/helios/bioruby-gfastqc
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-gfastqc/0.0.4
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2498,10 +2498,10 @@
     - name: rubyzip
       requirements: ">= 0"
 - name: bio-freebayes
-  downloads: 6417
+  downloads: 6418
   version: 0.1.6
   version_created_at: '2015-05-22T19:00:14.317Z'
-  version_downloads: 3714
+  version_downloads: 3715
   platform: ruby
   authors: Natapol Pornputtapong
   info: 'The API for Freebayes version #{Bio::Freebayes::EXTVERSION}'
@@ -2514,13 +2514,13 @@
   project_uri: https://rubygems.org/gems/bio-freebayes
   gem_uri: https://rubygems.org/gems/bio-freebayes-0.1.6.gem
   homepage_uri: http://rubygems.org/gems/bio-freebayes
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-freebayes/0.1.6
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -2554,8 +2554,8 @@
   mailing_list_uri: ''
   source_code_uri: https://github.com/gusevfe/bio-kseq
   bug_tracker_uri: https://github.com/gusevfe/bio-kseq/issues
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -2584,13 +2584,13 @@
   project_uri: https://rubygems.org/gems/bio-pangenome
   gem_uri: https://rubygems.org/gems/bio-pangenome-0.1.3.gem
   homepage_uri: http://github.com/Uauy-Lab/bioruby-pangenome
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-pangenome/0.1.3
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -2627,13 +2627,13 @@
   project_uri: https://rubygems.org/gems/bio-tm_hmm
   gem_uri: https://rubygems.org/gems/bio-tm_hmm-0.2.4.gem
   homepage_uri: http://github.com/wwood/bioruby-tm_hmm
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-tm_hmm/0.2.4
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -2667,13 +2667,13 @@
   project_uri: https://rubygems.org/gems/bio-dbla-classifier
   gem_uri: https://rubygems.org/gems/bio-dbla-classifier-0.7.1.gem
   homepage_uri: http://github.com/georgeG/bioruby-dbla-classifier
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -2705,13 +2705,13 @@
   project_uri: https://rubygems.org/gems/bio-executables
   gem_uri: https://rubygems.org/gems/bio-executables-1.0.0.gem
   homepage_uri: https://github.com/bioruby/bioruby-executables
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-executables/1.0.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -2739,7 +2739,7 @@
     Huge amount of queries are automatically splitted into subdirectories. With a
     specified command line to be executed, queries are submited to the SGE as an array
     job.
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/ktym/bioruby-sge
   yanked: false
@@ -2748,13 +2748,13 @@
   project_uri: https://rubygems.org/gems/bio-sge
   gem_uri: https://rubygems.org/gems/bio-sge-0.0.0.gem
   homepage_uri: http://github.com/ktym/bioruby-sge
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2776,7 +2776,7 @@
   platform: ruby
   authors: Toshiaki Katayama
   info: Encode any message string into a DNA sequence
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/ktym/bioruby-hello
   yanked: false
@@ -2785,13 +2785,13 @@
   project_uri: https://rubygems.org/gems/bio-hello
   gem_uri: https://rubygems.org/gems/bio-hello-0.0.0.gem
   homepage_uri: http://github.com/ktym/bioruby-hello
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2823,13 +2823,13 @@
   project_uri: https://rubygems.org/gems/bio-kmer_counter
   gem_uri: https://rubygems.org/gems/bio-kmer_counter-0.1.2.gem
   homepage_uri: http://github.com/wwood/bioruby-kmer_counter
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-kmer_counter/0.1.2
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -2859,7 +2859,7 @@
   platform: ruby
   authors: Raoul J.P. Bonnal
   info: 'Meta package for BioLinux distribution: bio-core, bio-core-ext'
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/helios/bioruby-biolinux
   yanked: false
@@ -2868,13 +2868,13 @@
   project_uri: https://rubygems.org/gems/bio-biolinux
   gem_uri: https://rubygems.org/gems/bio-biolinux-0.1.0.gem
   homepage_uri: http://github.com/helios/bioruby-biolinux
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2901,7 +2901,7 @@
   authors: Jan Aerts, Francesco Strozzi
   info: This API provides a complete set of methods and classes to access the Ensembl
     database using Ruby programming language
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/fstrozzi/bioruby-ensembl
   yanked: false
@@ -2910,13 +2910,13 @@
   project_uri: https://rubygems.org/gems/bio-ensembl
   gem_uri: https://rubygems.org/gems/bio-ensembl-1.1.0.gem
   homepage_uri: http://github.com/fstrozzi/bioruby-ensembl
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: activerecord
@@ -2948,7 +2948,7 @@
   platform: ruby
   authors: Hiroyuki Mishima
   info: decoding the dbSNP bitfield containg detaild information
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/misshie/bioruby-dbsnp
   yanked: false
@@ -2957,13 +2957,13 @@
   project_uri: https://rubygems.org/gems/bio-dbsnp
   gem_uri: https://rubygems.org/gems/bio-dbsnp-0.1.1.gem
   homepage_uri: http://github.com/misshie/bioruby-dbsnp
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -2985,7 +2985,7 @@
   platform: ruby
   authors: Ben J Woodcroft
   info: Hydropathy scale for BioRuby
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/wwood/bioruby-hydropathy
   yanked: false
@@ -2994,13 +2994,13 @@
   project_uri: https://rubygems.org/gems/bio-hydropathy
   gem_uri: https://rubygems.org/gems/bio-hydropathy-0.0.1.gem
   homepage_uri: http://github.com/wwood/bioruby-hydropathy
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3022,7 +3022,7 @@
   platform: ruby
   authors: Diana Jaunzeikare, Clayton Wheeler
   info: Provides PhyloXML support for BioRuby.
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/csw/bioruby-phyloxml
   yanked: false
@@ -3031,13 +3031,13 @@
   project_uri: https://rubygems.org/gems/bio-phyloxml
   gem_uri: https://rubygems.org/gems/bio-phyloxml-0.9.0.gem
   homepage_uri: http://github.com/csw/bioruby-phyloxml
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -3059,7 +3059,7 @@
   platform: ruby
   authors: Toshiaki Katayama
   info: longer description of your gem
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/ktym/bioruby-foo
   yanked: false
@@ -3068,13 +3068,13 @@
   project_uri: https://rubygems.org/gems/bio-foo
   gem_uri: https://rubygems.org/gems/bio-foo-0.0.0.gem
   homepage_uri: http://github.com/ktym/bioruby-foo
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3097,7 +3097,7 @@
   authors: Ben J Woodcroft
   info: Wrapper around the ExportPred algorithm for predicting P. falciparum exported
     proteins. Requires local install of the program, which is available from http://bioinf.wehi.edu.au/exportpred/
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/wwood/bioruby-exportpred
   yanked: false
@@ -3106,13 +3106,13 @@
   project_uri: https://rubygems.org/gems/bio-exportpred
   gem_uri: https://rubygems.org/gems/bio-exportpred-0.0.1.gem
   homepage_uri: http://github.com/wwood/bioruby-exportpred
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3134,7 +3134,7 @@
   platform: ruby
   authors: Matteo Picciolini
   info: A Jruby wrapper to Incanter lib
-  licenses: 
+  licenses:
   metadata:
     wiki_uri: https://github.com/cerbero/bioruby-incanter/wiki
     homepage_uri: http://github.com/cerbero/bio-incanter
@@ -3150,11 +3150,11 @@
   homepage_uri: http://github.com/cerbero/bio-incanter
   wiki_uri: https://github.com/cerbero/bioruby-incanter/wiki
   documentation_uri: https://github.com/cerbero/bioruby-incanter/tree/master/doc
-  mailing_list_uri: 
+  mailing_list_uri:
   source_code_uri: https://github.com/cerbero/bioruby-incanter
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -3186,13 +3186,13 @@
   project_uri: https://rubygems.org/gems/bio-gemma-wrapper
   gem_uri: https://rubygems.org/gems/bio-gemma-wrapper-0.99.7.gem
   homepage_uri: https://github.com/genetics-statistics/gemma-wrapper
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-gemma-wrapper/0.99.7
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
@@ -3218,8 +3218,8 @@
   mailing_list_uri: https://github.com/andreirozanski/bio-fasta_retrieve
   source_code_uri: https://github.com/andreirozanski/bio-fasta_retrieve
   bug_tracker_uri: https://github.com/andreirozanski/bio-fasta_retrieve
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
@@ -3227,6 +3227,32 @@
       requirements: "~> 1.5"
     - name: nokogiri
       requirements: ">= 1.6.6.2, ~> 1.6"
+- name: bioruby-bio
+  downloads: 19573
+  version: 1.3.1.5000
+  version_created_at: '2014-08-11T07:28:26.580Z'
+  version_downloads: 4152
+  platform: ruby
+  authors: BioRuby project
+  info: BioRuby is a library for bioinformatics (biology + information science).
+  licenses: []
+  metadata: {}
+  yanked: false
+  sha: 6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e
+  spec_sha: 440cc305a4716750f2b7556755873e3463c4f0061ed7cce1067cc283968819f0
+  project_uri: https://rubygems.org/gems/bioruby-bio
+  gem_uri: https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem
+  homepage_uri: http://bioruby.org/
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development: []
+    runtime: []
 - name: bio-stockholm
   downloads: 4780
   version: 0.0.1
@@ -3244,13 +3270,13 @@
   project_uri: https://rubygems.org/gems/bio-stockholm
   gem_uri: https://rubygems.org/gems/bio-stockholm-0.0.1.gem
   homepage_uri: http://github.com/wwood/bioruby-stockholm
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-stockholm/0.0.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3266,31 +3292,40 @@
     - name: rspec
       requirements: "~> 2.8.0"
     runtime: []
-- name: bioruby-bio
-  downloads: 19573
-  version: 1.3.1.5000
-  version_created_at: '2014-08-11T07:28:26.580Z'
-  version_downloads: 4152
+- name: bio-isoelectric_point
+  downloads: 19125
+  version: 0.1.3
+  version_created_at: '2012-03-01T06:16:49.922Z'
+  version_downloads: 5919
   platform: ruby
-  authors: BioRuby project
-  info: BioRuby is a library for bioinformatics (biology + information science).
-  licenses: []
-  metadata: {}
+  authors: George Githinji, Pascal Betz
+  info: 'A bioruby plugin for calculating the isoelectric point of a protein '
+  licenses:
+  metadata:
+    homepage_uri: http://github.com/georgeG/bioruby-isoelectric_point
   yanked: false
-  sha: 6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e
-  spec_sha: 440cc305a4716750f2b7556755873e3463c4f0061ed7cce1067cc283968819f0
-  project_uri: https://rubygems.org/gems/bioruby-bio
-  gem_uri: https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem
-  homepage_uri: http://bioruby.org/
-  wiki_uri: 
-  documentation_uri: https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  sha: 744f197fb06803c78d41dc6dbab1aec14070d059ab6dff0c778b2d32a9875659
+  spec_sha: c3fd36909dfd493da387f33e1dd140930d3de76ba519e7618e30719fbcc6f1eb
+  project_uri: https://rubygems.org/gems/bio-isoelectric_point
+  gem_uri: https://rubygems.org/gems/bio-isoelectric_point-0.1.3.gem
+  homepage_uri: http://github.com/georgeG/bioruby-isoelectric_point
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
-    development: []
+    development:
+    - name: bio
+      requirements: ">= 1.4.2"
+    - name: bundler
+      requirements: "~> 1.0.22"
+    - name: jeweler
+      requirements: "~> 1.8.3"
+    - name: shoulda
+      requirements: "~> 2.11.3"
     runtime: []
 - name: bio-raxml
   downloads: 4624
@@ -3309,13 +3344,13 @@
   project_uri: https://rubygems.org/gems/bio-raxml
   gem_uri: https://rubygems.org/gems/bio-raxml-0.1.0.gem
   homepage_uri: http://github.com/fizquierdo/bioruby-raxml
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-raxml/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3330,41 +3365,6 @@
       requirements: "~> 3.12"
     - name: shoulda
       requirements: ">= 0"
-    runtime: []
-- name: bio-isoelectric_point
-  downloads: 19125
-  version: 0.1.3
-  version_created_at: '2012-03-01T06:16:49.922Z'
-  version_downloads: 5919
-  platform: ruby
-  authors: George Githinji, Pascal Betz
-  info: 'A bioruby plugin for calculating the isoelectric point of a protein '
-  licenses: 
-  metadata:
-    homepage_uri: http://github.com/georgeG/bioruby-isoelectric_point
-  yanked: false
-  sha: 744f197fb06803c78d41dc6dbab1aec14070d059ab6dff0c778b2d32a9875659
-  spec_sha: c3fd36909dfd493da387f33e1dd140930d3de76ba519e7618e30719fbcc6f1eb
-  project_uri: https://rubygems.org/gems/bio-isoelectric_point
-  gem_uri: https://rubygems.org/gems/bio-isoelectric_point-0.1.3.gem
-  homepage_uri: http://github.com/georgeG/bioruby-isoelectric_point
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
-  dependencies:
-    development:
-    - name: bio
-      requirements: ">= 1.4.2"
-    - name: bundler
-      requirements: "~> 1.0.22"
-    - name: jeweler
-      requirements: "~> 1.8.3"
-    - name: shoulda
-      requirements: "~> 2.11.3"
     runtime: []
 - name: bio-velvet_underground
   downloads: 18754
@@ -3383,13 +3383,13 @@
   project_uri: https://rubygems.org/gems/bio-velvet_underground
   gem_uri: https://rubygems.org/gems/bio-velvet_underground-0.3.1.gem
   homepage_uri: http://github.com/wwood/bioruby-velvet_underground
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-velvet_underground/0.3.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3432,13 +3432,13 @@
   project_uri: https://rubygems.org/gems/bio-exominer
   gem_uri: https://rubygems.org/gems/bio-exominer-0.0.3.gem
   homepage_uri: http://github.com/pjotrp/bioruby-exominer
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-exominer/0.0.3
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -3474,13 +3474,13 @@
   project_uri: https://rubygems.org/gems/bio-faidx
   gem_uri: https://rubygems.org/gems/bio-faidx-0.0.1.gem
   homepage_uri: http://github.com/homonecloco/bioruby-faidx
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-faidx/0.0.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3505,7 +3505,7 @@
   authors: Hiroyuki Mishima
   info: 'a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and
     overlap state between two intervals '
-  licenses: 
+  licenses:
   metadata:
     wiki_uri: http://bioruby.open-bio.org/wiki/Plugins
     homepage_uri: http://github.com/misshie/bioruby-genomic-interval
@@ -3523,9 +3523,9 @@
   documentation_uri: https://github.com/misshie/bioruby-genomic-interval
   mailing_list_uri: http://lists.open-bio.org/mailman/listinfo/bioruby
   source_code_uri: https://github.com/misshie/bioruby-genomic-interval
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3557,13 +3557,13 @@
   project_uri: https://rubygems.org/gems/bio-picard
   gem_uri: https://rubygems.org/gems/bio-picard-1.131.5.gem
   homepage_uri: http://rubygems.org/gems/bio-picard
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-picard/1.131.5
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -3588,13 +3588,13 @@
   project_uri: https://rubygems.org/gems/bio-kallisto
   gem_uri: https://rubygems.org/gems/bio-kallisto-0.1.0.gem
   homepage_uri: http://github.com/homonecloco/bioruby-kallisto
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-kallisto/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3613,7 +3613,7 @@
     - name: systemu
       requirements: ">= 2.5.2"
 - name: bio-statsample-timeseries
-  downloads: 14792
+  downloads: 14793
   version: 0.2.1
   version_created_at: '2013-09-23T06:06:28.580Z'
   version_downloads: 4580
@@ -3635,8 +3635,8 @@
   mailing_list_uri: ''
   source_code_uri: https://github.com/AnkurGel/bioruby-statsample-timeseries
   bug_tracker_uri: https://github.com/AnkurGel/bioruby-statsample-timeseries/issues
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3682,13 +3682,13 @@
   project_uri: https://rubygems.org/gems/bio-jaspar
   gem_uri: https://rubygems.org/gems/bio-jaspar-0.1.0.gem
   homepage_uri: http://github.com/wassermanlab/jaspar-bioruby
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-jaspar/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -3725,13 +3725,13 @@
   project_uri: https://rubygems.org/gems/bio-conduit
   gem_uri: https://rubygems.org/gems/bio-conduit-1.0.0.gem
   homepage_uri: http://rubygems.org/gems/bio-conduit
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-conduit/1.0.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
@@ -3753,13 +3753,13 @@
   project_uri: https://rubygems.org/gems/bio-pileup_iterator
   gem_uri: https://rubygems.org/gems/bio-pileup_iterator-0.0.4.gem
   homepage_uri: http://github.com/wwood/bioruby-pileup_iterator
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -3781,6 +3781,32 @@
       requirements: ">= 1.0.0"
     - name: bio-samtools
       requirements: ">= 0.5.3"
+- name: ngoto-bio
+  downloads: 13158
+  version: 1.3.1.5000
+  version_created_at: '2014-08-10T23:36:57.916Z'
+  version_downloads: 3423
+  platform: ruby
+  authors: BioRuby project
+  info: BioRuby is a library for bioinformatics (biology + information science).
+  licenses: []
+  metadata: {}
+  yanked: false
+  sha: a13d7d3b16b794f65f9c397d34a4e7ac13b9de613d9eccc0781639ec179470b1
+  spec_sha: 36ce770df90985daccb9680271eb35ffa0c31047d22f81c409a9d6829dea63b6
+  project_uri: https://rubygems.org/gems/ngoto-bio
+  gem_uri: https://rubygems.org/gems/ngoto-bio-1.3.1.5000.gem
+  homepage_uri: http://bioruby.org/
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/ngoto-bio/1.3.1.5000
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development: []
+    runtime: []
 - name: bio-plates
   downloads: 3426
   version: 0.2.0
@@ -3798,13 +3824,13 @@
   project_uri: https://rubygems.org/gems/bio-plates
   gem_uri: https://rubygems.org/gems/bio-plates-0.2.0.gem
   homepage_uri: http://github.com/stveep/bioruby-plates
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-plates/0.2.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -3824,32 +3850,6 @@
       requirements: "~> 1.4"
     - name: thor
       requirements: ">= 0"
-- name: ngoto-bio
-  downloads: 13158
-  version: 1.3.1.5000
-  version_created_at: '2014-08-10T23:36:57.916Z'
-  version_downloads: 3423
-  platform: ruby
-  authors: BioRuby project
-  info: BioRuby is a library for bioinformatics (biology + information science).
-  licenses: []
-  metadata: {}
-  yanked: false
-  sha: a13d7d3b16b794f65f9c397d34a4e7ac13b9de613d9eccc0781639ec179470b1
-  spec_sha: 36ce770df90985daccb9680271eb35ffa0c31047d22f81c409a9d6829dea63b6
-  project_uri: https://rubygems.org/gems/ngoto-bio
-  gem_uri: https://rubygems.org/gems/ngoto-bio-1.3.1.5000.gem
-  homepage_uri: http://bioruby.org/
-  wiki_uri: 
-  documentation_uri: https://www.rubydoc.info/gems/ngoto-bio/1.3.1.5000
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
-  dependencies:
-    development: []
-    runtime: []
 - name: bio-gff3-pltools
   downloads: 13019
   version: 0.3.0
@@ -3858,7 +3858,7 @@
   platform: ruby
   authors: Marjan Povolni
   info: Ruby wrapper for the gff3-pltools.
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://mamarjan.github.com/gff3-pltools/
   yanked: false
@@ -3867,13 +3867,13 @@
   project_uri: https://rubygems.org/gems/bio-gff3-pltools
   gem_uri: https://rubygems.org/gems/bio-gff3-pltools-0.3.0.gem
   homepage_uri: http://mamarjan.github.com/gff3-pltools/
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -3893,6 +3893,42 @@
     - name: yard
       requirements: "~> 0.7"
     runtime: []
+- name: bio-ucsc-util
+  downloads: 12750
+  version: 0.1.2
+  version_created_at: '2012-10-02T16:33:16.336Z'
+  version_downloads: 5004
+  platform: ruby
+  authors: throwern
+  info: 'Ruby FFI binding of the ucsc kent src. Implemented utilities include: bigWigInfo,
+    bigWigSummary and wigToBigWig'
+  licenses:
+  metadata:
+    homepage_uri: http://github.com/throwern/bio-ucsc-util
+  yanked: false
+  sha: 30c8ef8dec1325488c8138d313591746338175c348bf42d0262ac066bd849045
+  spec_sha: 5ea018f94c6cfdb7fc8bcf7c1f8a317046c96a625578680b3c4be9104626b663
+  project_uri: https://rubygems.org/gems/bio-ucsc-util
+  gem_uri: https://rubygems.org/gems/bio-ucsc-util-0.1.2.gem
+  homepage_uri: http://github.com/throwern/bio-ucsc-util
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bundler
+      requirements: "~> 1.0"
+    - name: jeweler
+      requirements: "~> 1.8.3"
+    - name: rdoc
+      requirements: "~> 3.12"
+    runtime:
+    - name: ffi
+      requirements: ">= 0"
 - name: bio-cgranges
   downloads: 3262
   version: 0.0.4
@@ -3910,52 +3946,16 @@
   project_uri: https://rubygems.org/gems/bio-cgranges
   gem_uri: https://rubygems.org/gems/bio-cgranges-0.0.4.gem
   homepage_uri: https://github.com/kojix2/bio-cgranges
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-cgranges/0.0.4
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
-- name: bio-ucsc-util
-  downloads: 12750
-  version: 0.1.2
-  version_created_at: '2012-10-02T16:33:16.336Z'
-  version_downloads: 5004
-  platform: ruby
-  authors: throwern
-  info: 'Ruby FFI binding of the ucsc kent src. Implemented utilities include: bigWigInfo,
-    bigWigSummary and wigToBigWig'
-  licenses: 
-  metadata:
-    homepage_uri: http://github.com/throwern/bio-ucsc-util
-  yanked: false
-  sha: 30c8ef8dec1325488c8138d313591746338175c348bf42d0262ac066bd849045
-  spec_sha: 5ea018f94c6cfdb7fc8bcf7c1f8a317046c96a625578680b3c4be9104626b663
-  project_uri: https://rubygems.org/gems/bio-ucsc-util
-  gem_uri: https://rubygems.org/gems/bio-ucsc-util-0.1.2.gem
-  homepage_uri: http://github.com/throwern/bio-ucsc-util
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
-  dependencies:
-    development:
-    - name: bundler
-      requirements: "~> 1.0"
-    - name: jeweler
-      requirements: "~> 1.8.3"
-    - name: rdoc
-      requirements: "~> 3.12"
-    runtime:
-    - name: ffi
-      requirements: ">= 0"
 - name: bio-biosql
   downloads: 3075
   version: 0.0.0
@@ -3973,13 +3973,13 @@
   project_uri: https://rubygems.org/gems/bio-biosql
   gem_uri: https://rubygems.org/gems/bio-biosql-0.0.0.gem
   homepage_uri: http://github.com/bioruby/bioruby-biosql
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-biosql/0.0.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -4013,14 +4013,14 @@
   spec_sha: 8beec44f91971d7bb0d3ab8928e5436ba044ef6c8bc7f0ab97c082ee67eda7e8
   project_uri: https://rubygems.org/gems/bio-iqtree
   gem_uri: https://rubygems.org/gems/bio-iqtree-0.1.2.gem
-  homepage_uri: 
-  wiki_uri: 
+  homepage_uri:
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-iqtree/0.1.2
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4050,13 +4050,13 @@
   project_uri: https://rubygems.org/gems/bio-biostars-analytics
   gem_uri: https://rubygems.org/gems/bio-biostars-analytics-0.2.0.gem
   homepage_uri: http://github.com/joejimbo/bioruby-biostars-analytics
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-biostars-analytics/0.2.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4086,7 +4086,7 @@
   info: |-
     Provide access to the IlluminaHumanAnnotations. Database comes form Bioconductor's package
          lumiHumanIDMapping
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/helios/bioruby-kb-illumina
   yanked: false
@@ -4095,13 +4095,13 @@
   project_uri: https://rubygems.org/gems/bio-kb-illumina
   gem_uri: https://rubygems.org/gems/bio-kb-illumina-0.1.0.gem
   homepage_uri: http://github.com/helios/bioruby-kb-illumina
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: activerecord
@@ -4115,41 +4115,6 @@
     - name: rcov
       requirements: ">= 0"
     - name: shoulda
-      requirements: ">= 0"
-    runtime: []
-- name: bio-qtlHD
-  downloads: 2675
-  version: 0.0.1.alpha.1
-  version_created_at: '2011-11-16T12:48:33.862Z'
-  version_downloads: 2675
-  platform: ruby
-  authors: Pjotr Prins, Danny Arends, Karl Broman
-  info: Ruby tools and scripts for QTL mapping, part of the qtlHD project
-  licenses: 
-  metadata:
-    homepage_uri: http://github.com/pjotrp/bioruby-qtlHD
-  yanked: false
-  sha: 13c26344c063e8def83b41a6cfc3bd13cc2afad110cb0fc387eed303adda1a13
-  spec_sha: 40373e310f45945f9766af3e934866a47f616682977c16f8f0bd129a496bb864
-  project_uri: https://rubygems.org/gems/bio-qtlHD
-  gem_uri: https://rubygems.org/gems/bio-qtlHD-0.0.1.alpha.1.gem
-  homepage_uri: http://github.com/pjotrp/bioruby-qtlHD
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
-  dependencies:
-    development:
-    - name: bio
-      requirements: ">= 1.4.2"
-    - name: bundler
-      requirements: "~> 1.0.0"
-    - name: jeweler
-      requirements: "~> 1.6.4"
-    - name: rcov
       requirements: ">= 0"
     runtime: []
 - name: muscle_bio
@@ -4170,13 +4135,13 @@
   project_uri: https://rubygems.org/gems/muscle_bio
   gem_uri: https://rubygems.org/gems/muscle_bio-0.5.0.gem
   homepage_uri: http://swanstrom.web.unc.edu/
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/muscle_bio/0.5.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -4185,6 +4150,79 @@
       requirements: "~> 13.0"
     - name: rspec
       requirements: "~> 3.0"
+    runtime: []
+- name: bio-qtlHD
+  downloads: 2675
+  version: 0.0.1.alpha.1
+  version_created_at: '2011-11-16T12:48:33.862Z'
+  version_downloads: 2675
+  platform: ruby
+  authors: Pjotr Prins, Danny Arends, Karl Broman
+  info: Ruby tools and scripts for QTL mapping, part of the qtlHD project
+  licenses:
+  metadata:
+    homepage_uri: http://github.com/pjotrp/bioruby-qtlHD
+  yanked: false
+  sha: 13c26344c063e8def83b41a6cfc3bd13cc2afad110cb0fc387eed303adda1a13
+  spec_sha: 40373e310f45945f9766af3e934866a47f616682977c16f8f0bd129a496bb864
+  project_uri: https://rubygems.org/gems/bio-qtlHD
+  gem_uri: https://rubygems.org/gems/bio-qtlHD-0.0.1.alpha.1.gem
+  homepage_uri: http://github.com/pjotrp/bioruby-qtlHD
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bio
+      requirements: ">= 1.4.2"
+    - name: bundler
+      requirements: "~> 1.0.0"
+    - name: jeweler
+      requirements: "~> 1.6.4"
+    - name: rcov
+      requirements: ">= 0"
+    runtime: []
+- name: bio-cnls_screenscraper
+  downloads: 9505
+  version: 0.3.0
+  version_created_at: '2012-05-06T03:59:07.038Z'
+  version_downloads: 5182
+  platform: ruby
+  authors: Ben J. Woodcroft
+  info: Programmatic interface to the cNLS nuclear localisation signal prediction
+    software
+  licenses:
+  metadata:
+    homepage_uri: http://github.com/wwood/bioruby-cnls_screenscraper
+  yanked: false
+  sha: 89bad4f77e94e30da20f430c879bdedddbfcc5cb238c3c3b726773dcaee2fd88
+  spec_sha: 3546afe7352be96b00b34a337b0ee3eb8bd4247bd097213180ed9eac1dea9309
+  project_uri: https://rubygems.org/gems/bio-cnls_screenscraper
+  gem_uri: https://rubygems.org/gems/bio-cnls_screenscraper-0.3.0.gem
+  homepage_uri: http://github.com/wwood/bioruby-cnls_screenscraper
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bio
+      requirements: ">= 1.4.2"
+    - name: bundler
+      requirements: ">= 1.0.21"
+    - name: jeweler
+      requirements: "~> 1.8.3"
+    - name: rdoc
+      requirements: "~> 3.12"
+    - name: shoulda
+      requirements: ">= 0"
     runtime: []
 - name: bio-primer3
   downloads: 2538
@@ -4203,13 +4241,13 @@
   project_uri: https://rubygems.org/gems/bio-primer3
   gem_uri: https://rubygems.org/gems/bio-primer3-0.0.1.pre.gem
   homepage_uri: http://github.com/wwood/bioruby-primer3
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-primer3/0.0.1.pre
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -4229,44 +4267,6 @@
       requirements: "~> 0.1"
     - name: bio-logger
       requirements: "~> 1.0"
-- name: bio-cnls_screenscraper
-  downloads: 9505
-  version: 0.3.0
-  version_created_at: '2012-05-06T03:59:07.038Z'
-  version_downloads: 5182
-  platform: ruby
-  authors: Ben J. Woodcroft
-  info: Programmatic interface to the cNLS nuclear localisation signal prediction
-    software
-  licenses: 
-  metadata:
-    homepage_uri: http://github.com/wwood/bioruby-cnls_screenscraper
-  yanked: false
-  sha: 89bad4f77e94e30da20f430c879bdedddbfcc5cb238c3c3b726773dcaee2fd88
-  spec_sha: 3546afe7352be96b00b34a337b0ee3eb8bd4247bd097213180ed9eac1dea9309
-  project_uri: https://rubygems.org/gems/bio-cnls_screenscraper
-  gem_uri: https://rubygems.org/gems/bio-cnls_screenscraper-0.3.0.gem
-  homepage_uri: http://github.com/wwood/bioruby-cnls_screenscraper
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
-  dependencies:
-    development:
-    - name: bio
-      requirements: ">= 1.4.2"
-    - name: bundler
-      requirements: ">= 1.0.21"
-    - name: jeweler
-      requirements: "~> 1.8.3"
-    - name: rdoc
-      requirements: "~> 3.12"
-    - name: shoulda
-      requirements: ">= 0"
-    runtime: []
 - name: bio-hmmer_model
   downloads: 9074
   version: 0.0.2
@@ -4275,7 +4275,7 @@
   platform: ruby
   authors: Ben J. Woodcroft
   info: Parse PFAM HMM definition files so that the models can be accessible programmatically
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/wwood/bioruby-hmmer_model
   yanked: false
@@ -4284,13 +4284,13 @@
   project_uri: https://rubygems.org/gems/bio-hmmer_model
   gem_uri: https://rubygems.org/gems/bio-hmmer_model-0.0.2.gem
   homepage_uri: http://github.com/wwood/bioruby-hmmer_model
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4324,13 +4324,13 @@
   project_uri: https://rubygems.org/gems/bio-bigwig
   gem_uri: https://rubygems.org/gems/bio-bigwig-0.0.6.gem
   homepage_uri: https://github.com/kojix2/bw-ruby
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-bigwig/0.0.6
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
@@ -4351,13 +4351,13 @@
   project_uri: https://rubygems.org/gems/bio-hmmer3_report
   gem_uri: https://rubygems.org/gems/bio-hmmer3_report-0.1.0.gem
   homepage_uri: http://github.com/wwood/bioruby-hmmer3_report
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-hmmer3_report/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4392,13 +4392,13 @@
   project_uri: https://rubygems.org/gems/bio-polymarker_db_batch
   gem_uri: https://rubygems.org/gems/bio-polymarker_db_batch-0.5.1.gem
   homepage_uri: http://github.com/homonecloco/bioruby-polymarker_db_batch
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-polymarker_db_batch/0.5.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4440,8 +4440,8 @@
   mailing_list_uri: ''
   source_code_uri: https://github.com/ALTree/bio-ensembl-rest
   bug_tracker_uri: https://github.com/ALTree/bio-ensembl-rest/issues
-  changelog_uri: 
-  funding_uri: 
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -4476,13 +4476,13 @@
   project_uri: https://rubygems.org/gems/bio-statsample-glm
   gem_uri: https://rubygems.org/gems/bio-statsample-glm-0.1.1.gem
   homepage_uri: http://github.com/AnkurGel/bioruby-statsample-glm
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-statsample-glm/0.1.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4509,10 +4509,10 @@
     - name: statsample
       requirements: ">= 1.2.0"
 - name: bio-samtools-server
-  downloads: 7339
+  downloads: 7340
   version: 0.1.2
   version_created_at: '2014-05-30T16:58:53.191Z'
-  version_downloads: 4202
+  version_downloads: 4203
   platform: ruby
   authors: homonecloco
   info: A minimal web service on the top of sinatra to query bam files
@@ -4525,13 +4525,13 @@
   project_uri: https://rubygems.org/gems/bio-samtools-server
   gem_uri: https://rubygems.org/gems/bio-samtools-server-0.1.2.gem
   homepage_uri: http://github.com/homonecloco/bioruby-samtools-server
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-samtools-server/0.1.2
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4559,7 +4559,7 @@
   platform: ruby
   authors: Trevor Wennblom
   info: Digests DNA based on restriction enzyme cut patterns
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/trevor/bioruby-restriction_enzyme
   yanked: false
@@ -4568,13 +4568,13 @@
   project_uri: https://rubygems.org/gems/bio-restriction_enzyme
   gem_uri: https://rubygems.org/gems/bio-restriction_enzyme-1.0.0.gem
   homepage_uri: http://github.com/trevor/bioruby-restriction_enzyme
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4596,7 +4596,7 @@
   platform: ruby
   authors: Raoul J.P. Bonnal, Pjotr Prins
   info: BioRuby plugins with dependecies from external library or tools
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/helios/bioruby-core-ext
   yanked: false
@@ -4605,13 +4605,13 @@
   project_uri: https://rubygems.org/gems/bio-core-ext
   gem_uri: https://rubygems.org/gems/bio-core-ext-0.0.1.gem
   homepage_uri: http://github.com/helios/bioruby-core-ext
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4641,7 +4641,7 @@
   platform: ruby
   authors: Ben J Woodcroft
   info: A simple biogem that allows computation of the aliphatic index of a protein
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/wwood/bioruby-aliphatic_index
   yanked: false
@@ -4650,13 +4650,13 @@
   project_uri: https://rubygems.org/gems/bio-aliphatic_index
   gem_uri: https://rubygems.org/gems/bio-aliphatic_index-0.0.1.gem
   homepage_uri: http://github.com/wwood/bioruby-aliphatic_index
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4670,51 +4670,11 @@
     - name: shoulda
       requirements: ">= 0"
     runtime: []
-- name: bio-cd-hit-report
-  downloads: 16628
-  version: 0.1.0
-  version_created_at: '2013-04-26T19:38:24.419Z'
-  version_downloads: 5073
-  platform: ruby
-  authors: George Githinji
-  info: A Ruby library for reading CD-HIT cluster reports
-  licenses:
-  - MIT
-  metadata:
-    homepage_uri: http://github.com/georgeG/bioruby-cd-hit-report
-  yanked: false
-  sha: 2e518468a6de52991ec81288b9cefd6ed83a6e76104669c185d633bd2a074282
-  spec_sha: ae2e4e4b1c86a5696bf7f881183aaba08e8bf811fc95a979c6df5c1af48e3576
-  project_uri: https://rubygems.org/gems/bio-cd-hit-report
-  gem_uri: https://rubygems.org/gems/bio-cd-hit-report-0.1.0.gem
-  homepage_uri: http://github.com/georgeG/bioruby-cd-hit-report
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
-  dependencies:
-    development:
-    - name: bundler
-      requirements: ">= 1.3.1"
-    - name: jeweler
-      requirements: ">= 0"
-    - name: minitest
-      requirements: ">= 0"
-    - name: rdoc
-      requirements: ">= 0"
-    - name: rdoc
-      requirements: ">= 0"
-    runtime:
-    - name: bio
-      requirements: "= 1.4.3"
 - name: intermine-bio
-  downloads: 5075
+  downloads: 5077
   version: 0.98.1
   version_created_at: '2011-08-02T13:19:44.373Z'
-  version_downloads: 5075
+  version_downloads: 5077
   platform: ruby
   authors: Alex Kalderimis
   info: "= Biological Extensions to the InterMine Webservice Client Library \n\nThis
@@ -4737,7 +4697,7 @@
     intermine documentation.\n\n== Support\n\nSupport is available on our development
     mailing list: dev@intermine.org\n\n== License\n\nThis code is Open Source under
     the LGPL. Source code for all InterMine code\ncan be checked out from svn://subversion.flymine.org/flymine\n"
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://www.intermine.org
   yanked: false
@@ -4746,18 +4706,58 @@
   project_uri: https://rubygems.org/gems/intermine-bio
   gem_uri: https://rubygems.org/gems/intermine-bio-0.98.1.gem
   homepage_uri: http://www.intermine.org
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
     - name: intermine
       requirements: ">= 0"
+- name: bio-cd-hit-report
+  downloads: 16628
+  version: 0.1.0
+  version_created_at: '2013-04-26T19:38:24.419Z'
+  version_downloads: 5073
+  platform: ruby
+  authors: George Githinji
+  info: A Ruby library for reading CD-HIT cluster reports
+  licenses:
+  - MIT
+  metadata:
+    homepage_uri: http://github.com/georgeG/bioruby-cd-hit-report
+  yanked: false
+  sha: 2e518468a6de52991ec81288b9cefd6ed83a6e76104669c185d633bd2a074282
+  spec_sha: ae2e4e4b1c86a5696bf7f881183aaba08e8bf811fc95a979c6df5c1af48e3576
+  project_uri: https://rubygems.org/gems/bio-cd-hit-report
+  gem_uri: https://rubygems.org/gems/bio-cd-hit-report-0.1.0.gem
+  homepage_uri: http://github.com/georgeG/bioruby-cd-hit-report
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bundler
+      requirements: ">= 1.3.1"
+    - name: jeweler
+      requirements: ">= 0"
+    - name: minitest
+      requirements: ">= 0"
+    - name: rdoc
+      requirements: ">= 0"
+    - name: rdoc
+      requirements: ">= 0"
+    runtime:
+    - name: bio
+      requirements: "= 1.4.3"
 - name: bio-img_metadata
   downloads: 4905
   version: 0.0.1
@@ -4777,13 +4777,13 @@
   project_uri: https://rubygems.org/gems/bio-img_metadata
   gem_uri: https://rubygems.org/gems/bio-img_metadata-0.0.1.gem
   homepage_uri: http://github.com/wwood/bioruby-img_metadata
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4818,13 +4818,13 @@
   project_uri: https://rubygems.org/gems/bio-blat-tools
   gem_uri: https://rubygems.org/gems/bio-blat-tools-0.1.0.gem
   homepage_uri: http://github.com/homonecloco/bioruby-blat-tools
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-blat-tools/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -4858,13 +4858,13 @@
   project_uri: https://rubygems.org/gems/bio-location-rdfize
   gem_uri: https://rubygems.org/gems/bio-location-rdfize-0.0.0.gem
   homepage_uri: http://github.com/ngoto/bioruby-location-rdfize
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-location-rdfize/0.0.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -4895,23 +4895,23 @@
   project_uri: https://rubygems.org/gems/bio-sparql-client
   gem_uri: https://rubygems.org/gems/bio-sparql-client-0.0.1.gem
   homepage_uri: http://rubygems.org/gems/bio-sparql-client
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-sparql-client/0.0.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
     - name: sparql-client
       requirements: "~> 1.1"
 - name: jandot-bio
-  downloads: 3545
+  downloads: 3546
   version: 1.2.1
   version_created_at: '2014-08-11T03:22:52.150Z'
-  version_downloads: 3545
+  version_downloads: 3546
   platform: ruby
   authors: Jan Aerts
   info: BioRuby is a library for bioinformatics (biology + information science).
@@ -4923,13 +4923,13 @@
   project_uri: https://rubygems.org/gems/jandot-bio
   gem_uri: https://rubygems.org/gems/jandot-bio-1.2.1.gem
   homepage_uri: http://github.com/jandot/bioruby
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/jandot-bio/1.2.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
@@ -4953,13 +4953,13 @@
   project_uri: https://rubygems.org/gems/bio-sam-mutation
   gem_uri: https://rubygems.org/gems/bio-sam-mutation-0.4.1.gem
   homepage_uri: http://github.com/stveep/bioruby-sam-mutation
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-sam-mutation/0.4.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -4996,7 +4996,7 @@
   authors: Ben J Woodcroft
   info: Enables the localisation predictor WoLF PSORT to be run locally. The algorithm
     is available at http://wolfpsort.org/
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/wwood/bioruby-wolf_psort_wrapper
   yanked: false
@@ -5005,13 +5005,13 @@
   project_uri: https://rubygems.org/gems/bio-wolf_psort_wrapper
   gem_uri: https://rubygems.org/gems/bio-wolf_psort_wrapper-0.0.3.gem
   homepage_uri: http://github.com/wwood/bioruby-wolf_psort_wrapper
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -5043,13 +5043,13 @@
   project_uri: https://rubygems.org/gems/bio-blast-xmlparser
   gem_uri: https://rubygems.org/gems/bio-blast-xmlparser-0.0.0.gem
   homepage_uri: https://github.com/bioruby/bioruby-blast-xmlparser
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-blast-xmlparser/0.0.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -5086,13 +5086,13 @@
   project_uri: https://rubygems.org/gems/bio-old-biofetch-emulator
   gem_uri: https://rubygems.org/gems/bio-old-biofetch-emulator-1.0.0.gem
   homepage_uri: http://github.com/ngoto/bioruby-old-biofetch-emulator
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-old-biofetch-emulator/1.0.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -5125,13 +5125,13 @@
   project_uri: https://rubygems.org/gems/bio-express_beta_diversity
   gem_uri: https://rubygems.org/gems/bio-express_beta_diversity-0.1.0.gem
   homepage_uri: http://github.com/wwood/bioruby-express_beta_diversity
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-express_beta_diversity/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -5165,13 +5165,13 @@
   project_uri: https://rubygems.org/gems/lorem_ipsum_bio
   gem_uri: https://rubygems.org/gems/lorem_ipsum_bio-0.1.0.gem
   homepage_uri: https://github.com/pjanek/lorem_ipsum_bio
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/lorem_ipsum_bio/0.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime: []
@@ -5183,7 +5183,7 @@
   platform: ruby
   authors: Sir Richard J. Roberts, Trevor Wennblom
   info: Restriction Enzyme Dataset from REBASE in yaml form
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/trevor/bioruby-data-restriction_enzyme
   yanked: false
@@ -5192,13 +5192,13 @@
   project_uri: https://rubygems.org/gems/bio-data-restriction_enzyme
   gem_uri: https://rubygems.org/gems/bio-data-restriction_enzyme-1.109.0.gem
   homepage_uri: http://github.com/trevor/bioruby-data-restriction_enzyme
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -5227,14 +5227,14 @@
   spec_sha: 95da0eccbe03ca56035e9fda637122560fc282e82909ce3e197a06f95e29a5b7
   project_uri: https://rubygems.org/gems/bio-blast_seq_extract
   gem_uri: https://rubygems.org/gems/bio-blast_seq_extract-0.2.5.gem
-  homepage_uri: 
-  wiki_uri: 
+  homepage_uri:
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-blast_seq_extract/0.2.5
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -5263,14 +5263,14 @@
   spec_sha: '043692a259a3c90ba9818a675d4b85702870d30e801bcbbc26bec47cc54fedb1'
   project_uri: https://rubygems.org/gems/bio-polymarker
   gem_uri: https://rubygems.org/gems/bio-polymarker-1.3.3.gem
-  homepage_uri: 
-  wiki_uri: 
+  homepage_uri:
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-polymarker/1.3.3
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: juwelier
@@ -5299,7 +5299,7 @@
   authors: Ben J Woodcroft
   info: a method to get the nucleotide sequence of translations done by the EMBOSS
     bioinformatics package program transeq.
-  licenses: 
+  licenses:
   metadata:
     homepage_uri: http://github.com/wwood/bioruby-emboss_six_frame_nucleotide_sequences
   yanked: false
@@ -5308,13 +5308,13 @@
   project_uri: https://rubygems.org/gems/bio-emboss_six_frame_nucleotide_sequences
   gem_uri: https://rubygems.org/gems/bio-emboss_six_frame_nucleotide_sequences-0.1.0.gem
   homepage_uri: http://github.com/wwood/bioruby-emboss_six_frame_nucleotide_sequences
-  wiki_uri: 
-  documentation_uri: 
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -5329,10 +5329,10 @@
     - name: bio
       requirements: ">= 1.4.1"
 - name: bio-samtools-wrapper
-  downloads: 241
+  downloads: 242
   version: 2.7.0
   version_created_at: '2024-09-25T14:01:29.076Z'
-  version_downloads: 241
+  version_downloads: 242
   platform: ruby
   authors: Rob Ellis
   info: "Wrapper of samtools for ruby. \n\n  This project was born from the need to
@@ -5345,14 +5345,14 @@
   spec_sha: ebb19a56d7d6ad4a481a7ef7073aad5039b374a4bb5531808859753ca97982d6
   project_uri: https://rubygems.org/gems/bio-samtools-wrapper
   gem_uri: https://rubygems.org/gems/bio-samtools-wrapper-2.7.0.gem
-  homepage_uri: 
-  wiki_uri: 
+  homepage_uri:
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bio-samtools-wrapper/2.7.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: juwelier
@@ -5369,10 +5369,10 @@
     - name: bio-svgenes
       requirements: ">= 0.4.1"
 - name: linkhub-jekyll-theme
-  downloads: 2158
+  downloads: 2159
   version: 0.1.6
   version_created_at: '2024-05-22T21:47:05.862Z'
-  version_downloads: 311
+  version_downloads: 312
   platform: ruby
   authors: Digital Malayali
   info: A minimal and super-lightweight free Jekyll theme to create a link-in-bio
@@ -5391,9 +5391,9 @@
   project_uri: https://rubygems.org/gems/linkhub-jekyll-theme
   gem_uri: https://rubygems.org/gems/linkhub-jekyll-theme-0.1.6.gem
   homepage_uri: https://digitalmalayali.github.io/linkhub-jekyll-theme
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://github.com/digitalmalayali/linkhub-jekyll-theme#readme
-  mailing_list_uri: 
+  mailing_list_uri:
   source_code_uri: https://github.com/digitalmalayali/linkhub-jekyll-theme
   bug_tracker_uri: https://github.com/digitalmalayali/linkhub-jekyll-theme/issues
   changelog_uri: https://github.com/digitalmalayali/linkhub-jekyll-theme/blob/main/CHANGELOG.md
@@ -5423,13 +5423,13 @@
   project_uri: https://rubygems.org/gems/geni-svgenes
   gem_uri: https://rubygems.org/gems/geni-svgenes-1.1.0.gem
   homepage_uri: http://github.com/southpawlife/geni-svgenes
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/geni-svgenes/1.1.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bio
@@ -5465,13 +5465,13 @@
   project_uri: https://rubygems.org/gems/bioruby-phyloxml
   gem_uri: https://rubygems.org/gems/bioruby-phyloxml-1.0.0.gem
   homepage_uri: http://github.com/bioruby/bioruby-phyloxml
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/bioruby-phyloxml/1.0.0
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: bundler
@@ -5503,13 +5503,13 @@
   project_uri: https://rubygems.org/gems/eutils
   gem_uri: https://rubygems.org/gems/eutils-0.2.1.gem
   homepage_uri: http://github.com/seouri/eutils
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/eutils/0.2.1
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development:
     - name: shoulda
@@ -5535,13 +5535,13 @@
   project_uri: https://rubygems.org/gems/htslib
   gem_uri: https://rubygems.org/gems/htslib-0.2.9.gem
   homepage_uri: https://github.com/kojix2/ruby-htslib
-  wiki_uri: 
+  wiki_uri:
   documentation_uri: https://www.rubydoc.info/gems/htslib/0.2.9
-  mailing_list_uri: 
-  source_code_uri: 
-  bug_tracker_uri: 
-  changelog_uri: 
-  funding_uri: 
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
   dependencies:
     development: []
     runtime:
