@@ -1,9 +1,9 @@
 ---
 - name: bio
-  downloads: 754097
+  downloads: 754219
   version: 2.0.6
   version_created_at: '2025-03-08T01:15:45.822Z'
-  version_downloads: 3120
+  version_downloads: 3130
   platform: ruby
   authors: BioRuby project
   info: BioRuby is a library for bioinformatics (biology + information science).
@@ -27,7 +27,7 @@
     development: []
     runtime: []
 - name: bio-samtools
-  downloads: 124882
+  downloads: 124892
   version: 2.6.2
   version_created_at: '2018-01-11T00:55:22.555Z'
   version_downloads: 4310
@@ -67,7 +67,7 @@
     - name: bio-svgenes
       requirements: ">= 0.4.1"
 - name: bio-gem
-  downloads: 99461
+  downloads: 99465
   version: 1.3.6
   version_created_at: '2014-05-20T04:31:57.244Z'
   version_downloads: 4624
@@ -102,7 +102,7 @@
     - name: rdoc
       requirements: ">= 4.1.1, ~> 4.1.1"
 - name: bio-gadget
-  downloads: 84676
+  downloads: 84677
   version: 0.5.0
   version_created_at: '2017-02-01T14:25:16.869Z'
   version_downloads: 2992
@@ -147,7 +147,7 @@
     - name: thor
       requirements: "~> 0.19.3"
 - name: bio-fastqc
-  downloads: 62908
+  downloads: 62910
   version: 0.10.8
   version_created_at: '2018-07-26T06:15:47.507Z'
   version_downloads: 2556
@@ -201,7 +201,7 @@
     - name: thor
       requirements: "~> 0.19.1"
 - name: bio-svgenes
-  downloads: 61765
+  downloads: 61768
   version: 0.4.1
   version_created_at: '2014-01-06T09:45:10.714Z'
   version_downloads: 13395
@@ -241,10 +241,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-bgzf
-  downloads: 61672
+  downloads: 61674
   version: 0.2.1
   version_created_at: '2012-08-06T19:05:37.870Z'
-  version_downloads: 49760
+  version_downloads: 49761
   platform: ruby
   authors: Artem Tarasov, Clayton Wheeler
   info: This library provides support for BGZF (Blocked GZip Format) in Ruby. BGZF,
@@ -308,10 +308,10 @@
     - name: rest-client
       requirements: "~> 1.7"
 - name: bio-maf
-  downloads: 53464
+  downloads: 53465
   version: 1.0.1
   version_created_at: '2012-08-21T17:38:13.637Z'
-  version_downloads: 5596
+  version_downloads: 5597
   platform: ruby
   authors: Clayton Wheeler
   info: Multiple Alignment Format parser for BioRuby.
@@ -345,10 +345,10 @@
     - name: kyotocabinet-ruby
       requirements: "~> 1.27.1"
 - name: bio-blastxmlparser
-  downloads: 52822
+  downloads: 52827
   version: 2.0.4
   version_created_at: '2015-09-16T06:44:58.703Z'
-  version_downloads: 8022
+  version_downloads: 8023
   platform: ruby
   authors: Pjotr Prins
   info: Fast big data BLAST XML parser and library; this libxml2 based version is
@@ -416,7 +416,7 @@
     - name: uuid
       requirements: ">= 0"
 - name: bio-gff3
-  downloads: 46063
+  downloads: 46064
   version: 0.9.1
   version_created_at: '2012-08-20T09:29:57.889Z'
   version_downloads: 5597
@@ -462,7 +462,7 @@
     - name: log4r
       requirements: "> 1.1.6"
 - name: bio-vcf
-  downloads: 42093
+  downloads: 42097
   version: 0.9.5
   version_created_at: '2021-01-18T08:20:08.520Z'
   version_downloads: 5712
@@ -490,10 +490,10 @@
     development: []
     runtime: []
 - name: bio-band
-  downloads: 39306
+  downloads: 39308
   version: 0.1.11
   version_created_at: '2013-09-16T10:06:12.118Z'
-  version_downloads: 4729
+  version_downloads: 4730
   platform: ruby
   authors: arrigonialberto86
   info: 'Data mining and machine learning algorithms for JRuby '
@@ -553,7 +553,7 @@
     - name: test-unit
       requirements: ">= 0"
 - name: bio-alignment
-  downloads: 37390
+  downloads: 37392
   version: 0.1.0
   version_created_at: '2017-10-10T09:36:09.884Z'
   version_downloads: 2849
@@ -619,10 +619,10 @@
     - name: log4r
       requirements: ">= 1.1.9"
 - name: bio-table
-  downloads: 35970
+  downloads: 35973
   version: 1.0.0
   version_created_at: '2014-05-31T11:17:14.624Z'
-  version_downloads: 4991
+  version_downloads: 4993
   platform: ruby
   authors: Pjotr Prins
   info: Functions and tools for tranforming and changing tab delimited and comma separated
@@ -661,10 +661,10 @@
     - name: bio-logger
       requirements: ">= 0"
 - name: bio-publisci
-  downloads: 32875
+  downloads: 32878
   version: 0.1.0
   version_created_at: '2013-09-20T03:34:59.554Z'
-  version_downloads: 4698
+  version_downloads: 4699
   platform: ruby
   authors: Will Strinz
   info: 'A toolkit for publishing scientific results and datasets using RDF, OWL,
@@ -735,10 +735,10 @@
     - name: sparql
       requirements: ">= 0"
 - name: bio-ngs
-  downloads: 30855
+  downloads: 30858
   version: 0.5.2
   version_created_at: '2012-06-06T13:27:18.216Z'
-  version_downloads: 5649
+  version_downloads: 5650
   platform: ruby
   authors: Francesco Strozzi, Raoul J.P. Bonnal
   info: bio-ngs provides a framework for handling NGS data with BioRuby
@@ -828,7 +828,7 @@
     - name: thor
       requirements: "= 0.14.6"
 - name: bio-faster
-  downloads: 30812
+  downloads: 30814
   version: 0.4.5
   version_created_at: '2012-06-13T10:53:06.185Z'
   version_downloads: 5860
@@ -871,7 +871,7 @@
     - name: ffi
       requirements: ">= 0"
 - name: bio-pipengine
-  downloads: 29886
+  downloads: 29890
   version: 0.9.7
   version_created_at: '2017-08-28T08:02:35.924Z'
   version_downloads: 2783
@@ -904,10 +904,10 @@
     - name: trollop
       requirements: ">= 2.1.2"
 - name: bio-velvet
-  downloads: 26413
+  downloads: 26417
   version: 0.6.0
   version_created_at: '2015-01-09T05:47:28.928Z'
-  version_downloads: 4246
+  version_downloads: 4247
   platform: ruby
   authors: Ben J Woodcroft
   info: Parser to work with some file formats used in the velvet DNA assembler
@@ -955,10 +955,10 @@
     - name: systemu
       requirements: "~> 2.6"
 - name: bio-bigbio
-  downloads: 25870
+  downloads: 25872
   version: 0.1.6
   version_created_at: '2014-05-16T11:31:16.797Z'
-  version_downloads: 4493
+  version_downloads: 4495
   platform: ruby
   authors: Pjotr Prins
   info: Fasta reader, ORF emitter, sequence translation
@@ -992,10 +992,10 @@
     - name: bio-logger
       requirements: ">= 0"
 - name: bio-signalp
-  downloads: 25247
+  downloads: 25249
   version: 0.3.1
   version_created_at: '2014-08-04T23:04:16.371Z'
-  version_downloads: 4364
+  version_downloads: 4366
   platform: ruby
   authors: Ben J Woodcroft
   info: A wrapper for the signal peptide prediction algorith SignalP. Not very well
@@ -1032,7 +1032,7 @@
     - name: bio-logger
       requirements: "~> 1.0"
 - name: bio-commandeer
-  downloads: 24400
+  downloads: 24401
   version: 0.4.0
   version_created_at: '2017-08-10T11:59:16.511Z'
   version_downloads: 4886
@@ -1072,10 +1072,10 @@
     - name: systemu
       requirements: "~> 2.6"
 - name: bio-phyta
-  downloads: 23423
+  downloads: 23426
   version: 0.9.4
   version_created_at: '2011-12-07T10:23:30.050Z'
-  version_downloads: 5617
+  version_downloads: 5618
   platform: ruby
   authors: Philipp Comans
   info: Pipeline to remove contaminations from EST libraries
@@ -1119,10 +1119,10 @@
     - name: trollop
       requirements: ">= 1.16.2"
 - name: bio-polyploid-tools
-  downloads: 121281
+  downloads: 121287
   version: 1.2.1
   version_created_at: '2021-05-10T08:28:42.442Z'
-  version_downloads: 2821
+  version_downloads: 2823
   platform: ruby
   authors: Ricardo H.  Ramirez-Gonzalez
   info: Repository of tools developed at Crop Genetics in JIC to work with polyploid
@@ -1247,10 +1247,10 @@
     - name: bio
       requirements: ">= 1.4.1"
 - name: bio-nexml
-  downloads: 18983
+  downloads: 18984
   version: 1.1.0
   version_created_at: '2012-05-09T06:15:27.128Z'
-  version_downloads: 5244
+  version_downloads: 5245
   platform: ruby
   authors: Rutger Vos, Anurag Priyam
   info: This plugin reads, writes and generates NeXML
@@ -1317,10 +1317,10 @@
     - name: ffi
       requirements: ">= 0"
 - name: bio-graphics
-  downloads: 15974
+  downloads: 15975
   version: '1.4'
   version_created_at: '2009-07-25T18:31:34.000Z'
-  version_downloads: 6413
+  version_downloads: 6414
   platform: ruby
   authors: Jan Aerts
   info: Library for visualizing genomic regions
@@ -1346,7 +1346,7 @@
     - name: bio
       requirements: ">= 1"
 - name: bio-plasmoap
-  downloads: 15904
+  downloads: 15905
   version: 0.1.1
   version_created_at: '2016-04-14T10:13:52.998Z'
   version_downloads: 3863
@@ -1386,10 +1386,10 @@
     - name: bio-signalp
       requirements: ">= 0.2.0"
 - name: bio-ucsc-api
-  downloads: 76801
+  downloads: 76806
   version: 0.6.5
   version_created_at: '2018-05-11T08:24:36.148Z'
-  version_downloads: 2694
+  version_downloads: 2695
   platform: ruby
   authors: Hiroyuki Mishima, Jan Aerts
   info: 'Ruby UCSC API: accessing the UCSC Genome Database using Ruby'
@@ -1607,10 +1607,10 @@
     - name: libxml-ruby
       requirements: ">= 2.0.5"
 - name: bio-liftover
-  downloads: 13822
+  downloads: 13823
   version: 1.3.0
   version_created_at: '2014-03-11T14:12:55.282Z'
-  version_downloads: 4298
+  version_downloads: 4299
   platform: ruby
   authors: Andrei Rozanski
   info: Simple, under development Ruby solution for UCSC LiftOver tool
@@ -1701,7 +1701,7 @@
     - name: rinruby
       requirements: ">= 2.0.2"
 - name: bio-chembl
-  downloads: 13082
+  downloads: 13084
   version: 0.1.3
   version_created_at: '2012-07-23T14:33:41.705Z'
   version_downloads: 5155
@@ -1744,7 +1744,7 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-rdf
-  downloads: 12594
+  downloads: 12596
   version: 0.0.2
   version_created_at: '2012-05-23T07:44:24.909Z'
   version_downloads: 5546
@@ -1790,10 +1790,10 @@
     - name: bio-logger
       requirements: ">= 0"
 - name: bio-affy
-  downloads: 12448
+  downloads: 12449
   version: 0.5.1
   version_created_at: '2011-12-09T15:48:17.263Z'
-  version_downloads: 5535
+  version_downloads: 5536
   platform: ruby
   authors: Pjotr Prins
   info: |-
@@ -1831,10 +1831,10 @@
       requirements: "~> 2.7.0"
     runtime: []
 - name: bio-unichem
-  downloads: 12255
+  downloads: 12258
   version: 0.3.0
   version_created_at: '2013-02-09T14:54:24.582Z'
-  version_downloads: 4920
+  version_downloads: 4921
   platform: ruby
   authors: Mitsuteru Nakao
   info: BioRuby plugin for UniChem REST Web service
@@ -1910,7 +1910,7 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-locus
-  downloads: 12221
+  downloads: 12222
   version: 0.0.7
   version_created_at: '2015-09-14T10:06:07.839Z'
   version_downloads: 5989
@@ -2029,7 +2029,7 @@
     - name: bio
       requirements: ">= 1.4.2"
 - name: bio-core
-  downloads: 9958
+  downloads: 9959
   version: 0.0.1
   version_created_at: '2011-08-30T12:30:46.493Z'
   version_downloads: 5663
@@ -2119,6 +2119,51 @@
     - name: simplecov
       requirements: ">= 0"
     runtime: []
+- name: bio-basespace-sdk
+  downloads: 42697
+  version: 0.1.7
+  version_created_at: '2013-08-08T11:09:28.252Z'
+  version_downloads: 28409
+  platform: ruby
+  authors: Joachim Baran, Raoul Bonnal, Eri Kibukawa, Francesco Strozzi, Toshiaki
+    Katayama
+  info: |-
+    BaseSpace Ruby SDK is a Ruby based Software Development Kit to be used in the development of Apps and scripts for working with Illumina's BaseSpace cloud-computing solution for next-gen sequencing data analysis.
+
+      The primary purpose of the SDK is to provide an easy-to-use Ruby environment enabling developers to authenticate a user, retrieve data, and upload data/results from their own analysis to BaseSpace.
+  licenses:
+  - Apache, Version 2.0
+  metadata: {}
+  yanked: false
+  sha: d5583fd60134726d96e6569b360f62bc7c20b42d8f789dddfbbed98849cf576b
+  spec_sha: f855c3cca4776630f1cf4f9f979951c55c191d520d6134b8265120abdff9f789
+  project_uri: https://rubygems.org/gems/bio-basespace-sdk
+  gem_uri: https://rubygems.org/gems/bio-basespace-sdk-0.1.7.gem
+  homepage_uri: https://github.com/basespace/basespace-ruby-sdk
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/bio-basespace-sdk/0.1.7
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bio
+      requirements: ">= 1.4.2"
+    - name: bundler
+      requirements: ">= 1.1.5"
+    - name: jeweler
+      requirements: "~> 1.8.4"
+    - name: rdoc
+      requirements: "~> 3.12"
+    - name: rspec
+      requirements: "~> 2.14.1"
+    runtime:
+    - name: addressable
+      requirements: ">= 2.3.2"
+    - name: getopt
+      requirements: ">= 1.4.1"
 - name: bio-gag
   downloads: 9198
   version: 0.1.0
@@ -2166,53 +2211,8 @@
       requirements: ">= 0.0.1"
     - name: progressbar
       requirements: ">= 0"
-- name: bio-basespace-sdk
-  downloads: 42695
-  version: 0.1.7
-  version_created_at: '2013-08-08T11:09:28.252Z'
-  version_downloads: 28409
-  platform: ruby
-  authors: Joachim Baran, Raoul Bonnal, Eri Kibukawa, Francesco Strozzi, Toshiaki
-    Katayama
-  info: |-
-    BaseSpace Ruby SDK is a Ruby based Software Development Kit to be used in the development of Apps and scripts for working with Illumina's BaseSpace cloud-computing solution for next-gen sequencing data analysis.
-
-      The primary purpose of the SDK is to provide an easy-to-use Ruby environment enabling developers to authenticate a user, retrieve data, and upload data/results from their own analysis to BaseSpace.
-  licenses:
-  - Apache, Version 2.0
-  metadata: {}
-  yanked: false
-  sha: d5583fd60134726d96e6569b360f62bc7c20b42d8f789dddfbbed98849cf576b
-  spec_sha: f855c3cca4776630f1cf4f9f979951c55c191d520d6134b8265120abdff9f789
-  project_uri: https://rubygems.org/gems/bio-basespace-sdk
-  gem_uri: https://rubygems.org/gems/bio-basespace-sdk-0.1.7.gem
-  homepage_uri: https://github.com/basespace/basespace-ruby-sdk
-  wiki_uri:
-  documentation_uri: https://www.rubydoc.info/gems/bio-basespace-sdk/0.1.7
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: bio
-      requirements: ">= 1.4.2"
-    - name: bundler
-      requirements: ">= 1.1.5"
-    - name: jeweler
-      requirements: "~> 1.8.4"
-    - name: rdoc
-      requirements: "~> 3.12"
-    - name: rspec
-      requirements: "~> 2.14.1"
-    runtime:
-    - name: addressable
-      requirements: ">= 2.3.2"
-    - name: getopt
-      requirements: ">= 1.4.1"
 - name: bio-gggenome
-  downloads: 8170
+  downloads: 8171
   version: 0.2.0
   version_created_at: '2013-08-13T14:10:32.689Z'
   version_downloads: 4650
@@ -2285,6 +2285,34 @@
     runtime:
     - name: bio
       requirements: ">= 2.0.0"
+- name: bio-twobit
+  downloads: 7831
+  version: 0.2.3
+  version_created_at: '2024-11-19T03:49:52.264Z'
+  version_downloads: 337
+  platform: ruby
+  authors: kojix2
+  info: This is a Ruby binding for lib2bit(https://github.com/dpryan79/lib2bit), which
+    provides high-speed access to genomic data in 2bit file format.
+  licenses:
+  - MIT
+  metadata: {}
+  yanked: false
+  sha: 230e25e0d935ab9dc25b8986bd29e662e126bb7176ddde92791d799851991c25
+  spec_sha: f67c293a97d8a5698cdb9ae6691441d59de3f918209f2c7501667b0d5f684e3a
+  project_uri: https://rubygems.org/gems/bio-twobit
+  gem_uri: https://rubygems.org/gems/bio-twobit-0.2.3.gem
+  homepage_uri: https://github.com/ruby-on-bioc/bio-twobit
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/bio-twobit/0.2.3
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development: []
+    runtime: []
 - name: bio-ipcress
   downloads: 7829
   version: 0.1.0
@@ -2325,34 +2353,6 @@
     runtime:
     - name: bio
       requirements: ">= 1.4.2"
-- name: bio-twobit
-  downloads: 7827
-  version: 0.2.3
-  version_created_at: '2024-11-19T03:49:52.264Z'
-  version_downloads: 335
-  platform: ruby
-  authors: kojix2
-  info: This is a Ruby binding for lib2bit(https://github.com/dpryan79/lib2bit), which
-    provides high-speed access to genomic data in 2bit file format.
-  licenses:
-  - MIT
-  metadata: {}
-  yanked: false
-  sha: 230e25e0d935ab9dc25b8986bd29e662e126bb7176ddde92791d799851991c25
-  spec_sha: f67c293a97d8a5698cdb9ae6691441d59de3f918209f2c7501667b0d5f684e3a
-  project_uri: https://rubygems.org/gems/bio-twobit
-  gem_uri: https://rubygems.org/gems/bio-twobit-0.2.3.gem
-  homepage_uri: https://github.com/ruby-on-bioc/bio-twobit
-  wiki_uri:
-  documentation_uri: https://www.rubydoc.info/gems/bio-twobit/0.2.3
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development: []
-    runtime: []
 - name: bio-repeatmasker
   downloads: 7686
   version: 0.0.3
@@ -2419,7 +2419,7 @@
     - name: bio-samtools
       requirements: ">= 0.6.2"
 - name: bio-nwk
-  downloads: 7361
+  downloads: 7362
   version: 0.1.4
   version_created_at: '2022-04-06T07:23:50.620Z'
   version_downloads: 1334
@@ -2454,10 +2454,10 @@
       requirements: "~> 3.0"
     runtime: []
 - name: bio-gfastqc
-  downloads: 6685
+  downloads: 6686
   version: 0.0.4
   version_created_at: '2015-06-26T10:55:54.307Z'
-  version_downloads: 3807
+  version_downloads: 3808
   platform: ruby
   authors: Raoul Jean Pierre Bonnal
   info: Bioinformatics. Aggregate FastQC (quality control for Next Generation Sequencing
@@ -2498,7 +2498,7 @@
     - name: rubyzip
       requirements: ">= 0"
 - name: bio-freebayes
-  downloads: 6648
+  downloads: 6649
   version: 0.1.6
   version_created_at: '2015-05-22T19:00:14.317Z'
   version_downloads: 3842
@@ -2533,7 +2533,7 @@
     - name: parallel
       requirements: "~> 1.4"
 - name: bio-pangenome
-  downloads: 6326
+  downloads: 6327
   version: 0.1.3
   version_created_at: '2020-04-25T10:07:12.305Z'
   version_downloads: 2374
@@ -2610,6 +2610,45 @@
     - name: rspec
       requirements: ">= 3.0.0"
     runtime: []
+- name: bio-tm_hmm
+  downloads: 26317
+  version: 0.2.4
+  version_created_at: '2017-04-06T07:57:43.742Z'
+  version_downloads: 2946
+  platform: ruby
+  authors: Ben J. Woodcroft
+  info: A bioruby plugin for interaction with the transmembrane predictor TMHMM
+  licenses:
+  - MIT
+  metadata: {}
+  yanked: false
+  sha: 2b02a4377453acf6acbba02e7149424ede1979f804e1b3294168bc48c6dbc1f0
+  spec_sha: 55479df541de471045ae121d94d9e63f68116cc8311b69683e058ab6ebe0188b
+  project_uri: https://rubygems.org/gems/bio-tm_hmm
+  gem_uri: https://rubygems.org/gems/bio-tm_hmm-0.2.4.gem
+  homepage_uri: http://github.com/wwood/bioruby-tm_hmm
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/bio-tm_hmm/0.2.4
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bundler
+      requirements: ">= 1.0.21"
+    - name: jeweler
+      requirements: "~> 2.3"
+    - name: rdoc
+      requirements: "~> 3.12"
+    - name: shoulda
+      requirements: ">= 0"
+    - name: test-unit
+      requirements: "~> 3.2"
+    runtime:
+    - name: bio
+      requirements: ">= 1.4.2"
 - name: bio-executables
   downloads: 6084
   version: 1.0.0
@@ -2650,50 +2689,11 @@
       requirements: ">= 2.0.0"
     - name: bio-old-biofetch-emulator
       requirements: ">= 0.0.1"
-- name: bio-tm_hmm
-  downloads: 26316
-  version: 0.2.4
-  version_created_at: '2017-04-06T07:57:43.742Z'
-  version_downloads: 2946
-  platform: ruby
-  authors: Ben J. Woodcroft
-  info: A bioruby plugin for interaction with the transmembrane predictor TMHMM
-  licenses:
-  - MIT
-  metadata: {}
-  yanked: false
-  sha: 2b02a4377453acf6acbba02e7149424ede1979f804e1b3294168bc48c6dbc1f0
-  spec_sha: 55479df541de471045ae121d94d9e63f68116cc8311b69683e058ab6ebe0188b
-  project_uri: https://rubygems.org/gems/bio-tm_hmm
-  gem_uri: https://rubygems.org/gems/bio-tm_hmm-0.2.4.gem
-  homepage_uri: http://github.com/wwood/bioruby-tm_hmm
-  wiki_uri:
-  documentation_uri: https://www.rubydoc.info/gems/bio-tm_hmm/0.2.4
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: bundler
-      requirements: ">= 1.0.21"
-    - name: jeweler
-      requirements: "~> 2.3"
-    - name: rdoc
-      requirements: "~> 3.12"
-    - name: shoulda
-      requirements: ">= 0"
-    - name: test-unit
-      requirements: "~> 3.2"
-    runtime:
-    - name: bio
-      requirements: ">= 1.4.2"
 - name: bio-dbla-classifier
-  downloads: 26081
+  downloads: 26083
   version: 0.7.1
   version_created_at: '2013-02-22T09:40:39.257Z'
-  version_downloads: 4878
+  version_downloads: 4879
   platform: ruby
   authors: George Githinji
   info: Methods to classify and manipulate PfEMP1 DBL-alpha sequence tags
@@ -2769,10 +2769,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-hello
-  downloads: 5835
+  downloads: 5836
   version: 0.0.0
   version_created_at: '2010-12-31T04:24:19.169Z'
-  version_downloads: 5835
+  version_downloads: 5836
   platform: ruby
   authors: Toshiaki Katayama
   info: Encode any message string into a DNA sequence
@@ -2978,10 +2978,10 @@
       requirements: "~> 2.3.0"
     runtime: []
 - name: bio-phyloxml
-  downloads: 5471
+  downloads: 5472
   version: 0.9.0
   version_created_at: '2012-05-24T17:03:43.643Z'
-  version_downloads: 5471
+  version_downloads: 5472
   platform: ruby
   authors: Diana Jaunzeikare, Clayton Wheeler
   info: Provides PhyloXML support for BioRuby.
@@ -3227,6 +3227,32 @@
       requirements: "~> 1.5"
     - name: nokogiri
       requirements: ">= 1.6.6.2, ~> 1.6"
+- name: bioruby-bio
+  downloads: 19904
+  version: 1.3.1.5000
+  version_created_at: '2014-08-11T07:28:26.580Z'
+  version_downloads: 4244
+  platform: ruby
+  authors: BioRuby project
+  info: BioRuby is a library for bioinformatics (biology + information science).
+  licenses: []
+  metadata: {}
+  yanked: false
+  sha: 6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e
+  spec_sha: 440cc305a4716750f2b7556755873e3463c4f0061ed7cce1067cc283968819f0
+  project_uri: https://rubygems.org/gems/bioruby-bio
+  gem_uri: https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem
+  homepage_uri: http://bioruby.org/
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development: []
+    runtime: []
 - name: bio-stockholm
   downloads: 4941
   version: 0.0.1
@@ -3339,32 +3365,6 @@
       requirements: "~> 1.8.3"
     - name: shoulda
       requirements: "~> 2.11.3"
-    runtime: []
-- name: bioruby-bio
-  downloads: 19904
-  version: 1.3.1.5000
-  version_created_at: '2014-08-11T07:28:26.580Z'
-  version_downloads: 4244
-  platform: ruby
-  authors: BioRuby project
-  info: BioRuby is a library for bioinformatics (biology + information science).
-  licenses: []
-  metadata: {}
-  yanked: false
-  sha: 6f8bf3defd75fd58f6943073f42216a841d2fa05090174e5a7428e2491dc326e
-  spec_sha: 440cc305a4716750f2b7556755873e3463c4f0061ed7cce1067cc283968819f0
-  project_uri: https://rubygems.org/gems/bioruby-bio
-  gem_uri: https://rubygems.org/gems/bioruby-bio-1.3.1.5000.gem
-  homepage_uri: http://bioruby.org/
-  wiki_uri:
-  documentation_uri: https://www.rubydoc.info/gems/bioruby-bio/1.3.1.5000
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development: []
     runtime: []
 - name: bio-velvet_underground
   downloads: 19108
@@ -3497,10 +3497,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-genomic-interval
-  downloads: 16495
+  downloads: 16496
   version: 0.1.2
   version_created_at: '2011-04-20T06:56:14.307Z'
-  version_downloads: 7851
+  version_downloads: 7852
   platform: ruby
   authors: Hiroyuki Mishima
   info: 'a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and
@@ -3612,33 +3612,6 @@
     runtime:
     - name: systemu
       requirements: ">= 2.5.2"
-- name: bio-conduit
-  downloads: 3760
-  version: 1.0.0
-  version_created_at: '2015-09-04T21:01:27.480Z'
-  version_downloads: 3760
-  platform: ruby
-  authors: Natapol Pornputtapong
-  info: A pipeline creator for bioruby
-  licenses:
-  - GPL
-  metadata: {}
-  yanked: false
-  sha: 9e5abceceb9bb9c33efd64bca2be4c2a4211e8573092aa3ad37793d7878d4829
-  spec_sha: 7a9336d394d1cb701baeafb9eb681d5a5a85463cbbb0b33feea4a3a304021f81
-  project_uri: https://rubygems.org/gems/bio-conduit
-  gem_uri: https://rubygems.org/gems/bio-conduit-1.0.0.gem
-  homepage_uri: http://rubygems.org/gems/bio-conduit
-  wiki_uri:
-  documentation_uri: https://www.rubydoc.info/gems/bio-conduit/1.0.0
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development: []
-    runtime: []
 - name: bio-statsample-timeseries
   downloads: 15070
   version: 0.2.1
@@ -3691,6 +3664,33 @@
       requirements: "= 3.2.10"
     - name: statsample
       requirements: "= 1.2.0"
+- name: bio-conduit
+  downloads: 3760
+  version: 1.0.0
+  version_created_at: '2015-09-04T21:01:27.480Z'
+  version_downloads: 3760
+  platform: ruby
+  authors: Natapol Pornputtapong
+  info: A pipeline creator for bioruby
+  licenses:
+  - GPL
+  metadata: {}
+  yanked: false
+  sha: 9e5abceceb9bb9c33efd64bca2be4c2a4211e8573092aa3ad37793d7878d4829
+  spec_sha: 7a9336d394d1cb701baeafb9eb681d5a5a85463cbbb0b33feea4a3a304021f81
+  project_uri: https://rubygems.org/gems/bio-conduit
+  gem_uri: https://rubygems.org/gems/bio-conduit-1.0.0.gem
+  homepage_uri: http://rubygems.org/gems/bio-conduit
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/bio-conduit/1.0.0
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development: []
+    runtime: []
 - name: bio-jaspar
   downloads: 3748
   version: 0.1.0
@@ -3736,7 +3736,7 @@
     - name: mysql2
       requirements: "~> 0.3.19"
 - name: bio-cgranges
-  downloads: 3630
+  downloads: 3632
   version: 0.0.4
   version_created_at: '2024-09-19T06:13:06.640Z'
   version_downloads: 341
@@ -3762,49 +3762,6 @@
   dependencies:
     development: []
     runtime: []
-- name: bio-plates
-  downloads: 3550
-  version: 0.2.0
-  version_created_at: '2016-01-29T11:59:43.877Z'
-  version_downloads: 3550
-  platform: ruby
-  authors: Steve Pettitt
-  info: Methods for handling multiwell plate annotations, includes ranges and quadrants
-  licenses:
-  - MIT
-  metadata: {}
-  yanked: false
-  sha: 9b57b1fabcbea3877305393dce7ba91215460e8b96fe42f2448d28eae4d4106f
-  spec_sha: 9153c28bdfca009ba77f536256f569d1d471f827b618bf2ddc61287ea9cf8440
-  project_uri: https://rubygems.org/gems/bio-plates
-  gem_uri: https://rubygems.org/gems/bio-plates-0.2.0.gem
-  homepage_uri: http://github.com/stveep/bioruby-plates
-  wiki_uri:
-  documentation_uri: https://www.rubydoc.info/gems/bio-plates/0.2.0
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: bundler
-      requirements: ">= 0"
-    - name: fakefs
-      requirements: "~> 0.6"
-    - name: jeweler
-      requirements: "~> 2.0"
-    - name: rdoc
-      requirements: "~> 3.12"
-    - name: rspec
-      requirements: "~> 3.3"
-    - name: simplecov
-      requirements: "~> 0.10"
-    runtime:
-    - name: bio
-      requirements: "~> 1.4"
-    - name: thor
-      requirements: ">= 0"
 - name: bio-pileup_iterator
   downloads: 14078
   version: 0.0.4
@@ -3851,6 +3808,75 @@
       requirements: ">= 1.0.0"
     - name: bio-samtools
       requirements: ">= 0.5.3"
+- name: bio-plates
+  downloads: 3550
+  version: 0.2.0
+  version_created_at: '2016-01-29T11:59:43.877Z'
+  version_downloads: 3550
+  platform: ruby
+  authors: Steve Pettitt
+  info: Methods for handling multiwell plate annotations, includes ranges and quadrants
+  licenses:
+  - MIT
+  metadata: {}
+  yanked: false
+  sha: 9b57b1fabcbea3877305393dce7ba91215460e8b96fe42f2448d28eae4d4106f
+  spec_sha: 9153c28bdfca009ba77f536256f569d1d471f827b618bf2ddc61287ea9cf8440
+  project_uri: https://rubygems.org/gems/bio-plates
+  gem_uri: https://rubygems.org/gems/bio-plates-0.2.0.gem
+  homepage_uri: http://github.com/stveep/bioruby-plates
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/bio-plates/0.2.0
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bundler
+      requirements: ">= 0"
+    - name: fakefs
+      requirements: "~> 0.6"
+    - name: jeweler
+      requirements: "~> 2.0"
+    - name: rdoc
+      requirements: "~> 3.12"
+    - name: rspec
+      requirements: "~> 3.3"
+    - name: simplecov
+      requirements: "~> 0.10"
+    runtime:
+    - name: bio
+      requirements: "~> 1.4"
+    - name: thor
+      requirements: ">= 0"
+- name: ngoto-bio
+  downloads: 13429
+  version: 1.3.1.5000
+  version_created_at: '2014-08-10T23:36:57.916Z'
+  version_downloads: 3517
+  platform: ruby
+  authors: BioRuby project
+  info: BioRuby is a library for bioinformatics (biology + information science).
+  licenses: []
+  metadata: {}
+  yanked: false
+  sha: a13d7d3b16b794f65f9c397d34a4e7ac13b9de613d9eccc0781639ec179470b1
+  spec_sha: 36ce770df90985daccb9680271eb35ffa0c31047d22f81c409a9d6829dea63b6
+  project_uri: https://rubygems.org/gems/ngoto-bio
+  gem_uri: https://rubygems.org/gems/ngoto-bio-1.3.1.5000.gem
+  homepage_uri: http://bioruby.org/
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/ngoto-bio/1.3.1.5000
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development: []
+    runtime: []
 - name: bio-gff3-pltools
   downloads: 13217
   version: 0.3.0
@@ -3894,32 +3920,6 @@
     - name: yard
       requirements: "~> 0.7"
     runtime: []
-- name: ngoto-bio
-  downloads: 13429
-  version: 1.3.1.5000
-  version_created_at: '2014-08-10T23:36:57.916Z'
-  version_downloads: 3517
-  platform: ruby
-  authors: BioRuby project
-  info: BioRuby is a library for bioinformatics (biology + information science).
-  licenses: []
-  metadata: {}
-  yanked: false
-  sha: a13d7d3b16b794f65f9c397d34a4e7ac13b9de613d9eccc0781639ec179470b1
-  spec_sha: 36ce770df90985daccb9680271eb35ffa0c31047d22f81c409a9d6829dea63b6
-  project_uri: https://rubygems.org/gems/ngoto-bio
-  gem_uri: https://rubygems.org/gems/ngoto-bio-1.3.1.5000.gem
-  homepage_uri: http://bioruby.org/
-  wiki_uri:
-  documentation_uri: https://www.rubydoc.info/gems/ngoto-bio/1.3.1.5000
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development: []
-    runtime: []
 - name: bio-ucsc-util
   downloads: 12938
   version: 0.1.2
@@ -3957,10 +3957,10 @@
     - name: ffi
       requirements: ">= 0"
 - name: bio-biosql
-  downloads: 3180
+  downloads: 3181
   version: 0.0.0
   version_created_at: '2016-06-17T03:39:50.984Z'
-  version_downloads: 3180
+  version_downloads: 3181
   platform: ruby
   authors: BioRuby project
   info: Provides BioSQL support for BioRuby.
@@ -4076,11 +4076,45 @@
     - name: shoulda
       requirements: ">= 0"
     runtime: []
+- name: muscle_bio
+  downloads: 10198
+  version: 0.5.0
+  version_created_at: '2022-02-04T20:00:54.375Z'
+  version_downloads: 1834
+  platform: ruby
+  authors: Michael Clark
+  info: Multiple Sequence Alignment for Ruby scripts.  Muscle found at https://www.ebi.ac.uk/Tools/msa/muscle/.  For
+    instructions on how to use, see https://github.com/clarkmu/muscle_bio
+  licenses:
+  - MIT
+  metadata: {}
+  yanked: false
+  sha: 99b6cdeb4e6a11b83f6c74f0dde6f451eafc5a8d40b3292206b7b718656e5162
+  spec_sha: f32f7c1dc81277518572843d22748c162ac1f368e632b27b304894097a640f1b
+  project_uri: https://rubygems.org/gems/muscle_bio
+  gem_uri: https://rubygems.org/gems/muscle_bio-0.5.0.gem
+  homepage_uri: http://swanstrom.web.unc.edu/
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/muscle_bio/0.5.0
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bundler
+      requirements: "~> 2.0"
+    - name: rake
+      requirements: "~> 13.0"
+    - name: rspec
+      requirements: "~> 3.0"
+    runtime: []
 - name: bio-bigwig
-  downloads: 2779
+  downloads: 2782
   version: 0.0.6
   version_created_at: '2024-09-30T10:38:42.570Z'
-  version_downloads: 322
+  version_downloads: 323
   platform: ruby
   authors: kojix2
   info: This is a Ruby binding for libBigWig (https://github.com/dpryan79/libBigWig),
@@ -4103,41 +4137,6 @@
   funding_uri:
   dependencies:
     development: []
-    runtime: []
-- name: bio-qtlHD
-  downloads: 2772
-  version: 0.0.1.alpha.1
-  version_created_at: '2011-11-16T12:48:33.862Z'
-  version_downloads: 2772
-  platform: ruby
-  authors: Pjotr Prins, Danny Arends, Karl Broman
-  info: Ruby tools and scripts for QTL mapping, part of the qtlHD project
-  licenses:
-  metadata:
-    homepage_uri: http://github.com/pjotrp/bioruby-qtlHD
-  yanked: false
-  sha: 13c26344c063e8def83b41a6cfc3bd13cc2afad110cb0fc387eed303adda1a13
-  spec_sha: 40373e310f45945f9766af3e934866a47f616682977c16f8f0bd129a496bb864
-  project_uri: https://rubygems.org/gems/bio-qtlHD
-  gem_uri: https://rubygems.org/gems/bio-qtlHD-0.0.1.alpha.1.gem
-  homepage_uri: http://github.com/pjotrp/bioruby-qtlHD
-  wiki_uri:
-  documentation_uri:
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: bio
-      requirements: ">= 1.4.2"
-    - name: bundler
-      requirements: "~> 1.0.0"
-    - name: jeweler
-      requirements: "~> 1.6.4"
-    - name: rcov
-      requirements: ">= 0"
     runtime: []
 - name: bio-kb-illumina
   downloads: 10452
@@ -4180,26 +4179,25 @@
     - name: shoulda
       requirements: ">= 0"
     runtime: []
-- name: muscle_bio
-  downloads: 10195
-  version: 0.5.0
-  version_created_at: '2022-02-04T20:00:54.375Z'
-  version_downloads: 1832
+- name: bio-qtlHD
+  downloads: 2774
+  version: 0.0.1.alpha.1
+  version_created_at: '2011-11-16T12:48:33.862Z'
+  version_downloads: 2774
   platform: ruby
-  authors: Michael Clark
-  info: Multiple Sequence Alignment for Ruby scripts.  Muscle found at https://www.ebi.ac.uk/Tools/msa/muscle/.  For
-    instructions on how to use, see https://github.com/clarkmu/muscle_bio
+  authors: Pjotr Prins, Danny Arends, Karl Broman
+  info: Ruby tools and scripts for QTL mapping, part of the qtlHD project
   licenses:
-  - MIT
-  metadata: {}
+  metadata:
+    homepage_uri: http://github.com/pjotrp/bioruby-qtlHD
   yanked: false
-  sha: 99b6cdeb4e6a11b83f6c74f0dde6f451eafc5a8d40b3292206b7b718656e5162
-  spec_sha: f32f7c1dc81277518572843d22748c162ac1f368e632b27b304894097a640f1b
-  project_uri: https://rubygems.org/gems/muscle_bio
-  gem_uri: https://rubygems.org/gems/muscle_bio-0.5.0.gem
-  homepage_uri: http://swanstrom.web.unc.edu/
+  sha: 13c26344c063e8def83b41a6cfc3bd13cc2afad110cb0fc387eed303adda1a13
+  spec_sha: 40373e310f45945f9766af3e934866a47f616682977c16f8f0bd129a496bb864
+  project_uri: https://rubygems.org/gems/bio-qtlHD
+  gem_uri: https://rubygems.org/gems/bio-qtlHD-0.0.1.alpha.1.gem
+  homepage_uri: http://github.com/pjotrp/bioruby-qtlHD
   wiki_uri:
-  documentation_uri: https://www.rubydoc.info/gems/muscle_bio/0.5.0
+  documentation_uri:
   mailing_list_uri:
   source_code_uri:
   bug_tracker_uri:
@@ -4207,12 +4205,14 @@
   funding_uri:
   dependencies:
     development:
+    - name: bio
+      requirements: ">= 1.4.2"
     - name: bundler
-      requirements: "~> 2.0"
-    - name: rake
-      requirements: "~> 13.0"
-    - name: rspec
-      requirements: "~> 3.0"
+      requirements: "~> 1.0.0"
+    - name: jeweler
+      requirements: "~> 1.6.4"
+    - name: rcov
+      requirements: ">= 0"
     runtime: []
 - name: bio-primer3
   downloads: 2621
@@ -4258,10 +4258,10 @@
     - name: bio-logger
       requirements: "~> 1.0"
 - name: bio-cnls_screenscraper
-  downloads: 9679
+  downloads: 9680
   version: 0.3.0
   version_created_at: '2012-05-06T03:59:07.038Z'
-  version_downloads: 5312
+  version_downloads: 5313
   platform: ruby
   authors: Ben J. Woodcroft
   info: Programmatic interface to the cNLS nuclear localisation signal prediction
@@ -4296,7 +4296,7 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-hmmer_model
-  downloads: 9243
+  downloads: 9244
   version: 0.0.2
   version_created_at: '2012-05-25T00:11:35.380Z'
   version_downloads: 5191
@@ -4376,7 +4376,7 @@
     - name: bio-logger
       requirements: "~> 1.0"
 - name: bio-polymarker_db_batch
-  downloads: 27954
+  downloads: 27956
   version: 0.5.1
   version_created_at: '2015-03-05T21:21:12.632Z'
   version_downloads: 3849
@@ -4458,7 +4458,7 @@
     - name: libxml-ruby
       requirements: ">= 2"
 - name: bio-statsample-glm
-  downloads: 8045
+  downloads: 8046
   version: 0.1.1
   version_created_at: '2013-09-23T12:15:20.766Z'
   version_downloads: 4636
@@ -4670,51 +4670,11 @@
     - name: shoulda
       requirements: ">= 0"
     runtime: []
-- name: bio-cd-hit-report
-  downloads: 16908
-  version: 0.1.0
-  version_created_at: '2013-04-26T19:38:24.419Z'
-  version_downloads: 5205
-  platform: ruby
-  authors: George Githinji
-  info: A Ruby library for reading CD-HIT cluster reports
-  licenses:
-  - MIT
-  metadata:
-    homepage_uri: http://github.com/georgeG/bioruby-cd-hit-report
-  yanked: false
-  sha: 2e518468a6de52991ec81288b9cefd6ed83a6e76104669c185d633bd2a074282
-  spec_sha: ae2e4e4b1c86a5696bf7f881183aaba08e8bf811fc95a979c6df5c1af48e3576
-  project_uri: https://rubygems.org/gems/bio-cd-hit-report
-  gem_uri: https://rubygems.org/gems/bio-cd-hit-report-0.1.0.gem
-  homepage_uri: http://github.com/georgeG/bioruby-cd-hit-report
-  wiki_uri:
-  documentation_uri:
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: bundler
-      requirements: ">= 1.3.1"
-    - name: jeweler
-      requirements: ">= 0"
-    - name: minitest
-      requirements: ">= 0"
-    - name: rdoc
-      requirements: ">= 0"
-    - name: rdoc
-      requirements: ">= 0"
-    runtime:
-    - name: bio
-      requirements: "= 1.4.3"
 - name: intermine-bio
-  downloads: 5213
+  downloads: 5214
   version: 0.98.1
   version_created_at: '2011-08-02T13:19:44.373Z'
-  version_downloads: 5213
+  version_downloads: 5214
   platform: ruby
   authors: Alex Kalderimis
   info: "= Biological Extensions to the InterMine Webservice Client Library \n\nThis
@@ -4758,6 +4718,46 @@
     runtime:
     - name: intermine
       requirements: ">= 0"
+- name: bio-cd-hit-report
+  downloads: 16908
+  version: 0.1.0
+  version_created_at: '2013-04-26T19:38:24.419Z'
+  version_downloads: 5205
+  platform: ruby
+  authors: George Githinji
+  info: A Ruby library for reading CD-HIT cluster reports
+  licenses:
+  - MIT
+  metadata:
+    homepage_uri: http://github.com/georgeG/bioruby-cd-hit-report
+  yanked: false
+  sha: 2e518468a6de52991ec81288b9cefd6ed83a6e76104669c185d633bd2a074282
+  spec_sha: ae2e4e4b1c86a5696bf7f881183aaba08e8bf811fc95a979c6df5c1af48e3576
+  project_uri: https://rubygems.org/gems/bio-cd-hit-report
+  gem_uri: https://rubygems.org/gems/bio-cd-hit-report-0.1.0.gem
+  homepage_uri: http://github.com/georgeG/bioruby-cd-hit-report
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bundler
+      requirements: ">= 1.3.1"
+    - name: jeweler
+      requirements: ">= 0"
+    - name: minitest
+      requirements: ">= 0"
+    - name: rdoc
+      requirements: ">= 0"
+    - name: rdoc
+      requirements: ">= 0"
+    runtime:
+    - name: bio
+      requirements: "= 1.4.3"
 - name: bio-img_metadata
   downloads: 5049
   version: 0.0.1
@@ -4879,10 +4879,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-sparql-client
-  downloads: 4013
+  downloads: 4014
   version: 0.0.1
   version_created_at: '2016-02-19T23:12:34.800Z'
-  version_downloads: 4013
+  version_downloads: 4014
   platform: ruby
   authors: Natapol Pornputtapong
   info: A ruby wrapper for bio SPARQL service
@@ -4988,10 +4988,10 @@
     - name: trollop
       requirements: ">= 0"
 - name: bio-wolf_psort_wrapper
-  downloads: 9728
+  downloads: 9729
   version: 0.0.3
   version_created_at: '2012-01-20T11:17:05.885Z'
-  version_downloads: 5472
+  version_downloads: 5473
   platform: ruby
   authors: Ben J Woodcroft
   info: Enables the localisation predictor WoLF PSORT to be run locally. The algorithm
@@ -5247,10 +5247,10 @@
       requirements: "~> 3.0"
     runtime: []
 - name: bio-polymarker
-  downloads: 585
+  downloads: 588
   version: 1.3.3
   version_created_at: '2024-09-26T15:50:49.438Z'
-  version_downloads: 346
+  version_downloads: 347
   platform: ruby
   authors: Rob Ellis
   info: Repository of tools developed at Crop Genetics in JIC to work with polyploid
@@ -5448,10 +5448,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bioruby-phyloxml
-  downloads: 4198
+  downloads: 4199
   version: 1.0.0
   version_created_at: '2016-06-15T15:02:23.934Z'
-  version_downloads: 4198
+  version_downloads: 4199
   platform: ruby
   authors: Diana Jaunzeikare, Clayton Wheeler, BioRuby project
   info: Provides PhyloXML support for BioRuby. This bioruby-phyloxml gem replaces
@@ -5486,10 +5486,10 @@
     - name: libxml-ruby
       requirements: "~> 2.8"
 - name: eutils
-  downloads: 20172
+  downloads: 20174
   version: 0.2.1
   version_created_at: '2013-06-27T20:08:20.771Z'
-  version_downloads: 4401
+  version_downloads: 4403
   platform: ruby
   authors: Joon Lee, aka seouri
   info: Lightweight Ruby API for NCBI Eutils. This gem only provides API for NCBI
@@ -5518,7 +5518,7 @@
     - name: activesupport
       requirements: ">= 3.0.0"
 - name: htslib
-  downloads: 20142
+  downloads: 20144
   version: 0.2.9
   version_created_at: '2024-09-13T04:41:49.861Z'
   version_downloads: 373
