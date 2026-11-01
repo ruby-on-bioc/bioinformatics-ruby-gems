@@ -20,10 +20,10 @@ BioRuby is a library for bioinformatics (biology + information science).
 |key|value|
 |---|-----|
 |name|bio|
-|downloads|888873|
+|downloads|888995|
 |version|2.0.6|
 |version_created_at|2025-03-08T01:15:45.822Z|
-|version_downloads|34093|
+|version_downloads|34124|
 |platform|ruby|
 |licenses|["Ruby"]|
 |metadata|{}|
@@ -62,10 +62,10 @@ Binder of samtools for ruby, on the top of FFI.
 |key|value|
 |---|-----|
 |name|bio-samtools|
-|downloads|137457|
+|downloads|137474|
 |version|2.6.2|
 |version_created_at|2018-01-11T00:55:22.555Z|
-|version_downloads|6014|
+|version_downloads|6015|
 |platform|ruby|
 |licenses|["GPL-3.0"]|
 |metadata|{}|
@@ -98,7 +98,7 @@ Biogem is a software generator for those bioinformaticans who want to start codi
 |key|value|
 |---|-----|
 |name|bio-gem|
-|downloads|104587|
+|downloads|104588|
 |version|1.3.6|
 |version_created_at|2014-05-20T04:31:57.244Z|
 |version_downloads|5142|
@@ -133,7 +133,7 @@ Gadgets for bioinformatics
 |key|value|
 |---|-----|
 |name|bio-gadget|
-|downloads|90620|
+|downloads|90625|
 |version|0.5.0|
 |version_created_at|2017-02-01T14:25:16.869Z|
 |version_downloads|3751|
@@ -168,7 +168,7 @@ This library provides support for BGZF (Blocked GZip Format) in Ruby. BGZF, orig
 |key|value|
 |---|-----|
 |name|bio-bgzf|
-|downloads|77741|
+|downloads|77742|
 |version|0.2.1|
 |version_created_at|2012-08-06T19:05:37.870Z|
 |version_downloads|64686|
@@ -236,10 +236,10 @@ This bio-gem facilitates the creation of pretty, publication quality SVG images 
 |key|value|
 |---|-----|
 |name|bio-svgenes|
-|downloads|67807|
+|downloads|67809|
 |version|0.4.1|
 |version_created_at|2014-01-06T09:45:10.714Z|
-|version_downloads|15243|
+|version_downloads|15245|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -306,10 +306,10 @@ Fast big data BLAST XML parser and library; this libxml2 based version is 50x fa
 |key|value|
 |---|-----|
 |name|bio-blastxmlparser|
-|downloads|59474|
+|downloads|59480|
 |version|2.0.4|
 |version_created_at|2015-09-16T06:44:58.703Z|
-|version_downloads|9332|
+|version_downloads|9333|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -341,10 +341,10 @@ Multiple Alignment Format parser for BioRuby.
 |key|value|
 |---|-----|
 |name|bio-maf|
-|downloads|57175|
+|downloads|57177|
 |version|1.0.1|
 |version_created_at|2012-08-21T17:38:13.637Z|
-|version_downloads|6442|
+|version_downloads|6443|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/csw/bioruby-maf"}|
 |yanked|false|
@@ -374,7 +374,7 @@ A BioGem to submit jobs on a queue system
 |key|value|
 |---|-----|
 |name|bio-grid|
-|downloads|50954|
+|downloads|50956|
 |version|0.3.3|
 |version_created_at|2012-10-25T13:35:19.450Z|
 |version_downloads|5514|
@@ -410,10 +410,10 @@ Support for external FASTA files.
 |key|value|
 |---|-----|
 |name|bio-gff3|
-|downloads|49558|
+|downloads|49560|
 |version|0.9.1|
 |version_created_at|2012-08-20T09:29:57.889Z|
-|version_downloads|6507|
+|version_downloads|6508|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"https://github.com/pjotrp/bioruby-gff3-plugin"}|
 |yanked|false|
@@ -443,10 +443,10 @@ Smart lazy multi-threaded parser for VCF format with useful filtering and output
 |key|value|
 |---|-----|
 |name|bio-vcf|
-|downloads|49262|
+|downloads|49264|
 |version|0.9.5|
 |version_created_at|2021-01-18T08:20:08.520Z|
-|version_downloads|8356|
+|version_downloads|8357|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -478,10 +478,10 @@ Data mining and machine learning algorithms for JRuby
 |key|value|
 |---|-----|
 |name|bio-band|
-|downloads|43286|
+|downloads|43287|
 |version|0.1.11|
 |version_created_at|2013-09-16T10:06:12.118Z|
-|version_downloads|5574|
+|version_downloads|5575|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -548,10 +548,10 @@ Log4r wrapper for BioRuby
 |key|value|
 |---|-----|
 |name|bio-logger|
-|downloads|40961|
+|downloads|40964|
 |version|1.0.1|
 |version_created_at|2012-04-02T11:04:58.719Z|
-|version_downloads|20213|
+|version_downloads|20215|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"https://github.com/pjotrp/bioruby-logger-plugin"}|
 |yanked|false|
@@ -616,10 +616,10 @@ A toolkit for publishing scientific results and datasets using RDF, OWL, and rel
 |key|value|
 |---|-----|
 |name|bio-publisci|
-|downloads|36064|
+|downloads|36065|
 |version|0.1.0|
 |version_created_at|2013-09-20T03:34:59.554Z|
-|version_downloads|5475|
+|version_downloads|5476|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -651,7 +651,7 @@ bio-ngs provides a framework for handling NGS data with BioRuby
 |key|value|
 |---|-----|
 |name|bio-ngs|
-|downloads|34018|
+|downloads|34019|
 |version|0.5.2|
 |version_created_at|2012-06-06T13:27:18.216Z|
 |version_downloads|6517|
@@ -684,7 +684,7 @@ A fast parser for FastQ files
 |key|value|
 |---|-----|
 |name|bio-faster|
-|downloads|33064|
+|downloads|33065|
 |version|0.4.5|
 |version_created_at|2012-06-13T10:53:06.185Z|
 |version_downloads|6528|
@@ -752,10 +752,10 @@ Parser to work with some file formats used in the velvet DNA assembler
 |key|value|
 |---|-----|
 |name|bio-velvet|
-|downloads|29410|
+|downloads|29415|
 |version|0.6.0|
 |version_created_at|2015-01-09T05:47:28.928Z|
-|version_downloads|5189|
+|version_downloads|5190|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -822,10 +822,10 @@ A dead simple method of running shell commands from within Ruby, by applying opi
 |key|value|
 |---|-----|
 |name|bio-commandeer|
-|downloads|28186|
+|downloads|28191|
 |version|0.4.0|
 |version_created_at|2017-08-10T11:59:16.511Z|
-|version_downloads|5878|
+|version_downloads|5881|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -892,7 +892,7 @@ Pipeline to remove contaminations from EST libraries
 |key|value|
 |---|-----|
 |name|bio-phyta|
-|downloads|25378|
+|downloads|25379|
 |version|0.9.4|
 |version_created_at|2011-12-07T10:23:30.050Z|
 |version_downloads|6267|
@@ -925,10 +925,10 @@ Repository of tools developed at Crop Genetics in JIC to work with polyploid whe
 |key|value|
 |---|-----|
 |name|bio-polyploid-tools|
-|downloads|134101|
+|downloads|134112|
 |version|1.2.1|
 |version_created_at|2021-05-10T08:28:42.442Z|
-|version_downloads|3669|
+|version_downloads|3670|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -994,10 +994,10 @@ bioruby plugin to parse, write, and manipulate assembly data
 |key|value|
 |---|-----|
 |name|bio-assembly|
-|downloads|21060|
+|downloads|21061|
 |version|0.1.0|
 |version_created_at|2011-01-12T18:14:20.839Z|
-|version_downloads|6580|
+|version_downloads|6581|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/chmille4/bioruby-assembly"}|
 |yanked|false|
@@ -1027,7 +1027,7 @@ This plugin reads, writes and generates NeXML
 |key|value|
 |---|-----|
 |name|bio-nexml|
-|downloads|20680|
+|downloads|20681|
 |version|1.1.0|
 |version_created_at|2012-05-09T06:15:27.128Z|
 |version_downloads|5924|
@@ -1095,7 +1095,7 @@ Library for visualizing genomic regions
 |key|value|
 |---|-----|
 |name|bio-graphics|
-|downloads|17175|
+|downloads|17176|
 |version|1.4|
 |version_created_at|2009-07-25T18:31:34.000Z|
 |version_downloads|7175|
@@ -1167,7 +1167,7 @@ Ruby UCSC API: accessing the UCSC Genome Database using Ruby
 |key|value|
 |---|-----|
 |name|bio-ucsc-api|
-|downloads|82528|
+|downloads|82533|
 |version|0.6.5|
 |version_created_at|2018-05-11T08:24:36.148Z|
 |version_downloads|3617|
@@ -1274,10 +1274,10 @@ Ruby binding for BWA mapping software, built using Ruby-FFI library
 |key|value|
 |---|-----|
 |name|bio-bwa|
-|downloads|15806|
+|downloads|15807|
 |version|0.2.2|
 |version_created_at|2011-04-15T13:22:40.740Z|
-|version_downloads|6542|
+|version_downloads|6543|
 |platform|ruby|
 |metadata|{"wiki_uri"=>"https://github.com/fstrozzi/bioruby-bwa/wiki", "homepage_uri"=>"http://github.com/fstrozzi/bioruby-bwa", "bug_tracker_uri"=>"https://github.com/fstrozzi/bioruby-bwa/issues", "source_code_uri"=>"https://github.com/fstrozzi/bioruby-bwa", "mailing_list_uri"=>"", "documentation_uri"=>"http://fstrozzi.github.com/bioruby-bwa/"}|
 |yanked|false|
@@ -1311,10 +1311,10 @@ This is very scrappy at the moment, and will need to be seriously cleaned up. It
 |key|value|
 |---|-----|
 |name|bio-lazyblastxml|
-|downloads|15146|
+|downloads|15149|
 |version|0.4.0|
 |version_created_at|2011-06-01T02:18:05.499Z|
-|version_downloads|6111|
+|version_downloads|6112|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/robsyme/bioruby-lazyblastxml"}|
 |yanked|false|
@@ -1484,7 +1484,7 @@ Affymetrix microarray file format parser
 |key|value|
 |---|-----|
 |name|bio-affy|
-|downloads|13997|
+|downloads|13998|
 |version|0.5.1|
 |version_created_at|2011-12-09T15:48:17.263Z|
 |version_downloads|6230|
@@ -1517,10 +1517,10 @@ A tool for fast querying and filtering of genome locations in VCF and other form
 |key|value|
 |---|-----|
 |name|bio-locus|
-|downloads|13801|
+|downloads|13802|
 |version|0.0.7|
 |version_created_at|2015-09-14T10:06:07.839Z|
-|version_downloads|6784|
+|version_downloads|6785|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -1552,10 +1552,10 @@ BioRuby plugin for UniChem REST Web service
 |key|value|
 |---|-----|
 |name|bio-unichem|
-|downloads|13620|
+|downloads|13621|
 |version|0.3.0|
 |version_created_at|2013-02-09T14:54:24.582Z|
-|version_downloads|5644|
+|version_downloads|5645|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{"homepage_uri"=>"http://github.com/nakao/bioruby-unichem"}|
@@ -1586,7 +1586,7 @@ A Sequence Read Archive (SRA) download script and Ruby interface to the SRAdb (S
 |key|value|
 |---|-----|
 |name|bio-sra|
-|downloads|13191|
+|downloads|13193|
 |version|0.3.1|
 |version_created_at|2015-12-21T06:44:38.882Z|
 |version_downloads|4047|
@@ -1691,10 +1691,10 @@ Bio::Protparam has same interface and function as Bio::Tools::Protparam class of
 |key|value|
 |---|-----|
 |name|bio-protparam|
-|downloads|11308|
+|downloads|11309|
 |version|0.2.0|
 |version_created_at|2012-12-27T04:23:46.323Z|
-|version_downloads|6865|
+|version_downloads|6866|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{"wiki_uri"=>"", "homepage_uri"=>"http://github.com/hryk/bioruby-protparam", "bug_tracker_uri"=>"https://github.com/hryk/bioruby-protparam/issues", "source_code_uri"=>"https://github.com/hryk/bioruby-protparam", "mailing_list_uri"=>"", "documentation_uri"=>"http://rdoc.info/github/hryk/bioruby-protparam/"}|
@@ -1728,10 +1728,10 @@ Bioruby core plugins
 |key|value|
 |---|-----|
 |name|bio-core|
-|downloads|10820|
+|downloads|10821|
 |version|0.0.1|
 |version_created_at|2011-08-30T12:30:46.493Z|
-|version_downloads|6239|
+|version_downloads|6240|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/helios/bioruby-core"}|
 |yanked|false|
@@ -1761,10 +1761,10 @@ Help for working with the output of the .delta files produced by nucmer and prom
 |key|value|
 |---|-----|
 |name|bio-mummer|
-|downloads|10326|
+|downloads|10328|
 |version|0.2.1|
 |version_created_at|2015-03-31T03:32:46.915Z|
-|version_downloads|4335|
+|version_downloads|4337|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -1901,10 +1901,10 @@ A Ruby client for GGGenome the Ultrafast sequence search
 |key|value|
 |---|-----|
 |name|bio-gggenome|
-|downloads|8914|
+|downloads|8915|
 |version|0.2.0|
 |version_created_at|2013-08-13T14:10:32.689Z|
-|version_downloads|5145|
+|version_downloads|5146|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -1936,10 +1936,10 @@ a programmatic interface to the iPCRess in-silico PCR software. iPCRess is part 
 |key|value|
 |---|-----|
 |name|bio-ipcress|
-|downloads|8825|
+|downloads|8826|
 |version|0.1.0|
 |version_created_at|2017-01-09T05:09:25.224Z|
-|version_downloads|3876|
+|version_downloads|3877|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -2041,10 +2041,10 @@ A simple gem to parse, filter/search raw Repeat Masker output file from GoldenPa
 |key|value|
 |---|-----|
 |name|bio-repeatmasker|
-|downloads|8194|
+|downloads|8195|
 |version|0.0.3|
 |version_created_at|2014-01-23T01:00:56.459Z|
-|version_downloads|4732|
+|version_downloads|4733|
 |platform|ruby|
 |licenses|[]|
 |metadata|{}|
@@ -2080,10 +2080,10 @@ The API for Freebayes version #{Bio::Freebayes::EXTVERSION}
 |key|value|
 |---|-----|
 |name|bio-freebayes|
-|downloads|7613|
+|downloads|7614|
 |version|0.1.6|
 |version_created_at|2015-05-22T19:00:14.317Z|
-|version_downloads|4517|
+|version_downloads|4518|
 |platform|ruby|
 |licenses|[]|
 |metadata|{"allowed_push_host"=>"TODO: Set to 'http://mygemserver.com'"}|
@@ -2115,10 +2115,10 @@ Tools to find similarity between pangenomes.
 |key|value|
 |---|-----|
 |name|bio-pangenome|
-|downloads|7610|
+|downloads|7611|
 |version|0.1.3|
 |version_created_at|2020-04-25T10:07:12.305Z|
-|version_downloads|3033|
+|version_downloads|3034|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -2150,10 +2150,10 @@ Bioinformatics. Aggregate FastQC (quality control for Next Generation Sequencing
 |key|value|
 |---|-----|
 |name|bio-gfastqc|
-|downloads|7416|
+|downloads|7417|
 |version|0.0.4|
 |version_created_at|2015-06-26T10:55:54.307Z|
-|version_downloads|4297|
+|version_downloads|4298|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -2185,10 +2185,10 @@ BioRuby executables is a collection of miscellaneous utilities for bioinformatic
 |key|value|
 |---|-----|
 |name|bio-executables|
-|downloads|7152|
+|downloads|7153|
 |version|1.0.0|
 |version_created_at|2019-06-14T05:36:59.331Z|
-|version_downloads|4598|
+|version_downloads|4599|
 |platform|ruby|
 |licenses|[]|
 |metadata|{}|
@@ -2220,10 +2220,10 @@ A fast FASTA/FASTQ parser based on kseq.h by Heng Li
 |key|value|
 |---|-----|
 |name|bio-kseq|
-|downloads|6941|
+|downloads|6942|
 |version|0.0.2|
 |version_created_at|2014-07-16T08:21:38.034Z|
-|version_downloads|6934|
+|version_downloads|6935|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -2259,10 +2259,10 @@ This is a Ruby binding for libBigWig (https://github.com/dpryan79/libBigWig), wh
 |key|value|
 |---|-----|
 |name|bio-bigwig|
-|downloads|6834|
+|downloads|6840|
 |version|0.1.3|
 |version_created_at|2026-10-19T09:08:27.511Z|
-|version_downloads|184|
+|version_downloads|188|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -2329,10 +2329,10 @@ Entries in a flatfile will be parased by the BioRuby's Bio::FlatFile.auto module
 |key|value|
 |---|-----|
 |name|bio-sge|
-|downloads|6464|
+|downloads|6465|
 |version|0.0.0|
 |version_created_at|2010-12-23T23:50:10.549Z|
-|version_downloads|6464|
+|version_downloads|6465|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/ktym/bioruby-sge"}|
 |yanked|false|
@@ -2341,6 +2341,40 @@ Entries in a flatfile will be parased by the BioRuby's Bio::FlatFile.auto module
 |project_uri|https://rubygems.org/gems/bio-sge|
 |gem_uri|https://rubygems.org/gems/bio-sge-0.0.0.gem|
 |dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.5.2"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[]}|
+
+</details>
+
+## bio-dbla-classifier
+
+[![Gem Version](https://badge.fury.io/rb/bio-dbla-classifier.svg)](https://badge.fury.io/rb/bio-dbla-classifier)
+![Year](https://img.shields.io/static/v1?label=date&message=2013-02-22&color=blue)
+![Code Size](https://tokei.rs/b1/github/georgeG/bioruby-dbla-classifier)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-dbla-classifier)
+
+Methods to classify and manipulate PfEMP1 DBL-alpha sequence tags
+
+* URL: [http://github.com/georgeG/bioruby-dbla-classifier](http://github.com/georgeG/bioruby-dbla-classifier)
+* Authors: George Githinji
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-dbla-classifier|
+|downloads|27618|
+|version|0.7.1|
+|version_created_at|2013-02-22T09:40:39.257Z|
+|version_downloads|5353|
+|platform|ruby|
+|licenses|["Ruby"]|
+|metadata|{"homepage_uri"=>"http://github.com/georgeG/bioruby-dbla-classifier"}|
+|yanked|false|
+|sha|be5f1c68997909ec02ade7697585f98c29fb802752c3dbf3f40a75a57034c57e|
+|spec_sha|b6593a8c954839981a39e4663fd44c428fd83f01470421c94a5f79ea9393a7b4|
+|project_uri|https://rubygems.org/gems/bio-dbla-classifier|
+|gem_uri|https://rubygems.org/gems/bio-dbla-classifier-0.7.1.gem|
+|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>">= 1.0.22"}, {"name"=>"jeweler", "requirements"=>">= 1.6.4"}, {"name"=>"rake", "requirements"=>">= 0.9.2.2"}, {"name"=>"rspec", "requirements"=>">= 2.8.0"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 1.4.3"}]}|
 
 </details>
 
@@ -2377,37 +2411,38 @@ Encode any message string into a DNA sequence
 
 </details>
 
-## bio-dbla-classifier
+## bio-kmer_counter
 
-[![Gem Version](https://badge.fury.io/rb/bio-dbla-classifier.svg)](https://badge.fury.io/rb/bio-dbla-classifier)
-![Year](https://img.shields.io/static/v1?label=date&message=2013-02-22&color=blue)
-![Code Size](https://tokei.rs/b1/github/georgeG/bioruby-dbla-classifier)
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-dbla-classifier)
+[![Gem Version](https://badge.fury.io/rb/bio-kmer_counter.svg)](https://badge.fury.io/rb/bio-kmer_counter)
+![Year](https://img.shields.io/static/v1?label=date&message=2013-05-30&color=blue)
+![Code Size](https://tokei.rs/b1/github/wwood/bioruby-kmer_counter)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-kmer_counter)
 
-Methods to classify and manipulate PfEMP1 DBL-alpha sequence tags
+A biogem for counting small kmers for fingerprinting nucleotide sequences. See README for details.
 
-* URL: [http://github.com/georgeG/bioruby-dbla-classifier](http://github.com/georgeG/bioruby-dbla-classifier)
-* Authors: George Githinji
+* URL: [http://github.com/wwood/bioruby-kmer_counter](http://github.com/wwood/bioruby-kmer_counter)
+* Authors: Ben J Woodcroft
 
 <details>
 <summary><b>table</b></summary>
 
 |key|value|
 |---|-----|
-|name|bio-dbla-classifier|
-|downloads|27616|
-|version|0.7.1|
-|version_created_at|2013-02-22T09:40:39.257Z|
-|version_downloads|5353|
+|name|bio-kmer_counter|
+|downloads|26621|
+|version|0.1.2|
+|version_created_at|2013-05-30T04:06:14.659Z|
+|version_downloads|5526|
 |platform|ruby|
-|licenses|["Ruby"]|
-|metadata|{"homepage_uri"=>"http://github.com/georgeG/bioruby-dbla-classifier"}|
+|licenses|["MIT"]|
+|metadata|{}|
 |yanked|false|
-|sha|be5f1c68997909ec02ade7697585f98c29fb802752c3dbf3f40a75a57034c57e|
-|spec_sha|b6593a8c954839981a39e4663fd44c428fd83f01470421c94a5f79ea9393a7b4|
-|project_uri|https://rubygems.org/gems/bio-dbla-classifier|
-|gem_uri|https://rubygems.org/gems/bio-dbla-classifier-0.7.1.gem|
-|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>">= 1.0.22"}, {"name"=>"jeweler", "requirements"=>">= 1.6.4"}, {"name"=>"rake", "requirements"=>">= 0.9.2.2"}, {"name"=>"rspec", "requirements"=>">= 2.8.0"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 1.4.3"}]}|
+|sha|fdc8fd8bea74a468545f05d9b12375f65657dffcffd7c1dd25ee2af423b27826|
+|spec_sha|8f390f858fa40c570d761d9a8686e101be7757b18131bc18dd80f609153d7179|
+|project_uri|https://rubygems.org/gems/bio-kmer_counter|
+|gem_uri|https://rubygems.org/gems/bio-kmer_counter-0.1.2.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-kmer_counter/0.1.2|
+|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>">= 1.0.21"}, {"name"=>"jeweler", "requirements"=>">= 1.8.3"}, {"name"=>"rdoc", "requirements"=>">= 3.12"}, {"name"=>"rdoc", "requirements"=>">= 3.12"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bio-logger", "requirements"=>">= 1.0.1"}, {"name"=>"parallel", "requirements"=>">= 0.5.17"}, {"name"=>"progressbar", "requirements"=>">= 0.11.0"}]}|
 
 </details>
 
@@ -2429,10 +2464,10 @@ Wrapper around the ExportPred algorithm for predicting P. falciparum exported pr
 |key|value|
 |---|-----|
 |name|bio-exportpred|
-|downloads|6188|
+|downloads|6189|
 |version|0.0.1|
 |version_created_at|2012-01-20T01:00:12.037Z|
-|version_downloads|6188|
+|version_downloads|6189|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/wwood/bioruby-exportpred"}|
 |yanked|false|
@@ -2441,41 +2476,6 @@ Wrapper around the ExportPred algorithm for predicting P. falciparum exported pr
 |project_uri|https://rubygems.org/gems/bio-exportpred|
 |gem_uri|https://rubygems.org/gems/bio-exportpred-0.0.1.gem|
 |dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.6.4"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[]}|
-
-</details>
-
-## bio-kmer_counter
-
-[![Gem Version](https://badge.fury.io/rb/bio-kmer_counter.svg)](https://badge.fury.io/rb/bio-kmer_counter)
-![Year](https://img.shields.io/static/v1?label=date&message=2013-05-30&color=blue)
-![Code Size](https://tokei.rs/b1/github/wwood/bioruby-kmer_counter)
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-kmer_counter)
-
-A biogem for counting small kmers for fingerprinting nucleotide sequences. See README for details.
-
-* URL: [http://github.com/wwood/bioruby-kmer_counter](http://github.com/wwood/bioruby-kmer_counter)
-* Authors: Ben J Woodcroft
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-kmer_counter|
-|downloads|26619|
-|version|0.1.2|
-|version_created_at|2013-05-30T04:06:14.659Z|
-|version_downloads|5526|
-|platform|ruby|
-|licenses|["MIT"]|
-|metadata|{}|
-|yanked|false|
-|sha|fdc8fd8bea74a468545f05d9b12375f65657dffcffd7c1dd25ee2af423b27826|
-|spec_sha|8f390f858fa40c570d761d9a8686e101be7757b18131bc18dd80f609153d7179|
-|project_uri|https://rubygems.org/gems/bio-kmer_counter|
-|gem_uri|https://rubygems.org/gems/bio-kmer_counter-0.1.2.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-kmer_counter/0.1.2|
-|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>">= 1.0.21"}, {"name"=>"jeweler", "requirements"=>">= 1.8.3"}, {"name"=>"rdoc", "requirements"=>">= 3.12"}, {"name"=>"rdoc", "requirements"=>">= 3.12"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bio-logger", "requirements"=>">= 1.0.1"}, {"name"=>"parallel", "requirements"=>">= 0.5.17"}, {"name"=>"progressbar", "requirements"=>">= 0.11.0"}]}|
 
 </details>
 
@@ -2497,10 +2497,10 @@ Meta package for BioLinux distribution: bio-core, bio-core-ext
 |key|value|
 |---|-----|
 |name|bio-biolinux|
-|downloads|6122|
+|downloads|6123|
 |version|0.1.0|
 |version_created_at|2011-09-24T13:03:12.725Z|
-|version_downloads|6122|
+|version_downloads|6123|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/helios/bioruby-biolinux"}|
 |yanked|false|
@@ -2509,39 +2509,6 @@ Meta package for BioLinux distribution: bio-core, bio-core-ext
 |project_uri|https://rubygems.org/gems/bio-biolinux|
 |gem_uri|https://rubygems.org/gems/bio-biolinux-0.1.0.gem|
 |dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.6.4"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[{"name"=>"bio-core", "requirements"=>"= 0.0.1"}, {"name"=>"bio-core-ext", "requirements"=>"= 0.0.1"}]}|
-
-</details>
-
-## bio-ensembl
-
-[![Gem Version](https://badge.fury.io/rb/bio-ensembl.svg)](https://badge.fury.io/rb/bio-ensembl)
-![Year](https://img.shields.io/static/v1?label=date&message=2011-12-06&color=blue)
-![Code Size](https://tokei.rs/b1/github/fstrozzi/bioruby-ensembl)
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-ensembl)
-
-This API provides a complete set of methods and classes to access the Ensembl database using Ruby programming language
-
-* URL: [http://github.com/fstrozzi/bioruby-ensembl](http://github.com/fstrozzi/bioruby-ensembl)
-* Authors: Jan Aerts, Francesco Strozzi
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-ensembl|
-|downloads|6061|
-|version|1.1.0|
-|version_created_at|2011-12-06T14:58:11.373Z|
-|version_downloads|6061|
-|platform|ruby|
-|metadata|{"homepage_uri"=>"http://github.com/fstrozzi/bioruby-ensembl"}|
-|yanked|false|
-|sha|1a8037bfc6030278c8be07b9ee51af40e2901d91a16f4cd86298c1e7e4ffeac0|
-|spec_sha|81090a9273c1ea3b3dcd77fe9760b5e4ce64cc469c5128297606feb166d90745|
-|project_uri|https://rubygems.org/gems/bio-ensembl|
-|gem_uri|https://rubygems.org/gems/bio-ensembl-1.1.0.gem|
-|dependencies|{"development"=>[{"name"=>"activerecord", "requirements"=>"= 3.0.0"}, {"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.5.2"}, {"name"=>"mysql", "requirements"=>">= 0"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[{"name"=>"activerecord", "requirements"=>"= 3.0.0"}, {"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"mysql", "requirements"=>">= 0"}]}|
 
 </details>
 
@@ -2580,6 +2547,39 @@ GEMMA wrapper adds LOCO and permutation support. Also runs in parallel and cache
 
 </details>
 
+## bio-ensembl
+
+[![Gem Version](https://badge.fury.io/rb/bio-ensembl.svg)](https://badge.fury.io/rb/bio-ensembl)
+![Year](https://img.shields.io/static/v1?label=date&message=2011-12-06&color=blue)
+![Code Size](https://tokei.rs/b1/github/fstrozzi/bioruby-ensembl)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-ensembl)
+
+This API provides a complete set of methods and classes to access the Ensembl database using Ruby programming language
+
+* URL: [http://github.com/fstrozzi/bioruby-ensembl](http://github.com/fstrozzi/bioruby-ensembl)
+* Authors: Jan Aerts, Francesco Strozzi
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-ensembl|
+|downloads|6062|
+|version|1.1.0|
+|version_created_at|2011-12-06T14:58:11.373Z|
+|version_downloads|6062|
+|platform|ruby|
+|metadata|{"homepage_uri"=>"http://github.com/fstrozzi/bioruby-ensembl"}|
+|yanked|false|
+|sha|1a8037bfc6030278c8be07b9ee51af40e2901d91a16f4cd86298c1e7e4ffeac0|
+|spec_sha|81090a9273c1ea3b3dcd77fe9760b5e4ce64cc469c5128297606feb166d90745|
+|project_uri|https://rubygems.org/gems/bio-ensembl|
+|gem_uri|https://rubygems.org/gems/bio-ensembl-1.1.0.gem|
+|dependencies|{"development"=>[{"name"=>"activerecord", "requirements"=>"= 3.0.0"}, {"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.5.2"}, {"name"=>"mysql", "requirements"=>">= 0"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[{"name"=>"activerecord", "requirements"=>"= 3.0.0"}, {"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"mysql", "requirements"=>">= 0"}]}|
+
+</details>
+
 ## bio-hydropathy
 
 [![Gem Version](https://badge.fury.io/rb/bio-hydropathy.svg)](https://badge.fury.io/rb/bio-hydropathy)
@@ -2598,10 +2598,10 @@ Hydropathy scale for BioRuby
 |key|value|
 |---|-----|
 |name|bio-hydropathy|
-|downloads|5997|
+|downloads|5999|
 |version|0.0.1|
 |version_created_at|2012-01-26T06:26:30.290Z|
-|version_downloads|5997|
+|version_downloads|5999|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/wwood/bioruby-hydropathy"}|
 |yanked|false|
@@ -2631,10 +2631,10 @@ decoding the dbSNP bitfield containg detaild information
 |key|value|
 |---|-----|
 |name|bio-dbsnp|
-|downloads|5983|
+|downloads|5985|
 |version|0.1.1|
 |version_created_at|2011-11-03T13:42:06.325Z|
-|version_downloads|5983|
+|version_downloads|5985|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/misshie/bioruby-dbsnp"}|
 |yanked|false|
@@ -2643,39 +2643,6 @@ decoding the dbSNP bitfield containg detaild information
 |project_uri|https://rubygems.org/gems/bio-dbsnp|
 |gem_uri|https://rubygems.org/gems/bio-dbsnp-0.1.1.gem|
 |dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.6.4"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"rspec", "requirements"=>"~> 2.3.0"}], "runtime"=>[]}|
-
-</details>
-
-## bio-phyloxml
-
-[![Gem Version](https://badge.fury.io/rb/bio-phyloxml.svg)](https://badge.fury.io/rb/bio-phyloxml)
-![Year](https://img.shields.io/static/v1?label=date&message=2012-05-24&color=blue)
-![Code Size](https://tokei.rs/b1/github/csw/bioruby-phyloxml)
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-phyloxml)
-
-Provides PhyloXML support for BioRuby.
-
-* URL: [http://github.com/csw/bioruby-phyloxml](http://github.com/csw/bioruby-phyloxml)
-* Authors: Diana Jaunzeikare, Clayton Wheeler
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-phyloxml|
-|downloads|5952|
-|version|0.9.0|
-|version_created_at|2012-05-24T17:03:43.643Z|
-|version_downloads|5952|
-|platform|ruby|
-|metadata|{"homepage_uri"=>"http://github.com/csw/bioruby-phyloxml"}|
-|yanked|false|
-|sha|d56ac15a573582782ca25d697a839345c832a201180fc4a89d4cdacdf3662e8d|
-|spec_sha|8e42a3bcf740cd90b86770a3c38d056ae4f6cd50516159c828c083f78cae0432|
-|project_uri|https://rubygems.org/gems/bio-phyloxml|
-|gem_uri|https://rubygems.org/gems/bio-phyloxml-0.9.0.gem|
-|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>"~> 1.1.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.8.3"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}], "runtime"=>[{"name"=>"bio", "requirements"=>"~> 1.4.2"}, {"name"=>"libxml-ruby", "requirements"=>"~> 2.3.2"}]}|
 
 </details>
 
@@ -2697,10 +2664,10 @@ Statsample-GLM is an extension to Statsample, an advance statistics suite in Rub
 |key|value|
 |---|-----|
 |name|bio-statsample-glm|
-|downloads|25371|
+|downloads|25451|
 |version|0.1.1|
 |version_created_at|2013-09-23T12:15:20.766Z|
-|version_downloads|21550|
+|version_downloads|21629|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -2711,6 +2678,39 @@ Statsample-GLM is an extension to Statsample, an advance statistics suite in Rub
 |gem_uri|https://rubygems.org/gems/bio-statsample-glm-0.1.1.gem|
 |documentation_uri|https://www.rubydoc.info/gems/bio-statsample-glm/0.1.1|
 |dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>"~> 1.3.5"}, {"name"=>"cucumber", "requirements"=>">= 0"}, {"name"=>"jeweler", "requirements"=>"~> 1.8.4"}, {"name"=>"minitest", "requirements"=>"~> 4.7.5"}, {"name"=>"mocha", "requirements"=>"~> 0.14.0"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[{"name"=>"activesupport", "requirements"=>"= 3.2.10"}, {"name"=>"statsample", "requirements"=>">= 1.2.0"}]}|
+
+</details>
+
+## bio-phyloxml
+
+[![Gem Version](https://badge.fury.io/rb/bio-phyloxml.svg)](https://badge.fury.io/rb/bio-phyloxml)
+![Year](https://img.shields.io/static/v1?label=date&message=2012-05-24&color=blue)
+![Code Size](https://tokei.rs/b1/github/csw/bioruby-phyloxml)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-phyloxml)
+
+Provides PhyloXML support for BioRuby.
+
+* URL: [http://github.com/csw/bioruby-phyloxml](http://github.com/csw/bioruby-phyloxml)
+* Authors: Diana Jaunzeikare, Clayton Wheeler
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-phyloxml|
+|downloads|5953|
+|version|0.9.0|
+|version_created_at|2012-05-24T17:03:43.643Z|
+|version_downloads|5953|
+|platform|ruby|
+|metadata|{"homepage_uri"=>"http://github.com/csw/bioruby-phyloxml"}|
+|yanked|false|
+|sha|d56ac15a573582782ca25d697a839345c832a201180fc4a89d4cdacdf3662e8d|
+|spec_sha|8e42a3bcf740cd90b86770a3c38d056ae4f6cd50516159c828c083f78cae0432|
+|project_uri|https://rubygems.org/gems/bio-phyloxml|
+|gem_uri|https://rubygems.org/gems/bio-phyloxml-0.9.0.gem|
+|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>"~> 1.1.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.8.3"}, {"name"=>"rdoc", "requirements"=>"~> 3.12"}], "runtime"=>[{"name"=>"bio", "requirements"=>"~> 1.4.2"}, {"name"=>"libxml-ruby", "requirements"=>"~> 2.3.2"}]}|
 
 </details>
 
@@ -2732,10 +2732,10 @@ longer description of your gem
 |key|value|
 |---|-----|
 |name|bio-foo|
-|downloads|5888|
+|downloads|5889|
 |version|0.0.0|
 |version_created_at|2011-11-01T22:31:24.748Z|
-|version_downloads|5888|
+|version_downloads|5889|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/ktym/bioruby-foo"}|
 |yanked|false|
@@ -2765,10 +2765,10 @@ A Jruby wrapper to Incanter lib
 |key|value|
 |---|-----|
 |name|bio-incanter|
-|downloads|5812|
+|downloads|5813|
 |version|0.1.0|
 |version_created_at|2012-08-06T15:08:41.459Z|
-|version_downloads|5812|
+|version_downloads|5813|
 |platform|ruby|
 |metadata|{"wiki_uri"=>"https://github.com/cerbero/bioruby-incanter/wiki", "homepage_uri"=>"http://github.com/cerbero/bio-incanter", "bug_tracker_uri"=>"", "source_code_uri"=>"https://github.com/cerbero/bioruby-incanter", "mailing_list_uri"=>"", "documentation_uri"=>"https://github.com/cerbero/bioruby-incanter/tree/master/doc"}|
 |yanked|false|
@@ -2801,10 +2801,10 @@ Parses stockholm sequence alignment format
 |key|value|
 |---|-----|
 |name|bio-stockholm|
-|downloads|5745|
+|downloads|5746|
 |version|0.0.1|
 |version_created_at|2013-06-19T03:43:25.646Z|
-|version_downloads|5745|
+|version_downloads|5746|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -2836,10 +2836,10 @@ Genomic interval overlap queries
 |key|value|
 |---|-----|
 |name|bio-cgranges|
-|downloads|5471|
+|downloads|5473|
 |version|0.0.4|
 |version_created_at|2024-09-19T06:13:06.640Z|
-|version_downloads|1063|
+|version_downloads|1064|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -2910,10 +2910,10 @@ Just a test
 |key|value|
 |---|-----|
 |name|bio-raxml|
-|downloads|5163|
+|downloads|5164|
 |version|0.1.0|
 |version_created_at|2013-07-16T13:26:18.440Z|
-|version_downloads|5163|
+|version_downloads|5164|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -2945,10 +2945,10 @@ Bindings to some internals of the velvet assembler.
 |key|value|
 |---|-----|
 |name|bio-velvet_underground|
-|downloads|21076|
+|downloads|21077|
 |version|0.3.1|
 |version_created_at|2016-08-01T11:19:19.014Z|
-|version_downloads|3912|
+|version_downloads|3913|
 |platform|ruby|
 |licenses|["GPL"]|
 |metadata|{}|
@@ -2980,10 +2980,10 @@ Parse publications for gene names in a fuzzy fashion
 |key|value|
 |---|-----|
 |name|bio-exominer|
-|downloads|4996|
+|downloads|4997|
 |version|0.0.3|
 |version_created_at|2014-03-01T11:36:57.822Z|
-|version_downloads|4996|
+|version_downloads|4997|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -3048,10 +3048,10 @@ ools to work with fasta files, indexed with samtools. The initial releases depen
 |key|value|
 |---|-----|
 |name|bio-faidx|
-|downloads|4681|
+|downloads|4683|
 |version|0.0.1|
 |version_created_at|2014-10-07T14:56:44.542Z|
-|version_downloads|4681|
+|version_downloads|4683|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -3083,10 +3083,10 @@ Basic wrapper for the Kallistio Mapper
 |key|value|
 |---|-----|
 |name|bio-kallisto|
-|downloads|4565|
+|downloads|4566|
 |version|0.1.0|
 |version_created_at|2015-10-05T21:50:10.764Z|
-|version_downloads|4565|
+|version_downloads|4566|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -3118,10 +3118,10 @@ a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and overlap
 |key|value|
 |---|-----|
 |name|bio-genomic-interval|
-|downloads|18536|
+|downloads|18537|
 |version|0.1.2|
 |version_created_at|2011-04-20T06:56:14.307Z|
-|version_downloads|9169|
+|version_downloads|9170|
 |platform|ruby|
 |metadata|{"wiki_uri"=>"http://bioruby.open-bio.org/wiki/Plugins", "homepage_uri"=>"http://github.com/misshie/bioruby-genomic-interval", "bug_tracker_uri"=>"", "source_code_uri"=>"https://github.com/misshie/bioruby-genomic-interval", "mailing_list_uri"=>"http://lists.open-bio.org/mailman/listinfo/bioruby", "documentation_uri"=>"https://github.com/misshie/bioruby-genomic-interval"}|
 |yanked|false|
@@ -3134,6 +3134,41 @@ a BioRuby plugin: handling genomic intervals,such as "chr1:123-456", and overlap
 |mailing_list_uri|http://lists.open-bio.org/mailman/listinfo/bioruby|
 |source_code_uri|https://github.com/misshie/bioruby-genomic-interval|
 |dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.5.2"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"rspec", "requirements"=>"~> 2.3.0"}], "runtime"=>[]}|
+
+</details>
+
+## bio-picard
+
+[![Gem Version](https://badge.fury.io/rb/bio-picard.svg)](https://badge.fury.io/rb/bio-picard)
+![Year](https://img.shields.io/static/v1?label=date&message=2015-05-21&color=blue)
+![Code Size]()
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-picard)
+
+API of Picard tool
+
+* URL: [http://rubygems.org/gems/bio-picard](http://rubygems.org/gems/bio-picard)
+* Authors: Natapol Pornputtapong
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-picard|
+|downloads|4472|
+|version|1.131.5|
+|version_created_at|2015-05-21T05:19:08.303Z|
+|version_downloads|4296|
+|platform|ruby|
+|licenses|["GPLv3"]|
+|metadata|{"allowed_push_host"=>"TODO: Set to 'http://mygemserver.com'"}|
+|yanked|false|
+|sha|5c773ba5829bd0db9ebd15b3b5494d38c4e538a76bce62058410fc2523cc0d27|
+|spec_sha|74cec612271617e2108a94781e9a7a1d36f76ad87c1d027b5eee73c669bf2bb7|
+|project_uri|https://rubygems.org/gems/bio-picard|
+|gem_uri|https://rubygems.org/gems/bio-picard-1.131.5.gem|
+|documentation_uri|https://www.rubydoc.info/gems/bio-picard/1.131.5|
+|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>"~> 1.9"}, {"name"=>"rake", "requirements"=>"~> 10.0"}], "runtime"=>[]}|
 
 </details>
 
@@ -3172,41 +3207,6 @@ BioRuby is a library for bioinformatics (biology + information science).
 
 </details>
 
-## bio-picard
-
-[![Gem Version](https://badge.fury.io/rb/bio-picard.svg)](https://badge.fury.io/rb/bio-picard)
-![Year](https://img.shields.io/static/v1?label=date&message=2015-05-21&color=blue)
-![Code Size]()
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-picard)
-
-API of Picard tool
-
-* URL: [http://rubygems.org/gems/bio-picard](http://rubygems.org/gems/bio-picard)
-* Authors: Natapol Pornputtapong
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-picard|
-|downloads|4471|
-|version|1.131.5|
-|version_created_at|2015-05-21T05:19:08.303Z|
-|version_downloads|4295|
-|platform|ruby|
-|licenses|["GPLv3"]|
-|metadata|{"allowed_push_host"=>"TODO: Set to 'http://mygemserver.com'"}|
-|yanked|false|
-|sha|5c773ba5829bd0db9ebd15b3b5494d38c4e538a76bce62058410fc2523cc0d27|
-|spec_sha|74cec612271617e2108a94781e9a7a1d36f76ad87c1d027b5eee73c669bf2bb7|
-|project_uri|https://rubygems.org/gems/bio-picard|
-|gem_uri|https://rubygems.org/gems/bio-picard-1.131.5.gem|
-|documentation_uri|https://www.rubydoc.info/gems/bio-picard/1.131.5|
-|dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>"~> 1.9"}, {"name"=>"rake", "requirements"=>"~> 10.0"}], "runtime"=>[]}|
-
-</details>
-
 ## bio-conduit
 
 [![Gem Version](https://badge.fury.io/rb/bio-conduit.svg)](https://badge.fury.io/rb/bio-conduit)
@@ -3225,10 +3225,10 @@ A pipeline creator for bioruby
 |key|value|
 |---|-----|
 |name|bio-conduit|
-|downloads|4266|
+|downloads|4267|
 |version|1.0.0|
 |version_created_at|2015-09-04T21:01:27.480Z|
-|version_downloads|4266|
+|version_downloads|4267|
 |platform|ruby|
 |licenses|["GPL"]|
 |metadata|{}|
@@ -3260,10 +3260,10 @@ Basic tools for parsing, searching, and comparing JASPAR motifs; Based on Bio.mo
 |key|value|
 |---|-----|
 |name|bio-jaspar|
-|downloads|4181|
+|downloads|4182|
 |version|0.1.0|
 |version_created_at|2015-09-30T22:07:21.452Z|
-|version_downloads|4181|
+|version_downloads|4182|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -3334,10 +3334,10 @@ Methods for handling multiwell plate annotations, includes ranges and quadrants
 |key|value|
 |---|-----|
 |name|bio-plates|
-|downloads|3958|
+|downloads|3960|
 |version|0.2.0|
 |version_created_at|2016-01-29T11:59:43.877Z|
-|version_downloads|3958|
+|version_downloads|3960|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -3369,10 +3369,10 @@ Provides BioSQL support for BioRuby.
 |key|value|
 |---|-----|
 |name|bio-biosql|
-|downloads|3880|
+|downloads|3882|
 |version|0.0.0|
 |version_created_at|2016-06-17T03:39:50.984Z|
-|version_downloads|3880|
+|version_downloads|3882|
 |platform|ruby|
 |licenses|["Ruby"]|
 |metadata|{}|
@@ -3404,10 +3404,10 @@ Iterate through a samtools pileup file
 |key|value|
 |---|-----|
 |name|bio-pileup_iterator|
-|downloads|15224|
+|downloads|15225|
 |version|0.0.4|
 |version_created_at|2012-11-19T02:56:51.131Z|
-|version_downloads|5875|
+|version_downloads|5876|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{"homepage_uri"=>"http://github.com/wwood/bioruby-pileup_iterator"}|
@@ -3711,10 +3711,10 @@ Multiple Sequence Alignment for Ruby scripts.  Muscle found at https://www.ebi.a
 |key|value|
 |---|-----|
 |name|muscle_bio|
-|downloads|12502|
+|downloads|12503|
 |version|0.5.0|
 |version_created_at|2022-02-04T20:00:54.375Z|
-|version_downloads|3076|
+|version_downloads|3077|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -3779,7 +3779,7 @@ Parse PFAM HMM definition files so that the models can be accessible programmati
 |key|value|
 |---|-----|
 |name|bio-hmmer_model|
-|downloads|9992|
+|downloads|9993|
 |version|0.0.2|
 |version_created_at|2012-05-25T00:11:35.380Z|
 |version_downloads|5654|
@@ -3847,10 +3847,10 @@ Server for polymarker. To be used with cron
 |key|value|
 |---|-----|
 |name|bio-polymarker_db_batch|
-|downloads|30361|
+|downloads|30363|
 |version|0.5.1|
 |version_created_at|2015-03-05T21:21:12.632Z|
-|version_downloads|4356|
+|version_downloads|4357|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -3921,10 +3921,10 @@ A minimal web service on the top of sinatra to query bam files
 |key|value|
 |---|-----|
 |name|bio-samtools-server|
-|downloads|8211|
+|downloads|8212|
 |version|0.1.2|
 |version_created_at|2014-05-30T16:58:53.191Z|
-|version_downloads|4761|
+|version_downloads|4762|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -3989,10 +3989,10 @@ BioRuby plugins with dependecies from external library or tools
 |key|value|
 |---|-----|
 |name|bio-core-ext|
-|downloads|6095|
+|downloads|6096|
 |version|0.0.1|
 |version_created_at|2011-08-30T12:33:48.972Z|
-|version_downloads|6095|
+|version_downloads|6096|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/helios/bioruby-core-ext"}|
 |yanked|false|
@@ -4022,10 +4022,10 @@ A simple biogem that allows computation of the aliphatic index of a protein
 |key|value|
 |---|-----|
 |name|bio-aliphatic_index|
-|downloads|5986|
+|downloads|5987|
 |version|0.0.1|
 |version_created_at|2012-01-26T05:24:19.857Z|
-|version_downloads|5986|
+|version_downloads|5987|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/wwood/bioruby-aliphatic_index"}|
 |yanked|false|
@@ -4055,10 +4055,10 @@ Repository of tools developed at Crop Genetics in JIC to work with polyploid whe
 |key|value|
 |---|-----|
 |name|bio-polymarker|
-|downloads|1711|
+|downloads|1712|
 |version|1.3.3|
 |version_created_at|2024-09-26T15:50:49.438Z|
-|version_downloads|1118|
+|version_downloads|1119|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -4090,7 +4090,7 @@ A Ruby library for reading CD-HIT cluster reports
 |key|value|
 |---|-----|
 |name|bio-cd-hit-report|
-|downloads|18109|
+|downloads|18110|
 |version|0.1.0|
 |version_created_at|2013-04-26T19:38:24.419Z|
 |version_downloads|5688|
@@ -4124,10 +4124,10 @@ Reads metadata from Integrated Microbial Genomes (IMG) metadata files into a pro
 |key|value|
 |---|-----|
 |name|bio-img_metadata|
-|downloads|5552|
+|downloads|5553|
 |version|0.0.1|
 |version_created_at|2013-01-11T01:46:42.293Z|
-|version_downloads|5552|
+|version_downloads|5553|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{"homepage_uri"=>"http://github.com/wwood/bioruby-img_metadata"}|
@@ -4208,10 +4208,10 @@ can be checked out from svn://subversion.flymine.org/flymine
 |key|value|
 |---|-----|
 |name|intermine-bio|
-|downloads|5656|
+|downloads|5657|
 |version|0.98.1|
 |version_created_at|2011-08-02T13:19:44.373Z|
-|version_downloads|5656|
+|version_downloads|5657|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://www.intermine.org"}|
 |yanked|false|
@@ -4241,10 +4241,10 @@ This is a BioRuby plugin providing FALDO location RDF output method for Bio::Loc
 |key|value|
 |---|-----|
 |name|bio-location-rdfize|
-|downloads|4776|
+|downloads|4777|
 |version|0.0.0|
 |version_created_at|2014-11-10T08:22:26.563Z|
-|version_downloads|4776|
+|version_downloads|4777|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -4277,10 +4277,10 @@ Tools to manipulate blat files from the command line. Uses the Bio::Blat object 
 |key|value|
 |---|-----|
 |name|bio-blat-tools|
-|downloads|4555|
+|downloads|4556|
 |version|0.1.0|
 |version_created_at|2014-10-03T16:59:09.962Z|
-|version_downloads|4555|
+|version_downloads|4556|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -4312,10 +4312,10 @@ A ruby wrapper for bio SPARQL service
 |key|value|
 |---|-----|
 |name|bio-sparql-client|
-|downloads|4477|
+|downloads|4478|
 |version|0.0.1|
 |version_created_at|2016-02-19T23:12:34.800Z|
-|version_downloads|4477|
+|version_downloads|4478|
 |platform|ruby|
 |licenses|["GPL-3.0"]|
 |metadata|{}|
@@ -4347,10 +4347,10 @@ Simple classes for parsing SAM, CIGAR and MD:Z strings, including slices. Method
 |key|value|
 |---|-----|
 |name|bio-sam-mutation|
-|downloads|3911|
+|downloads|3912|
 |version|0.4.1|
 |version_created_at|2016-02-08T09:24:49.557Z|
-|version_downloads|3911|
+|version_downloads|3912|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -4382,10 +4382,10 @@ BioRuby BLAST XMLParser plugin: a plugin of BioRuby BLAST XML result parser by u
 |key|value|
 |---|-----|
 |name|bio-blast-xmlparser|
-|downloads|3766|
+|downloads|3767|
 |version|0.0.0|
 |version_created_at|2019-06-14T04:19:00.189Z|
-|version_downloads|3766|
+|version_downloads|3767|
 |platform|ruby|
 |licenses|[]|
 |metadata|{}|
@@ -4396,41 +4396,6 @@ BioRuby BLAST XMLParser plugin: a plugin of BioRuby BLAST XML result parser by u
 |gem_uri|https://rubygems.org/gems/bio-blast-xmlparser-0.0.0.gem|
 |documentation_uri|https://www.rubydoc.info/gems/bio-blast-xmlparser/0.0.0|
 |dependencies|{"development"=>[{"name"=>"bundler", "requirements"=>">= 1.15"}, {"name"=>"rake", "requirements"=>">= 10.0"}, {"name"=>"rdoc", "requirements"=>">= 5"}, {"name"=>"test-unit", "requirements"=>"~> 3"}], "runtime"=>[{"name"=>"bio", "requirements"=>">= 2.0.0"}, {"name"=>"xmlparser", "requirements"=>"~> 0.7.2"}]}|
-
-</details>
-
-## jandot-bio
-
-[![Gem Version](https://badge.fury.io/rb/jandot-bio.svg)](https://badge.fury.io/rb/jandot-bio)
-![Year](https://img.shields.io/static/v1?label=date&message=2014-08-11&color=blue)
-![Code Size](https://tokei.rs/b1/github/jandot/bioruby)
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/jandot-bio)
-
-BioRuby is a library for bioinformatics (biology + information science).
-
-* URL: [http://github.com/jandot/bioruby](http://github.com/jandot/bioruby)
-* Authors: Jan Aerts
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|jandot-bio|
-|downloads|3992|
-|version|1.2.1|
-|version_created_at|2014-08-11T03:22:52.150Z|
-|version_downloads|3992|
-|platform|ruby|
-|licenses|[]|
-|metadata|{}|
-|yanked|false|
-|sha|592fdc936d86b6b51da49d39d39e9863a7b08f7e64747d7e97b8d9c3ae54df1a|
-|spec_sha|7de87443a329c0c4d3242a9583ffecd169006d40fb4107992c30bba340a3cd64|
-|project_uri|https://rubygems.org/gems/jandot-bio|
-|gem_uri|https://rubygems.org/gems/jandot-bio-1.2.1.gem|
-|documentation_uri|https://www.rubydoc.info/gems/jandot-bio/1.2.1|
-|dependencies|{"development"=>[], "runtime"=>[]}|
 
 </details>
 
@@ -4452,10 +4417,10 @@ Enables the localisation predictor WoLF PSORT to be run locally. The algorithm i
 |key|value|
 |---|-----|
 |name|bio-wolf_psort_wrapper|
-|downloads|10466|
+|downloads|10467|
 |version|0.0.3|
 |version_created_at|2012-01-20T11:17:05.885Z|
-|version_downloads|5923|
+|version_downloads|5924|
 |platform|ruby|
 |metadata|{"homepage_uri"=>"http://github.com/wwood/bioruby-wolf_psort_wrapper"}|
 |yanked|false|
@@ -4464,6 +4429,41 @@ Enables the localisation predictor WoLF PSORT to be run locally. The algorithm i
 |project_uri|https://rubygems.org/gems/bio-wolf_psort_wrapper|
 |gem_uri|https://rubygems.org/gems/bio-wolf_psort_wrapper-0.0.3.gem|
 |dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.2"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.6.4"}, {"name"=>"rcov", "requirements"=>">= 0"}, {"name"=>"shoulda", "requirements"=>">= 0"}], "runtime"=>[]}|
+
+</details>
+
+## jandot-bio
+
+[![Gem Version](https://badge.fury.io/rb/jandot-bio.svg)](https://badge.fury.io/rb/jandot-bio)
+![Year](https://img.shields.io/static/v1?label=date&message=2014-08-11&color=blue)
+![Code Size](https://tokei.rs/b1/github/jandot/bioruby)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/jandot-bio)
+
+BioRuby is a library for bioinformatics (biology + information science).
+
+* URL: [http://github.com/jandot/bioruby](http://github.com/jandot/bioruby)
+* Authors: Jan Aerts
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|jandot-bio|
+|downloads|3993|
+|version|1.2.1|
+|version_created_at|2014-08-11T03:22:52.150Z|
+|version_downloads|3993|
+|platform|ruby|
+|licenses|[]|
+|metadata|{}|
+|yanked|false|
+|sha|592fdc936d86b6b51da49d39d39e9863a7b08f7e64747d7e97b8d9c3ae54df1a|
+|spec_sha|7de87443a329c0c4d3242a9583ffecd169006d40fb4107992c30bba340a3cd64|
+|project_uri|https://rubygems.org/gems/jandot-bio|
+|gem_uri|https://rubygems.org/gems/jandot-bio-1.2.1.gem|
+|documentation_uri|https://www.rubydoc.info/gems/jandot-bio/1.2.1|
+|dependencies|{"development"=>[], "runtime"=>[]}|
 
 </details>
 
@@ -4485,10 +4485,10 @@ Emulator that emulates Bio::Fetch object in BioRuby as if old BioRuby BioFetch s
 |key|value|
 |---|-----|
 |name|bio-old-biofetch-emulator|
-|downloads|9279|
+|downloads|9280|
 |version|1.0.0|
 |version_created_at|2016-06-13T11:44:15.157Z|
-|version_downloads|5726|
+|version_downloads|5727|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{}|
@@ -4537,6 +4537,39 @@ Interface for express beta diversity file formats
 
 </details>
 
+## bio-data-restriction_enzyme
+
+[![Gem Version](https://badge.fury.io/rb/bio-data-restriction_enzyme.svg)](https://badge.fury.io/rb/bio-data-restriction_enzyme)
+![Year](https://img.shields.io/static/v1?label=date&message=2011-09-10&color=blue)
+![Code Size](https://tokei.rs/b1/github/trevor/bioruby-data-restriction_enzyme)
+[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-data-restriction_enzyme)
+
+Restriction Enzyme Dataset from REBASE in yaml form
+
+* URL: [http://github.com/trevor/bioruby-data-restriction_enzyme](http://github.com/trevor/bioruby-data-restriction_enzyme)
+* Authors: Sir Richard J. Roberts, Trevor Wennblom
+
+<details>
+<summary><b>table</b></summary>
+
+|key|value|
+|---|-----|
+|name|bio-data-restriction_enzyme|
+|downloads|5990|
+|version|1.109.0|
+|version_created_at|2011-09-10T04:31:54.523Z|
+|version_downloads|5990|
+|platform|ruby|
+|metadata|{"homepage_uri"=>"http://github.com/trevor/bioruby-data-restriction_enzyme"}|
+|yanked|false|
+|sha|0b4698b20a2c082ad1137a2d491d52d9541ea14b0a4e9bdb52158d96a511181e|
+|spec_sha|ab988ba9cb5bad9d6902ffc6706a6b4b62aa7f4f6ebe780cd2730bb4909b4fed|
+|project_uri|https://rubygems.org/gems/bio-data-restriction_enzyme|
+|gem_uri|https://rubygems.org/gems/bio-data-restriction_enzyme-1.109.0.gem|
+|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.6.4"}, {"name"=>"rcov", "requirements"=>">= 0"}], "runtime"=>[]}|
+
+</details>
+
 ## lorem_ipsum_bio
 
 [![Gem Version](https://badge.fury.io/rb/lorem_ipsum_bio.svg)](https://badge.fury.io/rb/lorem_ipsum_bio)
@@ -4572,39 +4605,6 @@ Lorem Ipsum Bio is a toolkit for generating varied random biological sequences (
 
 </details>
 
-## bio-data-restriction_enzyme
-
-[![Gem Version](https://badge.fury.io/rb/bio-data-restriction_enzyme.svg)](https://badge.fury.io/rb/bio-data-restriction_enzyme)
-![Year](https://img.shields.io/static/v1?label=date&message=2011-09-10&color=blue)
-![Code Size](https://tokei.rs/b1/github/trevor/bioruby-data-restriction_enzyme)
-[![RubyDoc](https://img.shields.io/badge/rubydoc-blue.svg)](https://rubydoc.info/gems/bio-data-restriction_enzyme)
-
-Restriction Enzyme Dataset from REBASE in yaml form
-
-* URL: [http://github.com/trevor/bioruby-data-restriction_enzyme](http://github.com/trevor/bioruby-data-restriction_enzyme)
-* Authors: Sir Richard J. Roberts, Trevor Wennblom
-
-<details>
-<summary><b>table</b></summary>
-
-|key|value|
-|---|-----|
-|name|bio-data-restriction_enzyme|
-|downloads|5990|
-|version|1.109.0|
-|version_created_at|2011-09-10T04:31:54.523Z|
-|version_downloads|5990|
-|platform|ruby|
-|metadata|{"homepage_uri"=>"http://github.com/trevor/bioruby-data-restriction_enzyme"}|
-|yanked|false|
-|sha|0b4698b20a2c082ad1137a2d491d52d9541ea14b0a4e9bdb52158d96a511181e|
-|spec_sha|ab988ba9cb5bad9d6902ffc6706a6b4b62aa7f4f6ebe780cd2730bb4909b4fed|
-|project_uri|https://rubygems.org/gems/bio-data-restriction_enzyme|
-|gem_uri|https://rubygems.org/gems/bio-data-restriction_enzyme-1.109.0.gem|
-|dependencies|{"development"=>[{"name"=>"bio", "requirements"=>">= 1.4.1"}, {"name"=>"bundler", "requirements"=>"~> 1.0.0"}, {"name"=>"jeweler", "requirements"=>"~> 1.6.4"}, {"name"=>"rcov", "requirements"=>">= 0"}], "runtime"=>[]}|
-
-</details>
-
 ## bio-blast_seq_extract
 
 [![Gem Version](https://badge.fury.io/rb/bio-blast_seq_extract.svg)](https://badge.fury.io/rb/bio-blast_seq_extract)
@@ -4623,10 +4623,10 @@ Extract the sequence of the subjects' region based on blast search.
 |key|value|
 |---|-----|
 |name|bio-blast_seq_extract|
-|downloads|5767|
+|downloads|5768|
 |version|0.2.5|
 |version_created_at|2019-12-20T01:42:41.066Z|
-|version_downloads|2880|
+|version_downloads|2881|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{"allowed_push_host"=>"https://rubygems.org"}|
@@ -4661,10 +4661,10 @@ Wrapper of samtools for ruby.
 |key|value|
 |---|-----|
 |name|bio-samtools-wrapper|
-|downloads|883|
+|downloads|884|
 |version|2.7.0|
 |version_created_at|2024-09-25T14:01:29.076Z|
-|version_downloads|883|
+|version_downloads|884|
 |platform|ruby|
 |licenses|["GPL-3.0"]|
 |metadata|{}|
@@ -4729,10 +4729,10 @@ Hash a local PS2 BIOS dump and run basic dump-size checks. Does not include BIOS
 |key|value|
 |---|-----|
 |name|ps2_bios_checksum|
-|downloads|2248|
+|downloads|2251|
 |version|1.0.0|
 |version_created_at|2026-09-24T10:55:52.161Z|
-|version_downloads|2248|
+|version_downloads|2251|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{"homepage_uri"=>"https://allps2bios.com/ps2-bios-retroarch/", "changelog_uri"=>"https://github.com/nbkdevs/ps2-bios-assistant", "source_code_uri"=>"https://github.com/nbkdevs/ps2-bios-assistant"}|
@@ -4765,10 +4765,10 @@ A minimal and super-lightweight free Jekyll theme to create a link-in-bio websit
 |key|value|
 |---|-----|
 |name|linkhub-jekyll-theme|
-|downloads|4252|
+|downloads|4253|
 |version|0.1.6|
 |version_created_at|2024-05-22T21:47:05.862Z|
-|version_downloads|1170|
+|version_downloads|1171|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{"funding_uri"=>"https://liberapay.com/zcraber", "changelog_uri"=>"https://github.com/digitalmalayali/linkhub-jekyll-theme/blob/main/CHANGELOG.md", "bug_tracker_uri"=>"https://github.com/digitalmalayali/linkhub-jekyll-theme/issues", "source_code_uri"=>"https://github.com/digitalmalayali/linkhub-jekyll-theme", "documentation_uri"=>"https://github.com/digitalmalayali/linkhub-jekyll-theme#readme"}|
@@ -4839,10 +4839,10 @@ Provides PhyloXML support for BioRuby. This bioruby-phyloxml gem replaces old un
 |key|value|
 |---|-----|
 |name|bioruby-phyloxml|
-|downloads|4810|
+|downloads|4811|
 |version|1.0.0|
 |version_created_at|2016-06-15T15:02:23.934Z|
-|version_downloads|4810|
+|version_downloads|4811|
 |platform|ruby|
 |licenses|["Ruby"]|
 |metadata|{}|
@@ -4874,10 +4874,10 @@ Lightweight Ruby API for NCBI Eutils. This gem only provides API for NCBI Eutils
 |key|value|
 |---|-----|
 |name|eutils|
-|downloads|21653|
+|downloads|21654|
 |version|0.2.1|
 |version_created_at|2013-06-27T20:08:20.771Z|
-|version_downloads|4999|
+|version_downloads|5000|
 |platform|ruby|
 |licenses|[]|
 |metadata|{}|
@@ -4909,10 +4909,10 @@ A client for the sferik.net API: Erik Berlin's bio, GitHub contributions, projec
 |key|value|
 |---|-----|
 |name|sferik|
-|downloads|232|
+|downloads|235|
 |version|0.0.1|
 |version_created_at|2026-10-08T17:48:54.331Z|
-|version_downloads|232|
+|version_downloads|235|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{"changelog_uri"=>"https://github.com/sferik/sferik-ruby/blob/main/CHANGELOG.md", "bug_tracker_uri"=>"https://github.com/sferik/sferik-ruby/issues", "source_code_uri"=>"https://github.com/sferik/sferik-ruby", "allowed_push_host"=>"https://rubygems.org", "documentation_uri"=>"https://rubydoc.info/gems/sferik/", "rubygems_mfa_required"=>"true"}|
@@ -4990,10 +4990,10 @@ HTSlib bindings for Ruby
 |key|value|
 |---|-----|
 |name|htslib|
-|downloads|30010|
+|downloads|30013|
 |version|0.6.0|
 |version_created_at|2026-08-22T12:50:58.561Z|
-|version_downloads|541|
+|version_downloads|542|
 |platform|ruby|
 |licenses|["MIT"]|
 |metadata|{"msys2_mingw_dependencies"=>"htslib"}|
