@@ -1,9 +1,9 @@
 ---
 - name: bio
-  downloads: 893638
+  downloads: 894006
   version: 2.0.6
   version_created_at: '2025-03-08T01:15:45.822Z'
-  version_downloads: 35119
+  version_downloads: 35229
   platform: ruby
   ruby_abi:
   authors: BioRuby project
@@ -28,10 +28,10 @@
     development: []
     runtime: []
 - name: bio-samtools
-  downloads: 137774
+  downloads: 137781
   version: 2.6.2
   version_created_at: '2018-01-11T00:55:22.555Z'
-  version_downloads: 6049
+  version_downloads: 6050
   platform: ruby
   ruby_abi:
   authors: Ricardo Ramirez-Gonzalez, Dan MacLean, Raoul J.P. Bonnal
@@ -105,10 +105,10 @@
     - name: rdoc
       requirements: ">= 4.1.1, ~> 4.1.1"
 - name: bio-gadget
-  downloads: 90823
+  downloads: 90826
   version: 0.5.0
   version_created_at: '2017-02-01T14:25:16.869Z'
-  version_downloads: 3773
+  version_downloads: 3774
   platform: ruby
   ruby_abi:
   authors: Shintaro Katayama
@@ -151,10 +151,10 @@
     - name: thor
       requirements: "~> 0.19.3"
 - name: bio-bgzf
-  downloads: 77827
+  downloads: 77837
   version: 0.2.1
   version_created_at: '2012-08-06T19:05:37.870Z'
-  version_downloads: 64739
+  version_downloads: 64743
   platform: ruby
   ruby_abi:
   authors: Artem Tarasov, Clayton Wheeler
@@ -188,10 +188,10 @@
       requirements: "~> 2.10.0"
     runtime: []
 - name: bio-fastqc
-  downloads: 69162
+  downloads: 69174
   version: 0.10.8
   version_created_at: '2018-07-26T06:15:47.507Z'
-  version_downloads: 3160
+  version_downloads: 3162
   platform: ruby
   ruby_abi:
   authors: Tazro Inutano Ohta
@@ -243,10 +243,10 @@
     - name: thor
       requirements: "~> 0.19.1"
 - name: bio-svgenes
-  downloads: 68009
+  downloads: 68021
   version: 0.4.1
   version_created_at: '2014-01-06T09:45:10.714Z'
-  version_downloads: 15310
+  version_downloads: 15320
   platform: ruby
   ruby_abi:
   authors: Dan MacLean
@@ -284,7 +284,7 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-rocker
-  downloads: 60677
+  downloads: 60685
   version: 1.5.2
   version_created_at: '2019-08-15T00:50:41.492Z'
   version_downloads: 3576
@@ -316,10 +316,10 @@
     - name: rest-client
       requirements: "~> 1.7"
 - name: bio-blastxmlparser
-  downloads: 59640
+  downloads: 59652
   version: 2.0.4
   version_created_at: '2015-09-16T06:44:58.703Z'
-  version_downloads: 9393
+  version_downloads: 9396
   platform: ruby
   ruby_abi:
   authors: Pjotr Prins
@@ -349,10 +349,10 @@
     - name: nokogiri
       requirements: ">= 0"
 - name: bio-maf
-  downloads: 57300
+  downloads: 57306
   version: 1.0.1
   version_created_at: '2012-08-21T17:38:13.637Z'
-  version_downloads: 6463
+  version_downloads: 6464
   platform: ruby
   ruby_abi:
   authors: Clayton Wheeler
@@ -387,10 +387,10 @@
     - name: kyotocabinet-ruby
       requirements: "~> 1.27.1"
 - name: bio-grid
-  downloads: 51077
+  downloads: 51097
   version: 0.3.3
   version_created_at: '2012-10-25T13:35:19.450Z'
-  version_downloads: 5535
+  version_downloads: 5537
   platform: ruby
   ruby_abi:
   authors: Francesco Strozzi
@@ -427,10 +427,10 @@
     - name: uuid
       requirements: ">= 0"
 - name: bio-gff3
-  downloads: 49650
+  downloads: 49661
   version: 0.9.1
   version_created_at: '2012-08-20T09:29:57.889Z'
-  version_downloads: 6534
+  version_downloads: 6535
   platform: ruby
   ruby_abi:
   authors: Pjotr Prins
@@ -474,10 +474,10 @@
     - name: log4r
       requirements: "> 1.1.6"
 - name: bio-vcf
-  downloads: 49596
+  downloads: 49599
   version: 0.9.5
   version_created_at: '2021-01-18T08:20:08.520Z'
-  version_downloads: 8576
+  version_downloads: 8577
   platform: ruby
   ruby_abi:
   authors: Pjotr Prins
@@ -503,7 +503,7 @@
     development: []
     runtime: []
 - name: bio-band
-  downloads: 43397
+  downloads: 43401
   version: 0.1.11
   version_created_at: '2013-09-16T10:06:12.118Z'
   version_downloads: 5606
@@ -567,7 +567,7 @@
     - name: test-unit
       requirements: ">= 0"
 - name: bio-alignment
-  downloads: 41245
+  downloads: 41249
   version: 0.1.0
   version_created_at: '2017-10-10T09:36:09.884Z'
   version_downloads: 3720
@@ -595,10 +595,10 @@
     development: []
     runtime: []
 - name: bio-logger
-  downloads: 41081
+  downloads: 41089
   version: 1.0.1
   version_created_at: '2012-04-02T11:04:58.719Z'
-  version_downloads: 20300
+  version_downloads: 20304
   platform: ruby
   ruby_abi:
   authors: Pjotr Prins
@@ -678,7 +678,7 @@
     - name: bio-logger
       requirements: ">= 0"
 - name: bio-publisci
-  downloads: 36166
+  downloads: 36167
   version: 0.1.0
   version_created_at: '2013-09-20T03:34:59.554Z'
   version_downloads: 5502
@@ -753,10 +753,10 @@
     - name: sparql
       requirements: ">= 0"
 - name: bio-ngs
-  downloads: 34127
+  downloads: 34138
   version: 0.5.2
   version_created_at: '2012-06-06T13:27:18.216Z'
-  version_downloads: 6551
+  version_downloads: 6552
   platform: ruby
   ruby_abi:
   authors: Francesco Strozzi, Raoul J.P. Bonnal
@@ -847,10 +847,10 @@
     - name: thor
       requirements: "= 0.14.6"
 - name: bio-faster
-  downloads: 33147
+  downloads: 33155
   version: 0.4.5
   version_created_at: '2012-06-13T10:53:06.185Z'
-  version_downloads: 6554
+  version_downloads: 6555
   platform: ruby
   ruby_abi:
   authors: Francesco Strozzi
@@ -891,7 +891,7 @@
     - name: ffi
       requirements: ">= 0"
 - name: bio-pipengine
-  downloads: 32985
+  downloads: 32993
   version: 0.9.7
   version_created_at: '2017-08-28T08:02:35.924Z'
   version_downloads: 3285
@@ -925,10 +925,10 @@
     - name: trollop
       requirements: ">= 2.1.2"
 - name: bio-polyploid-tools
-  downloads: 134600
+  downloads: 134623
   version: 1.2.1
   version_created_at: '2021-05-10T08:28:42.442Z'
-  version_downloads: 3689
+  version_downloads: 3691
   platform: ruby
   ruby_abi:
   authors: Ricardo H.  Ramirez-Gonzalez
@@ -968,10 +968,10 @@
     - name: systemu
       requirements: ">= 2.5.2"
 - name: bio-velvet
-  downloads: 29497
+  downloads: 29502
   version: 0.6.0
   version_created_at: '2015-01-09T05:47:28.928Z'
-  version_downloads: 5216
+  version_downloads: 5217
   platform: ruby
   ruby_abi:
   authors: Ben J Woodcroft
@@ -1058,10 +1058,10 @@
     - name: bio-logger
       requirements: ">= 0"
 - name: bio-commandeer
-  downloads: 28285
+  downloads: 28288
   version: 0.4.0
   version_created_at: '2017-08-10T11:59:16.511Z'
-  version_downloads: 5920
+  version_downloads: 5922
   platform: ruby
   ruby_abi:
   authors: Ben J. Woodcroft
@@ -1099,7 +1099,7 @@
     - name: systemu
       requirements: "~> 2.6"
 - name: bio-signalp
-  downloads: 27245
+  downloads: 27248
   version: 0.3.1
   version_created_at: '2014-08-04T23:04:16.371Z'
   version_downloads: 5150
@@ -1140,7 +1140,7 @@
     - name: bio-logger
       requirements: "~> 1.0"
 - name: bio-phyta
-  downloads: 25427
+  downloads: 25430
   version: 0.9.4
   version_created_at: '2011-12-07T10:23:30.050Z'
   version_downloads: 6288
@@ -1188,10 +1188,10 @@
     - name: trollop
       requirements: ">= 1.16.2"
 - name: bio-sambamba
-  downloads: 22689
+  downloads: 22694
   version: 0.0.5
   version_created_at: '2012-08-20T08:38:29.374Z'
-  version_downloads: 5693
+  version_downloads: 5694
   platform: ruby
   ruby_abi:
   authors: Artem Tarasov
@@ -1236,7 +1236,7 @@
     - name: msgpack
       requirements: ">= 0.4.7"
 - name: bio-assembly
-  downloads: 21118
+  downloads: 21121
   version: 0.1.0
   version_created_at: '2011-01-12T18:14:20.839Z'
   version_downloads: 6617
@@ -1276,10 +1276,10 @@
     - name: bio
       requirements: ">= 1.4.1"
 - name: bio-nexml
-  downloads: 20740
+  downloads: 20744
   version: 1.1.0
   version_created_at: '2012-05-09T06:15:27.128Z'
-  version_downloads: 5956
+  version_downloads: 5957
   platform: ruby
   ruby_abi:
   authors: Rutger Vos, Anurag Priyam
@@ -1308,7 +1308,7 @@
     - name: libxml-ruby
       requirements: "= 1.1.4"
 - name: bio-ucsc-api
-  downloads: 82714
+  downloads: 82720
   version: 0.6.5
   version_created_at: '2018-05-11T08:24:36.148Z'
   version_downloads: 3643
@@ -1360,7 +1360,7 @@
     - name: safe_attributes
       requirements: "~> 1.0.10"
 - name: bio-plasmoap
-  downloads: 17337
+  downloads: 17343
   version: 0.1.1
   version_created_at: '2016-04-14T10:13:52.998Z'
   version_downloads: 4433
@@ -1401,10 +1401,10 @@
     - name: bio-signalp
       requirements: ">= 0.2.0"
 - name: bio-graphics
-  downloads: 17211
+  downloads: 17216
   version: '1.4'
   version_created_at: '2009-07-25T18:31:34.000Z'
-  version_downloads: 7195
+  version_downloads: 7197
   platform: ruby
   ruby_abi:
   authors: Jan Aerts
@@ -1471,10 +1471,10 @@
     - name: ffi
       requirements: ">= 0"
 - name: bio-octopus
-  downloads: 16209
+  downloads: 16213
   version: 0.1.1
   version_created_at: '2011-05-02T01:33:19.844Z'
-  version_downloads: 6450
+  version_downloads: 6452
   platform: ruby
   ruby_abi:
   authors: Ben J Woodcroft
@@ -1515,10 +1515,10 @@
     - name: rio
       requirements: ">= 0"
 - name: bio-krona
-  downloads: 16173
+  downloads: 16177
   version: 0.2.0
   version_created_at: '2015-12-12T02:59:51.705Z'
-  version_downloads: 4122
+  version_downloads: 4123
   platform: ruby
   ruby_abi:
   authors: Ben J. Woodcroft
@@ -1558,10 +1558,10 @@
     - name: bio
       requirements: ">= 0"
 - name: bio-bwa
-  downloads: 15842
+  downloads: 15844
   version: 0.2.2
   version_created_at: '2011-04-15T13:22:40.740Z'
-  version_downloads: 6560
+  version_downloads: 6561
   platform: ruby
   ruby_abi:
   authors: Francesco Strozzi
@@ -1603,7 +1603,7 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-lazyblastxml
-  downloads: 15201
+  downloads: 15203
   version: 0.4.0
   version_created_at: '2011-06-01T02:18:05.499Z'
   version_downloads: 6146
@@ -1645,7 +1645,7 @@
     - name: libxml-ruby
       requirements: ">= 2.0.5"
 - name: bio-liftover
-  downloads: 14842
+  downloads: 14843
   version: 1.3.0
   version_created_at: '2014-03-11T14:12:55.282Z'
   version_downloads: 4757
@@ -1689,7 +1689,7 @@
     - name: interval-tree
       requirements: ">= 0.1.3"
 - name: bio-gngm
-  downloads: 14752
+  downloads: 14755
   version: 0.2.1
   version_created_at: '2012-12-06T12:07:43.571Z'
   version_downloads: 5877
@@ -1741,10 +1741,10 @@
     - name: rinruby
       requirements: ">= 2.0.2"
 - name: bio-chembl
-  downloads: 14595
+  downloads: 14601
   version: 0.1.3
   version_created_at: '2012-07-23T14:33:41.705Z'
-  version_downloads: 5928
+  version_downloads: 5929
   platform: ruby
   ruby_abi:
   authors: Mitsuteru Nakao
@@ -1785,7 +1785,7 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-rdf
-  downloads: 14094
+  downloads: 14097
   version: 0.0.2
   version_created_at: '2012-05-23T07:44:24.909Z'
   version_downloads: 6365
@@ -1832,10 +1832,10 @@
     - name: bio-logger
       requirements: ">= 0"
 - name: bio-affy
-  downloads: 14033
+  downloads: 14037
   version: 0.5.1
   version_created_at: '2011-12-09T15:48:17.263Z'
-  version_downloads: 6250
+  version_downloads: 6251
   platform: ruby
   ruby_abi:
   authors: Pjotr Prins
@@ -1874,10 +1874,10 @@
       requirements: "~> 2.7.0"
     runtime: []
 - name: bio-locus
-  downloads: 13832
+  downloads: 13833
   version: 0.0.7
   version_created_at: '2015-09-14T10:06:07.839Z'
-  version_downloads: 6802
+  version_downloads: 6803
   platform: ruby
   ruby_abi:
   authors: Pjotr Prins
@@ -1903,7 +1903,7 @@
     development: []
     runtime: []
 - name: bio-unichem
-  downloads: 13661
+  downloads: 13662
   version: 0.3.0
   version_created_at: '2013-02-09T14:54:24.582Z'
   version_downloads: 5668
@@ -1944,7 +1944,7 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-sra
-  downloads: 13241
+  downloads: 13243
   version: 0.3.1
   version_created_at: '2015-12-21T06:44:38.882Z'
   version_downloads: 4071
@@ -1993,10 +1993,10 @@
     - name: sqlite3
       requirements: "~> 1.3"
 - name: bio-synreport
-  downloads: 13176
+  downloads: 13179
   version: 0.1.2
   version_created_at: '2013-05-16T20:23:38.911Z'
-  version_downloads: 5274
+  version_downloads: 5275
   platform: ruby
   ruby_abi:
   authors: Dan MacLean
@@ -2033,10 +2033,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-basespace-sdk
-  downloads: 45795
+  downloads: 45799
   version: 0.1.7
   version_created_at: '2013-08-08T11:09:28.252Z'
-  version_downloads: 29380
+  version_downloads: 29382
   platform: ruby
   ruby_abi:
   authors: Joachim Baran, Raoul Bonnal, Eri Kibukawa, Francesco Strozzi, Toshiaki
@@ -2079,7 +2079,7 @@
     - name: getopt
       requirements: ">= 1.4.1"
 - name: bio-twobit
-  downloads: 11657
+  downloads: 11663
   version: 0.2.4
   version_created_at: '2025-11-12T10:24:08.307Z'
   version_downloads: 489
@@ -2152,10 +2152,10 @@
     - name: bio
       requirements: ">= 1.4.2"
 - name: bio-core
-  downloads: 10848
+  downloads: 10850
   version: 0.0.1
   version_created_at: '2011-08-30T12:30:46.493Z'
-  version_downloads: 6259
+  version_downloads: 6260
   platform: ruby
   ruby_abi:
   authors: Raoul J.P. Bonnal
@@ -2204,7 +2204,7 @@
     - name: ruby-ensembl-api
       requirements: "= 1.0.1"
 - name: bio-mummer
-  downloads: 10369
+  downloads: 10370
   version: 0.2.1
   version_created_at: '2015-03-31T03:32:46.915Z'
   version_downloads: 4358
@@ -2245,10 +2245,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-gag
-  downloads: 10023
+  downloads: 10024
   version: 0.1.0
   version_created_at: '2012-11-05T23:02:37.937Z'
-  version_downloads: 5668
+  version_downloads: 5669
   platform: ruby
   ruby_abi:
   authors: Ben J Woodcroft
@@ -2293,10 +2293,10 @@
     - name: progressbar
       requirements: ">= 0"
 - name: bio-shell
-  downloads: 9304
+  downloads: 9307
   version: 1.0.1
   version_created_at: '2021-11-08T13:34:38.439Z'
-  version_downloads: 3472
+  version_downloads: 3473
   platform: ruby
   ruby_abi:
   authors: BioRuby project
@@ -2369,10 +2369,10 @@
       requirements: "~> 3.12"
     runtime: []
 - name: bio-ipcress
-  downloads: 8861
+  downloads: 8862
   version: 0.1.0
   version_created_at: '2017-01-09T05:09:25.224Z'
-  version_downloads: 3905
+  version_downloads: 3906
   platform: ruby
   ruby_abi:
   authors: Ben J Woodcroft
@@ -2450,10 +2450,10 @@
     - name: bio-samtools
       requirements: ">= 0.6.2"
 - name: bio-nwk
-  downloads: 8430
+  downloads: 8433
   version: 0.1.4
   version_created_at: '2022-04-06T07:23:50.620Z'
-  version_downloads: 1762
+  version_downloads: 1763
   platform: ruby
   ruby_abi:
   authors: Sishuo Wang
@@ -2485,11 +2485,38 @@
     - name: rspec
       requirements: "~> 3.0"
     runtime: []
+- name: bio-repeatmasker
+  downloads: 8223
+  version: 0.0.3
+  version_created_at: '2014-01-23T01:00:56.459Z'
+  version_downloads: 4752
+  platform: ruby
+  ruby_abi:
+  authors: Andrei Rozanski
+  info: A simple gem to parse, filter/search raw Repeat Masker output file from GoldenPath
+  licenses: []
+  metadata: {}
+  yanked: false
+  sha: da491643978670fa887460ce29e8bab1afd4e36c7f65b6fa0b02a39998c061db
+  spec_sha: d8db223022302a3cc641d0ba0329bb11dbf973bde9c9f81c34aacacee18257cb
+  project_uri: https://rubygems.org/gems/bio-repeatmasker
+  gem_uri: https://rubygems.org/gems/bio-repeatmasker-0.0.3.gem
+  homepage_uri: http://rubygems.org/gems/bio-repeatmasker
+  wiki_uri: https://github.com/andreirozanski/bio-repeatmasker
+  documentation_uri: https://github.com/andreirozanski/bio-repeatmasker
+  mailing_list_uri: ''
+  source_code_uri: https://github.com/andreirozanski/bio-repeatmasker
+  bug_tracker_uri: https://github.com/andreirozanski/bio-repeatmasker
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development: []
+    runtime: []
 - name: bio-statsample-glm
-  downloads: 29749
+  downloads: 29752
   version: 0.1.1
   version_created_at: '2013-09-23T12:15:20.766Z'
-  version_downloads: 25919
+  version_downloads: 25922
   platform: ruby
   ruby_abi:
   authors: Ankur Goel
@@ -2537,38 +2564,11 @@
       requirements: "= 3.2.10"
     - name: statsample
       requirements: ">= 1.2.0"
-- name: bio-repeatmasker
-  downloads: 8221
-  version: 0.0.3
-  version_created_at: '2014-01-23T01:00:56.459Z'
-  version_downloads: 4751
-  platform: ruby
-  ruby_abi:
-  authors: Andrei Rozanski
-  info: A simple gem to parse, filter/search raw Repeat Masker output file from GoldenPath
-  licenses: []
-  metadata: {}
-  yanked: false
-  sha: da491643978670fa887460ce29e8bab1afd4e36c7f65b6fa0b02a39998c061db
-  spec_sha: d8db223022302a3cc641d0ba0329bb11dbf973bde9c9f81c34aacacee18257cb
-  project_uri: https://rubygems.org/gems/bio-repeatmasker
-  gem_uri: https://rubygems.org/gems/bio-repeatmasker-0.0.3.gem
-  homepage_uri: http://rubygems.org/gems/bio-repeatmasker
-  wiki_uri: https://github.com/andreirozanski/bio-repeatmasker
-  documentation_uri: https://github.com/andreirozanski/bio-repeatmasker
-  mailing_list_uri: ''
-  source_code_uri: https://github.com/andreirozanski/bio-repeatmasker
-  bug_tracker_uri: https://github.com/andreirozanski/bio-repeatmasker
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development: []
-    runtime: []
 - name: bio-tm_hmm
-  downloads: 28511
+  downloads: 28513
   version: 0.2.4
   version_created_at: '2017-04-06T07:57:43.742Z'
-  version_downloads: 3491
+  version_downloads: 3492
   platform: ruby
   ruby_abi:
   authors: Ben J. Woodcroft
@@ -2605,7 +2605,7 @@
     - name: bio
       requirements: ">= 1.4.2"
 - name: bio-dbla-classifier
-  downloads: 27676
+  downloads: 27679
   version: 0.7.1
   version_created_at: '2013-02-22T09:40:39.257Z'
   version_downloads: 5374
@@ -2723,8 +2723,53 @@
       requirements: "~> 0.8"
     - name: parallel
       requirements: "~> 1.4"
+- name: bio-gfastqc
+  downloads: 7449
+  version: 0.0.4
+  version_created_at: '2015-06-26T10:55:54.307Z'
+  version_downloads: 4317
+  platform: ruby
+  ruby_abi:
+  authors: Raoul Jean Pierre Bonnal
+  info: Bioinformatics. Aggregate FastQC (quality control for Next Generation Sequencing
+    -NGS-) results from many different samples in a single web page, with charts and
+    tables organized and simplified. The main goal is to speed up the communication
+    process with colleagues (PIs, Biologists, BioInformaticians).
+  licenses:
+  - MIT
+  metadata: {}
+  yanked: false
+  sha: 66fe6425db289603d24533388b8c6734ca4de5a8843dbb817c6bbde4d5f71815
+  spec_sha: 9f046fdf4d7be42f707466c3a7fede4755281d51aa052c7f70a7fd1a69daa511
+  project_uri: https://rubygems.org/gems/bio-gfastqc
+  gem_uri: https://rubygems.org/gems/bio-gfastqc-0.0.4.gem
+  homepage_uri: http://github.com/helios/bioruby-gfastqc
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/bio-gfastqc/0.0.4
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bio
+      requirements: ">= 1.4.2"
+    - name: bundler
+      requirements: ">= 1.0.21"
+    - name: jeweler
+      requirements: ">= 0"
+    - name: rdoc
+      requirements: "~> 3.12"
+    - name: shoulda
+      requirements: ">= 0"
+    - name: simplecov
+      requirements: ">= 0"
+    runtime:
+    - name: rubyzip
+      requirements: ">= 0"
 - name: bio-kmer_counter
-  downloads: 26700
+  downloads: 26704
   version: 0.1.2
   version_created_at: '2013-05-30T04:06:14.659Z'
   version_downloads: 5550
@@ -2770,56 +2815,11 @@
       requirements: ">= 0.5.17"
     - name: progressbar
       requirements: ">= 0.11.0"
-- name: bio-gfastqc
-  downloads: 7447
-  version: 0.0.4
-  version_created_at: '2015-06-26T10:55:54.307Z'
-  version_downloads: 4317
-  platform: ruby
-  ruby_abi:
-  authors: Raoul Jean Pierre Bonnal
-  info: Bioinformatics. Aggregate FastQC (quality control for Next Generation Sequencing
-    -NGS-) results from many different samples in a single web page, with charts and
-    tables organized and simplified. The main goal is to speed up the communication
-    process with colleagues (PIs, Biologists, BioInformaticians).
-  licenses:
-  - MIT
-  metadata: {}
-  yanked: false
-  sha: 66fe6425db289603d24533388b8c6734ca4de5a8843dbb817c6bbde4d5f71815
-  spec_sha: 9f046fdf4d7be42f707466c3a7fede4755281d51aa052c7f70a7fd1a69daa511
-  project_uri: https://rubygems.org/gems/bio-gfastqc
-  gem_uri: https://rubygems.org/gems/bio-gfastqc-0.0.4.gem
-  homepage_uri: http://github.com/helios/bioruby-gfastqc
-  wiki_uri:
-  documentation_uri: https://www.rubydoc.info/gems/bio-gfastqc/0.0.4
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: bio
-      requirements: ">= 1.4.2"
-    - name: bundler
-      requirements: ">= 1.0.21"
-    - name: jeweler
-      requirements: ">= 0"
-    - name: rdoc
-      requirements: "~> 3.12"
-    - name: shoulda
-      requirements: ">= 0"
-    - name: simplecov
-      requirements: ">= 0"
-    runtime:
-    - name: rubyzip
-      requirements: ">= 0"
 - name: bio-gemma-wrapper
-  downloads: 26141
+  downloads: 26147
   version: 0.99.7
   version_created_at: '2024-07-06T10:28:49.963Z'
-  version_downloads: 1064
+  version_downloads: 1065
   platform: ruby
   ruby_abi:
   authors: Pjotr Prins
@@ -2845,10 +2845,10 @@
     development: []
     runtime: []
 - name: bio-executables
-  downloads: 7182
+  downloads: 7183
   version: 1.0.0
   version_created_at: '2019-06-14T05:36:59.331Z'
-  version_downloads: 4621
+  version_downloads: 4622
   platform: ruby
   ruby_abi:
   authors: BioRuby project
@@ -2922,7 +2922,7 @@
       requirements: ">= 3.0.0"
     runtime: []
 - name: bio-bigwig
-  downloads: 6956
+  downloads: 6957
   version: 0.1.3
   version_created_at: '2026-10-19T09:08:27.511Z'
   version_downloads: 226
@@ -2951,10 +2951,10 @@
     development: []
     runtime: []
 - name: bio-fasta_retrieve
-  downloads: 22963
+  downloads: 22964
   version: 0.0.7
   version_created_at: '2015-08-27T10:51:39.816Z'
-  version_downloads: 4191
+  version_downloads: 4192
   platform: ruby
   ruby_abi:
   authors: Andrei Rozanski
@@ -2983,10 +2983,10 @@
     - name: nokogiri
       requirements: ">= 1.6.6.2, ~> 1.6"
 - name: bio-sge
-  downloads: 6487
+  downloads: 6489
   version: 0.0.0
   version_created_at: '2010-12-23T23:50:10.549Z'
-  version_downloads: 6487
+  version_downloads: 6489
   platform: ruby
   ruby_abi:
   authors: Toshiaki Katayama
@@ -3025,10 +3025,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-hello
-  downloads: 6391
+  downloads: 6392
   version: 0.0.0
   version_created_at: '2010-12-31T04:24:19.169Z'
-  version_downloads: 6391
+  version_downloads: 6392
   platform: ruby
   ruby_abi:
   authors: Toshiaki Katayama
@@ -3063,10 +3063,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-exportpred
-  downloads: 6212
+  downloads: 6213
   version: 0.0.1
   version_created_at: '2012-01-20T01:00:12.037Z'
-  version_downloads: 6212
+  version_downloads: 6213
   platform: ruby
   ruby_abi:
   authors: Ben J Woodcroft
@@ -3101,11 +3101,102 @@
     - name: shoulda
       requirements: ">= 0"
     runtime: []
+- name: bio-biolinux
+  downloads: 6145
+  version: 0.1.0
+  version_created_at: '2011-09-24T13:03:12.725Z'
+  version_downloads: 6145
+  platform: ruby
+  ruby_abi:
+  authors: Raoul J.P. Bonnal
+  info: 'Meta package for BioLinux distribution: bio-core, bio-core-ext'
+  licenses:
+  metadata:
+    homepage_uri: http://github.com/helios/bioruby-biolinux
+  yanked: false
+  sha: 6bfa59585fd0701cdb311c221ccafbcdfa2bb73bb61757640f6242fe5ebb0d95
+  spec_sha: 7d0454cf41d26ca15fc1b359bffa9970e351da092b6dc4e84e8dff40699d0941
+  project_uri: https://rubygems.org/gems/bio-biolinux
+  gem_uri: https://rubygems.org/gems/bio-biolinux-0.1.0.gem
+  homepage_uri: http://github.com/helios/bioruby-biolinux
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bio
+      requirements: ">= 1.4.1"
+    - name: bundler
+      requirements: "~> 1.0.0"
+    - name: jeweler
+      requirements: "~> 1.6.4"
+    - name: rcov
+      requirements: ">= 0"
+    - name: shoulda
+      requirements: ">= 0"
+    runtime:
+    - name: bio-core
+      requirements: "= 0.0.1"
+    - name: bio-core-ext
+      requirements: "= 0.0.1"
+- name: bio-ensembl
+  downloads: 6086
+  version: 1.1.0
+  version_created_at: '2011-12-06T14:58:11.373Z'
+  version_downloads: 6086
+  platform: ruby
+  ruby_abi:
+  authors: Jan Aerts, Francesco Strozzi
+  info: This API provides a complete set of methods and classes to access the Ensembl
+    database using Ruby programming language
+  licenses:
+  metadata:
+    homepage_uri: http://github.com/fstrozzi/bioruby-ensembl
+  yanked: false
+  sha: 1a8037bfc6030278c8be07b9ee51af40e2901d91a16f4cd86298c1e7e4ffeac0
+  spec_sha: 81090a9273c1ea3b3dcd77fe9760b5e4ce64cc469c5128297606feb166d90745
+  project_uri: https://rubygems.org/gems/bio-ensembl
+  gem_uri: https://rubygems.org/gems/bio-ensembl-1.1.0.gem
+  homepage_uri: http://github.com/fstrozzi/bioruby-ensembl
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: activerecord
+      requirements: "= 3.0.0"
+    - name: bio
+      requirements: ">= 1.4.1"
+    - name: bundler
+      requirements: "~> 1.0.0"
+    - name: jeweler
+      requirements: "~> 1.5.2"
+    - name: mysql
+      requirements: ">= 0"
+    - name: rcov
+      requirements: ">= 0"
+    - name: shoulda
+      requirements: ">= 0"
+    runtime:
+    - name: activerecord
+      requirements: "= 3.0.0"
+    - name: bio
+      requirements: ">= 1.4.1"
+    - name: mysql
+      requirements: ">= 0"
 - name: bio-velvet_underground
-  downloads: 21142
+  downloads: 21148
   version: 0.3.1
   version_created_at: '2016-08-01T11:19:19.014Z'
-  version_downloads: 3935
+  version_downloads: 3937
   platform: ruby
   ruby_abi:
   authors: Ben Woodcroft
@@ -3151,138 +3242,11 @@
       requirements: "~> 0.6"
     - name: ffi
       requirements: "~> 1.9"
-- name: bio-biolinux
-  downloads: 6144
-  version: 0.1.0
-  version_created_at: '2011-09-24T13:03:12.725Z'
-  version_downloads: 6144
-  platform: ruby
-  ruby_abi:
-  authors: Raoul J.P. Bonnal
-  info: 'Meta package for BioLinux distribution: bio-core, bio-core-ext'
-  licenses:
-  metadata:
-    homepage_uri: http://github.com/helios/bioruby-biolinux
-  yanked: false
-  sha: 6bfa59585fd0701cdb311c221ccafbcdfa2bb73bb61757640f6242fe5ebb0d95
-  spec_sha: 7d0454cf41d26ca15fc1b359bffa9970e351da092b6dc4e84e8dff40699d0941
-  project_uri: https://rubygems.org/gems/bio-biolinux
-  gem_uri: https://rubygems.org/gems/bio-biolinux-0.1.0.gem
-  homepage_uri: http://github.com/helios/bioruby-biolinux
-  wiki_uri:
-  documentation_uri:
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: bio
-      requirements: ">= 1.4.1"
-    - name: bundler
-      requirements: "~> 1.0.0"
-    - name: jeweler
-      requirements: "~> 1.6.4"
-    - name: rcov
-      requirements: ">= 0"
-    - name: shoulda
-      requirements: ">= 0"
-    runtime:
-    - name: bio-core
-      requirements: "= 0.0.1"
-    - name: bio-core-ext
-      requirements: "= 0.0.1"
-- name: bio-ensembl
-  downloads: 6085
-  version: 1.1.0
-  version_created_at: '2011-12-06T14:58:11.373Z'
-  version_downloads: 6085
-  platform: ruby
-  ruby_abi:
-  authors: Jan Aerts, Francesco Strozzi
-  info: This API provides a complete set of methods and classes to access the Ensembl
-    database using Ruby programming language
-  licenses:
-  metadata:
-    homepage_uri: http://github.com/fstrozzi/bioruby-ensembl
-  yanked: false
-  sha: 1a8037bfc6030278c8be07b9ee51af40e2901d91a16f4cd86298c1e7e4ffeac0
-  spec_sha: 81090a9273c1ea3b3dcd77fe9760b5e4ce64cc469c5128297606feb166d90745
-  project_uri: https://rubygems.org/gems/bio-ensembl
-  gem_uri: https://rubygems.org/gems/bio-ensembl-1.1.0.gem
-  homepage_uri: http://github.com/fstrozzi/bioruby-ensembl
-  wiki_uri:
-  documentation_uri:
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: activerecord
-      requirements: "= 3.0.0"
-    - name: bio
-      requirements: ">= 1.4.1"
-    - name: bundler
-      requirements: "~> 1.0.0"
-    - name: jeweler
-      requirements: "~> 1.5.2"
-    - name: mysql
-      requirements: ">= 0"
-    - name: rcov
-      requirements: ">= 0"
-    - name: shoulda
-      requirements: ">= 0"
-    runtime:
-    - name: activerecord
-      requirements: "= 3.0.0"
-    - name: bio
-      requirements: ">= 1.4.1"
-    - name: mysql
-      requirements: ">= 0"
-- name: bio-isoelectric_point
-  downloads: 20693
-  version: 0.1.3
-  version_created_at: '2012-03-01T06:16:49.922Z'
-  version_downloads: 6616
-  platform: ruby
-  ruby_abi:
-  authors: George Githinji, Pascal Betz
-  info: 'A bioruby plugin for calculating the isoelectric point of a protein '
-  licenses:
-  metadata:
-    homepage_uri: http://github.com/georgeG/bioruby-isoelectric_point
-  yanked: false
-  sha: 744f197fb06803c78d41dc6dbab1aec14070d059ab6dff0c778b2d32a9875659
-  spec_sha: c3fd36909dfd493da387f33e1dd140930d3de76ba519e7618e30719fbcc6f1eb
-  project_uri: https://rubygems.org/gems/bio-isoelectric_point
-  gem_uri: https://rubygems.org/gems/bio-isoelectric_point-0.1.3.gem
-  homepage_uri: http://github.com/georgeG/bioruby-isoelectric_point
-  wiki_uri:
-  documentation_uri:
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: bio
-      requirements: ">= 1.4.2"
-    - name: bundler
-      requirements: "~> 1.0.22"
-    - name: jeweler
-      requirements: "~> 1.8.3"
-    - name: shoulda
-      requirements: "~> 2.11.3"
-    runtime: []
 - name: bio-hydropathy
-  downloads: 6024
+  downloads: 6025
   version: 0.0.1
   version_created_at: '2012-01-26T06:26:30.290Z'
-  version_downloads: 6024
+  version_downloads: 6025
   platform: ruby
   ruby_abi:
   authors: Ben J Woodcroft
@@ -3317,10 +3281,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-dbsnp
-  downloads: 6009
+  downloads: 6010
   version: 0.1.1
   version_created_at: '2011-11-03T13:42:06.325Z'
-  version_downloads: 6009
+  version_downloads: 6010
   platform: ruby
   ruby_abi:
   authors: Hiroyuki Mishima
@@ -3355,10 +3319,10 @@
       requirements: "~> 2.3.0"
     runtime: []
 - name: bio-phyloxml
-  downloads: 5985
+  downloads: 5987
   version: 0.9.0
   version_created_at: '2012-05-24T17:03:43.643Z'
-  version_downloads: 5985
+  version_downloads: 5987
   platform: ruby
   ruby_abi:
   authors: Diana Jaunzeikare, Clayton Wheeler
@@ -3392,11 +3356,47 @@
       requirements: "~> 1.4.2"
     - name: libxml-ruby
       requirements: "~> 2.3.2"
+- name: bio-isoelectric_point
+  downloads: 20699
+  version: 0.1.3
+  version_created_at: '2012-03-01T06:16:49.922Z'
+  version_downloads: 6618
+  platform: ruby
+  ruby_abi:
+  authors: George Githinji, Pascal Betz
+  info: 'A bioruby plugin for calculating the isoelectric point of a protein '
+  licenses:
+  metadata:
+    homepage_uri: http://github.com/georgeG/bioruby-isoelectric_point
+  yanked: false
+  sha: 744f197fb06803c78d41dc6dbab1aec14070d059ab6dff0c778b2d32a9875659
+  spec_sha: c3fd36909dfd493da387f33e1dd140930d3de76ba519e7618e30719fbcc6f1eb
+  project_uri: https://rubygems.org/gems/bio-isoelectric_point
+  gem_uri: https://rubygems.org/gems/bio-isoelectric_point-0.1.3.gem
+  homepage_uri: http://github.com/georgeG/bioruby-isoelectric_point
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bio
+      requirements: ">= 1.4.2"
+    - name: bundler
+      requirements: "~> 1.0.22"
+    - name: jeweler
+      requirements: "~> 1.8.3"
+    - name: shoulda
+      requirements: "~> 2.11.3"
+    runtime: []
 - name: bio-foo
-  downloads: 5910
+  downloads: 5912
   version: 0.0.0
   version_created_at: '2011-11-01T22:31:24.748Z'
-  version_downloads: 5910
+  version_downloads: 5912
   platform: ruby
   ruby_abi:
   authors: Toshiaki Katayama
@@ -3514,10 +3514,10 @@
       requirements: "~> 2.8.0"
     runtime: []
 - name: bio-cgranges
-  downloads: 5535
+  downloads: 5539
   version: 0.0.4
   version_created_at: '2024-09-19T06:13:06.640Z'
-  version_downloads: 1086
+  version_downloads: 1087
   platform: ruby
   ruby_abi:
   authors: kojix2
@@ -3542,10 +3542,10 @@
     development: []
     runtime: []
 - name: bio-genomic-interval
-  downloads: 18580
+  downloads: 18583
   version: 0.1.2
   version_created_at: '2011-04-20T06:56:14.307Z'
-  version_downloads: 9198
+  version_downloads: 9199
   platform: ruby
   ruby_abi:
   authors: Hiroyuki Mishima
@@ -3626,10 +3626,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-exominer
-  downloads: 5019
+  downloads: 5020
   version: 0.0.3
   version_created_at: '2014-03-01T11:36:57.822Z'
-  version_downloads: 5019
+  version_downloads: 5020
   platform: ruby
   ruby_abi:
   authors: Pjotr Prins
@@ -3761,11 +3761,53 @@
     - name: simplecov
       requirements: ">= 0"
     runtime: []
+- name: bio-kallisto
+  downloads: 4593
+  version: 0.1.0
+  version_created_at: '2015-10-05T21:50:10.764Z'
+  version_downloads: 4593
+  platform: ruby
+  ruby_abi:
+  authors: homonecloco
+  info: Basic wrapper for the Kallistio Mapper
+  licenses:
+  - MIT
+  metadata: {}
+  yanked: false
+  sha: 57f668128b29f38ff47e976776c6edb544c0095482adcf7aec9fbd7c41a52b6c
+  spec_sha: 41595726fb8f9e0d5ade26ee1b4615c19e40bcb8e399122084d155c8325198fb
+  project_uri: https://rubygems.org/gems/bio-kallisto
+  gem_uri: https://rubygems.org/gems/bio-kallisto-0.1.0.gem
+  homepage_uri: http://github.com/homonecloco/bioruby-kallisto
+  wiki_uri:
+  documentation_uri: https://www.rubydoc.info/gems/bio-kallisto/0.1.0
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bio
+      requirements: ">= 1.4.2"
+    - name: bundler
+      requirements: ">= 1.0.21"
+    - name: jeweler
+      requirements: ">= 2.0.1"
+    - name: rdoc
+      requirements: "~> 3.12"
+    - name: shoulda
+      requirements: ">= 0"
+    - name: simplecov
+      requirements: ">= 0"
+    runtime:
+    - name: systemu
+      requirements: ">= 2.5.2"
 - name: bio-pileup_iterator
-  downloads: 15266
+  downloads: 15267
   version: 0.0.4
   version_created_at: '2012-11-19T02:56:51.131Z'
-  version_downloads: 5899
+  version_downloads: 5900
   platform: ruby
   ruby_abi:
   authors: Ben J. Woodcroft
@@ -3808,48 +3850,6 @@
       requirements: ">= 1.0.0"
     - name: bio-samtools
       requirements: ">= 0.5.3"
-- name: bio-kallisto
-  downloads: 4592
-  version: 0.1.0
-  version_created_at: '2015-10-05T21:50:10.764Z'
-  version_downloads: 4592
-  platform: ruby
-  ruby_abi:
-  authors: homonecloco
-  info: Basic wrapper for the Kallistio Mapper
-  licenses:
-  - MIT
-  metadata: {}
-  yanked: false
-  sha: 57f668128b29f38ff47e976776c6edb544c0095482adcf7aec9fbd7c41a52b6c
-  spec_sha: 41595726fb8f9e0d5ade26ee1b4615c19e40bcb8e399122084d155c8325198fb
-  project_uri: https://rubygems.org/gems/bio-kallisto
-  gem_uri: https://rubygems.org/gems/bio-kallisto-0.1.0.gem
-  homepage_uri: http://github.com/homonecloco/bioruby-kallisto
-  wiki_uri:
-  documentation_uri: https://www.rubydoc.info/gems/bio-kallisto/0.1.0
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: bio
-      requirements: ">= 1.4.2"
-    - name: bundler
-      requirements: ">= 1.0.21"
-    - name: jeweler
-      requirements: ">= 2.0.1"
-    - name: rdoc
-      requirements: "~> 3.12"
-    - name: shoulda
-      requirements: ">= 0"
-    - name: simplecov
-      requirements: ">= 0"
-    runtime:
-    - name: systemu
-      requirements: ">= 2.5.2"
 - name: bio-picard
   downloads: 4491
   version: 1.131.5
@@ -3884,10 +3884,10 @@
       requirements: "~> 10.0"
     runtime: []
 - name: bio-conduit
-  downloads: 4285
+  downloads: 4286
   version: 1.0.0
   version_created_at: '2015-09-04T21:01:27.480Z'
-  version_downloads: 4285
+  version_downloads: 4286
   platform: ruby
   ruby_abi:
   authors: Natapol Pornputtapong
@@ -3910,50 +3910,6 @@
   funding_uri:
   dependencies:
     development: []
-    runtime: []
-- name: bio-gff3-pltools
-  downloads: 13883
-  version: 0.3.0
-  version_created_at: '2012-08-07T13:09:30.199Z'
-  version_downloads: 5555
-  platform: ruby
-  ruby_abi:
-  authors: Marjan Povolni
-  info: Ruby wrapper for the gff3-pltools.
-  licenses:
-  metadata:
-    homepage_uri: http://mamarjan.github.com/gff3-pltools/
-  yanked: false
-  sha: 06e6a16047a54c6c73c2344e49736716460ba93bd0b0aa5fbf5947b8ac070a4a
-  spec_sha: 26538152dce220f04d80d2e9434f28666f56cdd5734262391d515533dac4cfe8
-  project_uri: https://rubygems.org/gems/bio-gff3-pltools
-  gem_uri: https://rubygems.org/gems/bio-gff3-pltools-0.3.0.gem
-  homepage_uri: http://mamarjan.github.com/gff3-pltools/
-  wiki_uri:
-  documentation_uri:
-  mailing_list_uri:
-  source_code_uri:
-  bug_tracker_uri:
-  changelog_uri:
-  funding_uri:
-  dependencies:
-    development:
-    - name: bundler
-      requirements: "~> 1.1.3"
-    - name: cucumber
-      requirements: ">= 0"
-    - name: jeweler
-      requirements: "~> 1.8.3"
-    - name: rdoc
-      requirements: "~> 3.12"
-    - name: rdoc
-      requirements: "~> 3.12"
-    - name: redcarpet
-      requirements: ">= 0"
-    - name: rspec
-      requirements: "~> 2.8.0"
-    - name: yard
-      requirements: "~> 0.7"
     runtime: []
 - name: bio-jaspar
   downloads: 4204
@@ -4000,11 +3956,55 @@
       requirements: ">= 1.4.2"
     - name: mysql2
       requirements: "~> 0.3.19"
+- name: bio-gff3-pltools
+  downloads: 13888
+  version: 0.3.0
+  version_created_at: '2012-08-07T13:09:30.199Z'
+  version_downloads: 5558
+  platform: ruby
+  ruby_abi:
+  authors: Marjan Povolni
+  info: Ruby wrapper for the gff3-pltools.
+  licenses:
+  metadata:
+    homepage_uri: http://mamarjan.github.com/gff3-pltools/
+  yanked: false
+  sha: 06e6a16047a54c6c73c2344e49736716460ba93bd0b0aa5fbf5947b8ac070a4a
+  spec_sha: 26538152dce220f04d80d2e9434f28666f56cdd5734262391d515533dac4cfe8
+  project_uri: https://rubygems.org/gems/bio-gff3-pltools
+  gem_uri: https://rubygems.org/gems/bio-gff3-pltools-0.3.0.gem
+  homepage_uri: http://mamarjan.github.com/gff3-pltools/
+  wiki_uri:
+  documentation_uri:
+  mailing_list_uri:
+  source_code_uri:
+  bug_tracker_uri:
+  changelog_uri:
+  funding_uri:
+  dependencies:
+    development:
+    - name: bundler
+      requirements: "~> 1.1.3"
+    - name: cucumber
+      requirements: ">= 0"
+    - name: jeweler
+      requirements: "~> 1.8.3"
+    - name: rdoc
+      requirements: "~> 3.12"
+    - name: rdoc
+      requirements: "~> 3.12"
+    - name: redcarpet
+      requirements: ">= 0"
+    - name: rspec
+      requirements: "~> 2.8.0"
+    - name: yard
+      requirements: "~> 0.7"
+    runtime: []
 - name: bio-ucsc-util
-  downloads: 13639
+  downloads: 13642
   version: 0.1.2
   version_created_at: '2012-10-02T16:33:16.336Z'
-  version_downloads: 5486
+  version_downloads: 5487
   platform: ruby
   ruby_abi:
   authors: throwern
@@ -4038,10 +4038,10 @@
     - name: ffi
       requirements: ">= 0"
 - name: bio-plates
-  downloads: 3979
+  downloads: 3980
   version: 0.2.0
   version_created_at: '2016-01-29T11:59:43.877Z'
-  version_downloads: 3979
+  version_downloads: 3980
   platform: ruby
   ruby_abi:
   authors: Steve Pettitt
@@ -4124,10 +4124,10 @@
     - name: composite_primary_keys
       requirements: "~> 3.1.10"
 - name: bio-biostars-analytics
-  downloads: 11617
+  downloads: 11618
   version: 0.2.0
   version_created_at: '2014-04-08T03:47:37.252Z'
-  version_downloads: 4790
+  version_downloads: 4791
   platform: ruby
   ruby_abi:
   authors: Joachim Baran
@@ -4169,10 +4169,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-kb-illumina
-  downloads: 11244
+  downloads: 11246
   version: 0.1.0
   version_created_at: '2011-01-11T12:21:53.806Z'
-  version_downloads: 6291
+  version_downloads: 6292
   platform: ruby
   ruby_abi:
   authors: Raoul J.P. Bonnal
@@ -4211,7 +4211,7 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-polymarker_db_batch
-  downloads: 30451
+  downloads: 30454
   version: 0.5.1
   version_created_at: '2015-03-05T21:21:12.632Z'
   version_downloads: 4376
@@ -4327,10 +4327,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-cnls_screenscraper
-  downloads: 10395
+  downloads: 10398
   version: 0.3.0
   version_created_at: '2012-05-06T03:59:07.038Z'
-  version_downloads: 5787
+  version_downloads: 5789
   platform: ruby
   ruby_abi:
   authors: Ben J. Woodcroft
@@ -4366,10 +4366,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-hmmer_model
-  downloads: 10021
+  downloads: 10023
   version: 0.0.2
   version_created_at: '2012-05-25T00:11:35.380Z'
-  version_downloads: 5673
+  version_downloads: 5674
   platform: ruby
   ruby_abi:
   authors: Ben J. Woodcroft
@@ -4450,10 +4450,10 @@
     - name: bio-logger
       requirements: "~> 1.0"
 - name: bio-hmmer3_report
-  downloads: 9300
+  downloads: 9301
   version: 0.1.0
   version_created_at: '2015-08-06T01:25:37.875Z'
-  version_downloads: 4717
+  version_downloads: 4718
   platform: ruby
   ruby_abi:
   authors: Christian Zmasek, Ben J Woodcroft
@@ -4492,10 +4492,10 @@
     - name: bio-logger
       requirements: "~> 1.0"
 - name: bio-ensembl-rest
-  downloads: 8787
+  downloads: 8791
   version: 0.2.0
   version_created_at: '2013-09-27T16:10:22.754Z'
-  version_downloads: 5077
+  version_downloads: 5079
   platform: ruby
   ruby_abi:
   authors: Alberto Donizetti
@@ -4576,10 +4576,10 @@
     - name: sinatra
       requirements: ">= 1.4.5"
 - name: bio-cd-hit-report
-  downloads: 18156
+  downloads: 18161
   version: 0.1.0
   version_created_at: '2013-04-26T19:38:24.419Z'
-  version_downloads: 5704
+  version_downloads: 5706
   platform: ruby
   ruby_abi:
   authors: George Githinji
@@ -4655,10 +4655,10 @@
     - name: bio-data-restriction_enzyme
       requirements: ">= 0"
 - name: bio-core-ext
-  downloads: 6122
+  downloads: 6123
   version: 0.0.1
   version_created_at: '2011-08-30T12:33:48.972Z'
-  version_downloads: 6122
+  version_downloads: 6123
   platform: ruby
   ruby_abi:
   authors: Raoul J.P. Bonnal, Pjotr Prins
@@ -4701,10 +4701,10 @@
     - name: bio-sge
       requirements: "= 0.0.0"
 - name: bio-aliphatic_index
-  downloads: 6009
+  downloads: 6010
   version: 0.0.1
   version_created_at: '2012-01-26T05:24:19.857Z'
-  version_downloads: 6009
+  version_downloads: 6010
   platform: ruby
   ruby_abi:
   authors: Ben J Woodcroft
@@ -4781,10 +4781,10 @@
       requirements: "~> 2.8.0"
     runtime: []
 - name: bio-polymarker
-  downloads: 1783
+  downloads: 1791
   version: 1.3.3
   version_created_at: '2024-09-26T15:50:49.438Z'
-  version_downloads: 1184
+  version_downloads: 1192
   platform: ruby
   ruby_abi:
   authors: Rob Ellis
@@ -4937,10 +4937,10 @@
     - name: sparql-client
       requirements: "~> 1.1"
 - name: bioruby-bio
-  downloads: 20921
+  downloads: 20926
   version: 1.3.1.5000
   version_created_at: '2014-08-11T07:28:26.580Z'
-  version_downloads: 4594
+  version_downloads: 4595
   platform: ruby
   ruby_abi:
   authors: BioRuby project
@@ -4964,10 +4964,10 @@
     development: []
     runtime: []
 - name: bio-wolf_psort_wrapper
-  downloads: 10498
+  downloads: 10500
   version: 0.0.3
   version_created_at: '2012-01-20T11:17:05.885Z'
-  version_downloads: 5944
+  version_downloads: 5945
   platform: ruby
   ruby_abi:
   authors: Ben J Woodcroft
@@ -5058,10 +5058,10 @@
     - name: trollop
       requirements: ">= 0"
 - name: bio-blast-xmlparser
-  downloads: 3786
+  downloads: 3787
   version: 0.0.0
   version_created_at: '2019-06-14T04:19:00.189Z'
-  version_downloads: 3786
+  version_downloads: 3787
   platform: ruby
   ruby_abi:
   authors: BioRuby project
@@ -5183,10 +5183,10 @@
     - name: bio-logger
       requirements: "~> 1.0"
 - name: ngoto-bio
-  downloads: 14224
+  downloads: 14228
   version: 1.3.1.5000
   version_created_at: '2014-08-10T23:36:57.916Z'
-  version_downloads: 3840
+  version_downloads: 3841
   platform: ruby
   ruby_abi:
   authors: BioRuby project
@@ -5210,10 +5210,10 @@
     development: []
     runtime: []
 - name: muscle_bio
-  downloads: 12592
+  downloads: 12594
   version: 0.5.0
   version_created_at: '2022-02-04T20:00:54.375Z'
-  version_downloads: 3118
+  version_downloads: 3120
   platform: ruby
   ruby_abi:
   authors: Michael Clark
@@ -5245,10 +5245,10 @@
       requirements: "~> 3.0"
     runtime: []
 - name: bio-data-restriction_enzyme
-  downloads: 6011
+  downloads: 6012
   version: 1.109.0
   version_created_at: '2011-09-10T04:31:54.523Z'
-  version_downloads: 6011
+  version_downloads: 6012
   platform: ruby
   ruby_abi:
   authors: Sir Richard J. Roberts, Trevor Wennblom
@@ -5281,10 +5281,10 @@
       requirements: ">= 0"
     runtime: []
 - name: bio-blast_seq_extract
-  downloads: 5795
+  downloads: 5796
   version: 0.2.5
   version_created_at: '2019-12-20T01:42:41.066Z'
-  version_downloads: 2901
+  version_downloads: 2902
   platform: ruby
   ruby_abi:
   authors: Sishuo Wang
@@ -5318,10 +5318,10 @@
       requirements: "~> 3.0"
     runtime: []
 - name: intermine-bio
-  downloads: 5681
+  downloads: 5682
   version: 0.98.1
   version_created_at: '2011-08-02T13:19:44.373Z'
-  version_downloads: 5681
+  version_downloads: 5682
   platform: ruby
   ruby_abi:
   authors: Alex Kalderimis
@@ -5367,10 +5367,10 @@
     - name: intermine
       requirements: ">= 0"
 - name: jandot-bio
-  downloads: 4013
+  downloads: 4015
   version: 1.2.1
   version_created_at: '2014-08-11T03:22:52.150Z'
-  version_downloads: 4013
+  version_downloads: 4015
   platform: ruby
   ruby_abi:
   authors: Jan Aerts
@@ -5394,10 +5394,10 @@
     development: []
     runtime: []
 - name: bio-samtools-wrapper
-  downloads: 931
+  downloads: 940
   version: 2.7.0
   version_created_at: '2024-09-25T14:01:29.076Z'
-  version_downloads: 931
+  version_downloads: 940
   platform: ruby
   ruby_abi:
   authors: Rob Ellis
@@ -5503,10 +5503,10 @@
     development: []
     runtime: []
 - name: ps2_bios_checksum
-  downloads: 2282
+  downloads: 2283
   version: 1.0.0
   version_created_at: '2026-09-24T10:55:52.161Z'
-  version_downloads: 2282
+  version_downloads: 2283
   platform: ruby
   ruby_abi:
   authors: AllPS2BIOS
@@ -5655,10 +5655,10 @@
     - name: libxml-ruby
       requirements: "~> 2.8"
 - name: eutils
-  downloads: 21705
+  downloads: 21711
   version: 0.2.1
   version_created_at: '2013-06-27T20:08:20.771Z'
-  version_downloads: 5020
+  version_downloads: 5021
   platform: ruby
   ruby_abi:
   authors: Joon Lee, aka seouri
@@ -5688,10 +5688,10 @@
     - name: activesupport
       requirements: ">= 3.0.0"
 - name: sferik
-  downloads: 272
+  downloads: 273
   version: 0.0.1
   version_created_at: '2026-10-08T17:48:54.331Z'
-  version_downloads: 272
+  version_downloads: 273
   platform: ruby
   ruby_abi:
   authors: Erik Berlin
